@@ -1,5 +1,7 @@
 # Non-Blocking Code Reviews
 
+## Principles
+
 Principle 1: Ship - Show - Ask. In majority of cases, we don’t expect a pull request to get code review before merge. We give the power to decide 
 on the individual change maker on which of the three options for 2nd pair of eyes they use and reflect on mistakes by taking weekly time to learn changes made in the codebase. 
 
