@@ -1,0 +1,24 @@
+# DoR and DoD
+
+## Principles
+
+Principle 1: No artificial or role based separation of discovery and delivery phases. While DoR (Definition of Ready) completes 
+discovery and DoD (Definition of Done) completes delivery, we move fluently from discovery to delivery within a theme and use 
+these concepts to understand how far are we. We recognise both phases require work from the same people. 
+
+Principle 2: Main readiness (DoR) criteria applied is technical proof of concept. Without technical proof of concept, we are still in discovery. 
+
+Principle 3: Discovering work while doing the work is expected. Team works together to have less to discover through 
+smaller epics with clear small steps from existing baseline. 
+
+## Practice
+
+In Discovery:
+
+* Team reads input material and clarifies and documents scope with acceptance criteria
+* Team uses Definition of Ready as proposal on the types of conversations to have. 
+
+In Delivery:
+
+* Team uses Release Definition of Done to as condensed release review template
+* Team does not use Story Definition of Done is close to a story and this checklist is used as proposal on the types of conversations to have continuously. 
