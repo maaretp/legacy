@@ -1,6 +1,7 @@
 # Improving Way of Working
 
-# Principles: 
+## Principles
+
 Principle 1: Continuous retrospectives. Suffering from problems to wait for scheduled time to talk about them is not what we do. 
 
 Principle 2: Regular time allocations to make space for improvement conversations. While we improve continuously, we also invest in improving.
