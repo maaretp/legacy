@@ -49,7 +49,7 @@ Value of testing comes from the value of information. Value exists in relation t
 
 Thinking in terms of optimizing value helps us dispel some of the common misconceptions around exploratory testing:
 
-* It isn't manual, it's attended. Automation can call you to attend.
+* It isn't manual, it's attended. Automation can call you to attend. Attended controls unattended choices. 
 
 * It isn't about error guessing. It is systematic optimization of all sources with continuous learning to do best possible testing with the time you have available, considering both short- and long-term value.
 
@@ -560,7 +560,7 @@ We find that with this constraint, people find new bugs they were not previously
 
 * lucky selection - from e-prime examples, we have observed people choosing both lucky an unlucky subsets. Unlucky subset is one where all of the picked samples work as we would expect, while those we chose to leave out we learn in another session to be broken. Taking a systematic approach to data matters. Large samples make focusing on verifying correctness harder, but also allow for serendipitous discovery of samples we could not identify thinking. Copying the Wikipedia page in its entirety is a good example of this .
 
-Note: To fix the bug, you need to fix the css (stylesheet). Change "position: fixed;" to "position: relative;". One line googleable fix. Sometimes you fixing the bug is faster than you writing a bug report.
+Note: To fix the bug, you need to fix the css (stylesheet). Change "position: fixed;" to "position: relative;". One line fix you can search online. Sometimes you fixing the bug is faster than you writing a bug report.
 
 ![Recognizing Application and Execution Environment](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oq3ezi3x4ta5266g1h7g.JPG)
 
