@@ -1,10 +1,10 @@
-# Exploratory Testing Foundations
+# Contemporary Exploratory Testing Foundations
 
 *Published: Sept 20th 2021* | *Updated: Aug 4th 2024* 
 
 * Keywords: testing, exploratorytesting, testautomation, course
 
-With so much to say and share on Exploratory Testing, what would you need to know to get started? This question lead us to summarizing basic theory on exploratory testing around one test target, and to creation of Exploratory Testing Foundations course material presented in this chapter. The course, slides and accompanying content description that together make up Exploratory Testing Foundations by Maaret Pyhäjärvi and is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) and is made available at [Exploratory Testing Academy](https://www.exploratorytestingacademy.com). Also consider [supporting me on Ko-Fi](https://ko-fi.com/maaretp).
+With so much to say and share on Exploratory Testing, what would you need to know to get started? This question lead us to summarizing basic theory on exploratory testing around one test target, and to creation of Contemporary Exploratory Testing Foundations course material presented in this section. The course, slides and accompanying content description that together make up Contemporary Exploratory Testing Foundations by Maaret Pyhäjärvi and is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) and is made available at [Exploratory Testing Academy](https://www.exploratorytestingacademy.com). Also consider [supporting me on Ko-Fi](https://ko-fi.com/maaretp).
 
 To create the course, Maaret Pyhäjärvi paired to test the application under test with the brilliant Irja Straus (Croatia), Parveen Khan (United Kingdom), Julia Durán Muñoz (Spain) and Mirja Pyhäjärvi (Finland). The application and lessons were tried with many ensemble testing groups to finally come to be summarized as part of the course. We particularly want to appreciate two open space communities in creation of this content: [Socrates UK](https://socratesuk.org) and [Friends of Good Software](https://frogsconf.nl). Both served as places to try out hands-on testing of the application to see the dynamics under various constraints.
 
@@ -28,11 +28,11 @@ The course and this section sets out to teach foundational concepts of contempor
 
 We know there is more to teach on exploratory testing than this one course includes. We will create separate similar yet different sets on different types of applications and constraints that make sense with each of those examples. We will also address Exploratory testing the Noun - organizational frame of testing - on later courses. This one focuses on Exploratory testing the Verb - doing really good work optimizing value of testing through learning while testing. We give half of this course to the constraint of test automation as documentation, as we believe that this is a core aspect of contemporary exploratory testing. You can't automate well without exploring. You can't explore well without automating.
 
-## Introduction to Exploratory Testing Foundations
+## Introduction to Contemporary Exploratory Testing Foundations
 
 ![Exploratory Testing Foundations - the Course](./slide-images/Slide1.png)
 
-Welcome to Exploratory Testing Foundations –course. This course intertwines a simple application to test with basic theory of how to do exploratory testing to give you a foundation to build on.
+Welcome to Contemporary Exploratory Testing Foundations –course. This course intertwines a simple application to test with basic theory of how to do exploratory testing to give you a foundation to build on.
 
 Exploratory testing is an approach to testing that centers learning. Test design and test execution form an inseparable pair where the application and feature we are testing is our external imagination. It takes domain knowledge, requirements and specifications, and testing knowledge as input and produces information and a better tester as an output. It also encourages us to at least consider documentation and test automation as a form of documentation.
 
@@ -42,7 +42,7 @@ This is what we fit into two days with one application. Theory and application g
 
 In it's current format, the course takes two days in a classroom to deliver with many different passes. We are working to build a video course on the scope of the course, to enable people to learn this in scale as we are unable to make space for classroom guidance for everyone - we prioritize working as testers in projects over being teachers of testing. Thus the course material is openly available to use as is, or to freely adapt to scope of your choosing. We have delivered it in 99 minute segments combining various constraints learning it takes a minimum of three sessions to go through the ensemble testing to cover the application without theory slides.
 
-Exploratory Testing Foundations by Maaret Pyhäjärvi is licensed under CC BY 4.0. To view a copy of this license, visit <http://creativecommons.org/licenses/by/4.0/>
+Contemporary Exploratory Testing Foundations by Maaret Pyhäjärvi is licensed under CC BY 4.0. To view a copy of this license, visit <http://creativecommons.org/licenses/by/4.0/>
 
 ![Optimizing Value of Testing](./slide-images/Slide2.png)
 
@@ -178,7 +178,7 @@ Working in pairs or ensemble on generating ideas, we find people do better with 
 
 ![The Target of Testing: E-Primer](./slide-images/Slide10.png)
 
-The application we test on this Exploratory Testing Foundations course is called E-Primer. It’s a little application for people who want to check their English writing to master e-prime – a way of writing English avoiding the “be” –verb in all its formats.
+The application we test on this Contemporary Exploratory Testing Foundations course is called E-Primer. It’s a little application for people who want to check their English writing to master e-prime – a way of writing English avoiding the “be” –verb in all its formats.
 
 We chose this application because we were under impression it is not target-rich application for testers. That is, it is not so full of bugs that you should consider it ridiculous.
 Having tested it, I know it has its share of issues. And to begin with, the version we styled for this course has one major issue that the original did not have and we haven't fixed it (yet).
