@@ -1,7 +1,8 @@
 # Exploring Pipelines
 
 *Published: April 2nd 2021*
-*Keywords: testing, exploratorytestingautomation, pipelines
+
+* Keywords: testing, exploratorytestingautomation, pipelines
 
 Exploring Pipelines is about putting together two things that clicked for me on one day at work. As I was digging my way through a particularly annoying and unnecessarily complicated pipeline on Jenkins jobs with various rules of when to run and where to start, I started recognizing that the efforts I was going through had a strong resemblance to exploratory testing. Exploratory testing being my favorite activity, I came to the idea that perhaps this connection could be useful to others as well. Exploratory testing is not only a part of pipelines but is an approach that drives creating more impactful pipelines that optimize the value.
 
