@@ -1,11 +1,12 @@
 # maaretp Digital Legacy
+
 The legacy project - my collection of writings, slides and articles.
 
 Everything in this repo is licensed with **Creative Commons Attribution** to allow for reuse of the knowledge I have been collecting over three decades.
 
 ## What Is This?
 
-I am turning 50 and while in full health, processing the fact that I am in fact getting older. I have a life's work of learning about software and then showing up to talk about it, and for 20 years already, I have been publishing my materials with Creative Commons Attribution -license. Publishing in the sense that people would need to ask me for what is on my drive, and frankly that is not the mess I want to leave behind in case I was not around to deal with it myself.
+I have been at this thing called testing a while and while in full health, processing the fact that I am in fact getting older. I have a life's work of learning about software and then showing up to talk about it, and for 20 years already, I have been publishing my materials with Creative Commons Attribution -license. Publishing in the sense that people would need to ask me for what is on my drive, and frankly that is not the mess I want to leave behind in case I was not around to deal with it myself.
 
 I framed the use of this license for two purposes 20 years ago:
 
@@ -29,3 +30,7 @@ I have full courses on various topics. The most recent and decently packaged one
 ### Exercises
 
 This folder will hold guides to exercises, like how I run coverage exercise around Gilded Rose or assess Testing Hats to share versatility of tasks in testing in a team.
+
+### Archives
+
+This folder holds my twitter and mastodon public notes that I have not yet processed into more consumable formats. I take public notes on what I learn and think, and want to have opportunity to learn from patterns over time even when I change tools for ideological reasons. 
