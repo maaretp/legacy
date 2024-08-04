@@ -1,7 +1,9 @@
 # Exploratory Testing Foundations
 
 *Published: Sept 20th 2021*
-*Keywords: testing, exploratorytesting, testautomation, course
+*Updated: Aug 4th 2024* 
+
+* Keywords: testing, exploratorytesting, testautomation, course
 
 With so much to say and share on Exploratory Testing, what would you need to know to get started? This question lead us to summarizing basic theory on exploratory testing around one test target, and to creation of Exploratory Testing Foundations course material presented in this chapter. The course, slides and accompanying content description that together make up Exploratory Testing Foundations by Maaret Pyhäjärvi and is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) and is made available at [Exploratory Testing Academy](https://www.exploratorytestingacademy.com). Also consider [supporting me on Ko-Fi](https://ko-fi.com/maaretp).
 
@@ -27,7 +29,7 @@ We know there is more to teach on exploratory testing than this one course inclu
 
 ## Introduction to Exploratory Testing Foundations
 
-![Exploratory Testing Foundations - the Course](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ngb29f5szlrg4s2ht2ua.JPG)
+![Exploratory Testing Foundations - the Course](./slide-images/Slide1.png)
 
 Welcome to Exploratory Testing Foundations –course. This course intertwines a simple application to test with basic theory of how to do exploratory testing to give you a foundation to build on.
 
@@ -41,7 +43,7 @@ In it's current format, the course takes two days in a classroom to deliver with
 
 Exploratory Testing Foundations by Maaret Pyhäjärvi is licensed under CC BY 4.0. To view a copy of this license, visit <http://creativecommons.org/licenses/by/4.0/>
 
-![Optimizing Value of Testing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f74jod56qb2e1tkujdnm.JPG)
+![Optimizing Value of Testing](./slide-images/Slide2.png)
 
 Exploratory testing is optimizing value of testing. Let's think about that for a moment.
 
@@ -55,7 +57,7 @@ Thinking in terms of optimizing value helps us dispel some of the common misconc
 
 * It isn't about feeding applications bad data to see weird error messages. In fact, we often don't care for the problems related to these and playing with them isn't optimizing the value of testing.
 
-![Agency and Learning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/92e95ue0fnyi3fqs6bag.JPG)
+![Agency and Learning](./slide-images/Slide3.png)
 
 Exploratory Testing centers learning. The application we test is our external imagination. While we test, we learn about the application and about ourselves. We optimize the value of our work continuously. Instead of following a plan we created at a time we knew the least, we create plans, learn, adjust, even completely revise as we learn. Our ideas of the plan are best when we know the most, at the end of our testing.
 
@@ -85,7 +87,7 @@ We go as fast as we need, or as slow as we need. Just like driving a car require
 
 Optimizing value of our testing and centering learning hint that we most likely want to avoid investing prematurely into documentation. We also want to avoid forgetting documentation, as delivering the right documentation is part of our goals. We also want to avoid separating test ideas and test execution, but enable those two to go hand in hand, within the brain of the very same tester. Pulling information from outside, but not executing on someone else's orders.
 
-![Process](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dw1q8tcxmsutp9es4q4n.JPG)
+![Process](./slide-images/Slide4.png)
 
 To set our minds for the road, let’s talk about the process of exploratory testing.
 
@@ -109,7 +111,7 @@ These activities can happen in any size chunks within the process. They can be c
 
 Thinking back to the process of driving a car - When you were new driving stick, you would accidentally stop your car on traffic lights, forgetting which gear you were on, or letting go of clutch a little too soon. Over time, the basic operation of the car became a routine leaving you time to pay attention to surroundings rather than operating the car.
 
-![Input of Exploratory Testing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3j8zwzbvi89xfu5jzfok.JPG)
+![Input of Exploratory Testing](./slide-images/Slide5.png)
 
 The most important thing going into the process of exploratory testing is whoever is doing testing. It could be a career tester. It could be programmer. It could be an analyst. Job role aside, we call someone who performs testing a tester.
 
@@ -129,7 +131,7 @@ We want to specifically mention four categories of input:
 
 * **Miscellaneous knowledge** is about everything else, including the tester's ability to program. Being fluent in programming enables writing documentation as code that can then stay around for later. Endless curiosity in wanting to understand how the world works helps ask relevant questions about the application instead of settling too low. Catalytic skills enable drawing other people's knowledge into the work you are doing and creating connections for shared success.
 
-![Output of Exploratory Testing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0vikxtc19xq1kia3t1s7.JPG)
+![Output of Exploratory Testing](./slide-images/Slide6.png)
 
 What comes out of the process is a better tester but also different kinds of deliverables we consider relevant when optimizing value of testing for *the specific testing at hand*. Sometimes we only report new information. We leave coverage as implicit, but our information is only as good as our ability to cover multiple perspectives. While we can come out with only information, we often want to put our learning into a good use for our own and our coworkers’ future and leave behind documentation, even executable documentation.
 
@@ -151,7 +153,7 @@ The four main categories of output we want to mention are:
 
 * **Documentation: Tests** is about leaving behind a checklist of any sort that enables us to build on current learnings ourselves later or by others. How can we accelerate testing for next time around?
 
-![Course Outline, the Long Version](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p25l77wem5v68i9d87n9.JPG)
+![Course Outline, the Long Version](./slide-images/Slide7.png)
 
 This course is first in the series of Contemporary Exploratory Testing courses where teaching on the course is framed around a particular test target. For foundations, our application is very simple, and it was chosen based on the idea that is *not supposed to be full of bugs*. While finding lots of bugs is fun and does wonders to a tester’s self-esteem, it gives a false impression of what it is we do when we do exploratory testing.
 
@@ -159,11 +161,11 @@ The course is split into 17 chapters, where each chapter will have a supporting 
 
 From the outline, you can see that we will be using a test automation tool (pytest) on this course. Choice of tool is irrelevant but using one to give you concrete examples helps teach this content. Pytest allows for natural language like programming, more so with pytest-bdd, and can be useful for new people to get into test automation programming.
 
-![Course Outline, Condensed Version for Full Day Classroom](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ln6upw4oaeqe7xczrvrw.JPG)
+![Course Outline, Condensed Version for Full Day Classroom](h./slide-images/Slide8.png)
 
 The same course delivered in a one-day classroom format uses this four part structure. We start with options for exploring (and do exercise on documenting our ideas without use of application), continue with addressing personal choices on constraints allowing people to explore without automating, adding automation as constraint teaching people who to automate with Robot Framework Browser library, and conclude with addressing use of time over results, thinking through coverage.
 
-![Test Target and Our Options for Exploring](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3wxn02bs3q78sx8xopuj.JPG)
+![Test Target and Our Options for Exploring](./slide-images/Slide9.png)
 
 In this first chapter, we don’t yet get to use the application, but we get to see the application. Sometimes a good way to learn about how learning changes things is to try to think what you would do before you had more information.
 
@@ -173,7 +175,7 @@ With an application you have never seen before, it is clear you *now* know the l
 
 Working in pairs or ensemble on generating ideas, we find people do better with versatile ideas than on their own. Then again, having a lot of ideas before you know anything that would help you prioritize or target your testing isn't going to be the best use of your time. Recognize what you think is most pressing on your list of ideas.
 
-![The Target of Testing: E-Primer](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3fxuxz9udwzgweevgsp.JPG)
+![The Target of Testing: E-Primer](./slide-images/Slide10.png)
 
 The application we test on this Exploratory Testing Foundations course is called E-Primer. It’s a little application for people who want to check their English writing to master e-prime – a way of writing English avoiding the “be” –verb in all its formats.
 
@@ -184,7 +186,7 @@ We can figure out what the application is and what it does by using it. Also, na
 
 At this point, let's not yet go and use the application.
 
-![Stop and Think - Options for Exploring](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mplkxdc7n0si3kc1otut.JPG)
+![Stop and Think - Options for Exploring](./slide-images/Slide11.png)
 
 By the time we get to chapter 3: The Moment of First Impression, your first impression on just seeing the application is already gone. But the first impression of using it is still ahead of you.
 
@@ -194,7 +196,7 @@ People testing applications come to the targets of testing with our biases. Our 
 
 This careful listing of your starting point supports your learning, and we would not ask you to do this with every application you ever test. But it is an option you can start with, an option we enforce here for learning purposes even if it didn’t help with optimizing value of testing the application at hand.
 
-![Options for Exploring](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jq2kf23w9zos4sp3rcdl.JPG)
+![Options for Exploring](./slide-images/Slide12.png)
 
 Now that you have created an outline of what you would do without doing anything but digging into your past lessons, it’s time to discuss your options for getting started with a new application.
 
@@ -212,7 +214,7 @@ Some people will start with automation first. With many sessions over testing th
 
 ## Self-Management in Exploratory Testing
 
-![Self-Management Basics and Setting Yourself Constraints](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nzqtbtd8gi4zy9k03ss9.JPG)
+![Self-Management Basics and Setting Yourself Constraints](./slide-images/Slide13.png)
 
 You have options for exploring, and your task in exploratory testing is adjust your intent, charter and constraints on a cycle that enables *you* to keep up and do the best possible testing you can. Exploratory testing centers the tester, so you don’t have someone from the outside telling you what detail to verify, the control is with you.
 
@@ -226,7 +228,7 @@ In this chapter, we introduce three concepts:
 
 * Multi-dimensional thinking for intent and learning
 
-![Charters](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ysmaawidujv7fqm8rolc.JPG)
+![Charters](./slide-images/Slide14.png)
 
 Charters are a key concept in how the community talks about framing your exploratory testing. You can think of a charter as a box that helps you focus and generate ideas, but also assess when you think you are done with a particular idea.
 
@@ -246,7 +248,7 @@ We advise against using charters for passing work along unless the work distribu
 
 Growing a new tester in exploratory testing, we often see a pattern of first looking at an application as something that has little to test. Pairing and sharing dimensions in an actionable way transforms the tester, and with the tester, the results the tester is able to deliver.
 
-![Choose Your Own Constraint](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9ll1wgsz3mofh2tjsbh.JPG)
+![Choose Your Own Constraint](./slide-images/Slide15.png)
 
 We prefer framing exploratory testing with constraints, which is one of the options to use in resources part of the charter template. The way we look at it, we have limited bandwidth to doing many things at once, and for us to frame the work we do in an effective way, we need to deliberately exclude perspectives to a level where we can cope with the perspectives we have decided to focus on.
 
@@ -258,7 +260,7 @@ Testing is a lot of fun. Finding out information that others don’t know is inv
 
 Some folks take automation as the challenge that keeps them from being bored. Others find the multidimensional work all the ways we could use the application to see new problems motivating. Some people say that automating helps them have time for exploring, and they mean that seeing simple problems isn't good use of anyone's time. Covering ground with the application under test in a repeatable way is the grunt work of automation.  However, automating on level of unit tests might be our best bet towards catching unintended simple bugs and we like framing freeform exploratory testing and unit tests together in keeping things interesting!
 
-![Explore with Intent](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfzn3exq8f4m4bdo5nll.JPG)
+![Explore with Intent](./slide-images/Slide16.png)
 
 Exploring is wandering with a purpose – without purpose, you are lost. A high-level purpose of spending time with the application or finding information is a little too generic. Specific purpose, intent, looks at what is the next step, next timebox and next theme, balancing serendipity (lucky accident) and coverage (making accidents likely).
 
@@ -282,15 +284,15 @@ When you find something to document, you can write it down in the best possible 
 
 You can also completely skip a bug, a question or the documentation. The more thoroughly you process them, the more time they take from what your intent for this testing was.
 
-![Stop to Think - Charters, Constraints, Intent](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2gcweekslj895pdbcvqb.JPG)
+![Stop to Think - Charters, Constraints, Intent](./slide-images/Slide17.png)
 
 You are approaching the moment of first impression. You usually want to see it work before you see it fail, or you don’t understand and appreciate the way it fails to communicate the fail properly. What is the first thing you will do? Both as a high level idea, and as a specific idea - what would you try first and why? Would you frame your start as a charter, a constraint or as an intent? Or maybe you have your own style of framing your testing that we did not talk about here?
 
-![The Moment of First Impression](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dyxw2wssnfna0mc831ul.JPG)
+![The Moment of First Impression](./slide-images/Slide18.png)
 
 We already saw the application, even if we did not yet use it. One more thing to note before heading in for the test. You are only new with an application once. Even if it is time when you know the least, let yourself listen to how you feel about the application. Your joy could be user’s joy. Your confusion could be user’s confusion. Your mistakes are most likely some user’s mistakes.
 
-![Options Expire](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxoltn3ziw0ss78l9mdu.JPG)
+![Options Expire](./slide-images/Slide19.png)
 
 With making choices of what we do first and what we do after, it is good to be aware that while we have an endless selection of options, some options expire.
 
@@ -326,7 +328,7 @@ When working close to a deadline, options expire also on what feedback is welcom
 
 You usually stop testing before you have exhausted all your options. Knowing your options helps you be intentional about it.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4sjl2b8ztj09em2rzk4.JPG)
+![Let's Test](./slide-images/Slide20.png)
 
 With all this said, it is our time to test. The application is available at <https://www.exploratorytestingacademy.com/app/> and eviltester’s original at <https://eviltester.github.io/TestingApp/apps/eprimer/eprimer.html>.
 
@@ -336,7 +338,7 @@ Each of the following chapters also gives you one constraint that is applicable 
 
 Spend 15 minutes exploring the application alone, or 30 minutes in an ensemble. In an ensemble, pay attention to how you continue from what the previous was navigating to, and the intent emerging that changes direction. It is hard to follow through a larger idea with a group in the beginning.
 
-![It has Bugs](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/224whfpc8r66fsphkxnx.JPG)
+![It has Bugs](./slide-images/Slide21.png)
 
 We have lead the first impression to the course with different constraints with different people, and come to appreciate typical patterns in group work:
 
@@ -350,7 +352,7 @@ We have lead the first impression to the course with different constraints with 
 
 Your first impression and learning of the application is most likely not taking you this far. This mindmap is from an hour of pair testing with a tester who found none of these problems alone but needed training on how to look at an application to identify what might go wrong with it. The mindmap is by no means exhaustive list of things that are off with the application. We’ll talk about bugs in more detail when we get to the part about coverage – because most relevant coverage is bug coverage.  The challenge is, we can only assess bug coverage in hindsight.  
 
-![Bugs Are Conversation Starters](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djui90sbr2u05r2cm0wl.JPG)
+![Bugs Are Conversation Starters](./slide-images/Slide22.png)
 
 We would hope first impressions are not about bugs, defects and change requests for users of our applications. Testers though get to bugs on the very first thing they do with an application, drawing from past experiences to select a way of using the application that reveals a bug. Tester fast forwards a user’s year into the hours they use testing – or better yet, multiple users’ years.
 
@@ -364,7 +366,7 @@ You can also start conversations on the good things you see, the absence of bugs
 
 ## More Specific Constraints
 
-![Recognizing and Learning a Domain](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tdhx3goby8wdr8xixxso.JPG)
+![Recognizing and Learning a Domain](./slide-images/Slide23.png)
 
 Let’s move to discussing domain, requirements and specifications. The information about what the application is and does comes to us in many forms.
 
@@ -374,7 +376,7 @@ Sometimes we know the domain by just our life experience – like most editors. 
 
 Sometimes we know very little of the domain and need to learn it as we test it. Learning a domain effectively and becoming a domain expert over time is what we would expect from someone testing applications in a particular domain for a longer period. Knowing the domain or learning about it until we know is what separates us from assuming something could be right to understanding if it is right.
 
-![Conference, Reference, Inference](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twoqwbyggdslkwvrju07.JPG)
+![Conference, Reference, Inference](./slide-images/Slide24.png)
 
 To learn a domain is to acquire information about the problem-solution space of the application, and usual expectations of it.
 
@@ -390,7 +392,7 @@ You may have a requirements specification. You may have a functional specificati
 
 When you have no documentation to refer to, you still have people and your past experiences. You can document relevant lessons and claims as you test them.
 
-![E-Primer the App](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ip7e9t209aemyox7n5oh.JPG)
+![E-Primer the App](./slide-images/Slide25.png)
 
 With E-Primer, we don’t have a specification. We have a Wikipedia description of the domain that gives us a decent perspective into what the application is designed for, without knowing any of its intentional limitations.
 
@@ -400,7 +402,7 @@ With specification, we can find phrases to test with that showcase the applicati
 
 We have not talked to the application developer, Alan Richardson aka eviltester, to understand why he would choose to separate these two concepts. A working theory from exploration is that Possible violations are algorithmically harder to separate and require human assessment on whether it is possessive or a short form of "is".
 
-![Source Code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ahu9nl7jqgq7wzg7y1s.JPG)
+![Source Code](./slide-images/Slide26.png)
 
 With this specific application, we can find the source code. It is available in the browser on Developer tools / sources to view it in the browser.
 
@@ -412,13 +414,13 @@ Programs do what they are told. You don’t have to know how to read all of code
 
 Like with reading and writing English, they are connected but not the same. We can read great novels yet not write ones ourselves. We recommend all testers read code, at least on the level of what is included and changed. Commits and pull request reviews help us understand scope of changes we are testing. Code in version control has one feature that is very useful for testing: nothing changes without someone changing it and we can watch it change. Same isn't always true for the environment the application relies on, or our customer's expectations.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zz54yu3mw2t8gsyj1efy.JPG)
+![Let's Test](./slide-images/Slide27.png)
 
 It is time to test. Try out what how testing flows when focusing on the domain knowledge. What do you think of coverage of what you have tested so far? Eventually, we care about you not missing relevant information others don’t yet have and thus can’t specifically ask of you! Try to make sure you cover the claims the Wikipedia page includes, or that you can explain the percentage of coverage against that you think you have.
 
 Take 15 minutes alone, or 30 minutes as an ensemble.
 
-![Learning of Domain of E-Prime](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bfqsmjk2qtl85razoyf1.JPG)
+![Learning of Domain of E-Prime](./slide-images/Slide28.png)
 
 The combination of reading and using the application means a significant portion of your time went into making sense on the Wikipedia text and finding other relevant references. You most likely learned something.
 
@@ -442,7 +444,7 @@ The text in the Wikipedia page also can lead you into thinking about comparable 
 
 The more you read before using the application, the higher the expectations for it are. First pass is most likely reading selectively, and if we really cared for claims, it would require significant effort to isolate and test them.
 
-![Recognizing Functionality](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vvv60utthwdm0xvpng48.JPG)
+![Recognizing Functionality](./slide-images/Slide29.png)
 
 Now that we have an idea of the domain, let’s look at the functionality as a constraint.
 
@@ -452,7 +454,7 @@ A lot of testers given a picture of the application start suggesting SQL into th
 
 Let’s discuss functionality as constraint a little more.
 
-![Naming of Function](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7stcryijut3qz0peldaf.JPG)
+![Naming of Function](./slide-images/Slide30.png)
 
 For functionality – features – we find a good approach to be seeing function in different scales and naming it. Naming helps us think about coverage of each named function separately.
 
@@ -462,7 +464,7 @@ The application user interface has functions we would probably name ourselves. S
 
 We can name what we see. We can name what we expect to see. And we can compare those.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpcictpszsrqag26kzgk.JPG)
+![Let's Test](./slide-images/Slide31.png)
 
 Given the constraint of function, what would you test? You could start with the code, but we suggest you start with the user interface. Give labels to functionality you see the application have, and explore each functionality for information about it.
 
@@ -474,7 +476,7 @@ It color-codes e-prime - how could we know it marks the right words?
 
 It runs on a browser - what functionality does browser introduce for it?
 
-![Learning of Function of E-Primer](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/na1zornns299hfclv0yq.JPG)
+![Learning of Function of E-Primer](./slide-images/Slide32.png)
 
 Usually when we use the constraint of function after using the constraints of domain, we find there is either an overlap or challenges in naming things we did not already see. Many times, we find we need to point at a function directly and name it to make it visible.
 
@@ -506,7 +508,7 @@ We can name functions in many ways:
 
 Categories of function serve as idea generators. We are sure there is more to browser than we have listed here.
 
-![Recognizing Data](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e6b6alrmkmwk4rtozftq.JPG)
+![Recognizing Data](./slide-images/Slide33.png)
 
 Next we focus on the constraint of data. Many applications process data, and this application isn't different. Sometimes the data is visible to us as inputs and outputs we observe.
 
@@ -520,7 +522,7 @@ To deal with data, we have some of our most well know testing techniques:
 
 These techniques on looking at data can and should be applied to both inputs and outputs, together and separately. We want to tease out different situations with different data.
 
-![Data or Variables](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/umcniyal0ki4u5np1oho.JPG)
+![Data or Variables](./slide-images/Slide34.png)
 
 For every function you could find in the previous chapter, you can extend it by varying it. If you had a button to click, you could click it directly, move focus to it and press enter, try pressing enter when focus is on the text box and see what happens.
 
@@ -528,7 +530,7 @@ The most lucrative functions with regards to data are ones where the function of
 
 Using function with one piece of data lets you know the function exists and can work. Combining the function with data and variation, you learn about reliability of the function.
 
-![Versatile Data](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hr9y0km5iznb7om6i359.JPG)
+![Versatile Data](./slide-images/Slide35.png)
 
 We often find that testers come equipped with experiences of what type of data often fails and use their past experiences with the application. We have learned that when data has a lifecycle, something can go wrong in different stages especially when we mix them up. We create, read, update, and delete data, either completely or partially.
 
@@ -542,11 +544,11 @@ Similarly, we have tools that help us get to these types of ideas, like the Bug 
 
 A wide idea of data often brings out fun in testing. However, we need to stop and think if the values we are trying will be information the team will find relevant. If you start off reporting an application accepts weird inputs but not doing anything particularly bad with them, it most likely will read as you wasting everyone's time. If the application crashes, there is usually a connection to security that makes it more relevant.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cj2z9u8pvz49jx6szc2s.JPG)
+![Let's Test](./slide-images/Slide36.png)
 
 Given the constraint of data, now it is time to find the things that could be different. You find data you can vary on the easy places like input values to a text field, but equally data is there on getting to output values of the application. What can you vary to discover problems the application holds?
 
-![Learning of Data of E-Primer](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9rzmey074jsxuix2nsb.JPG)
+![Learning of Data of E-Primer](./slide-images/Slide37.png)
 
 We find that with this constraint, people find new bugs they were not previously aware of. We've collected some of the most typical ones here.
 
@@ -562,7 +564,7 @@ We find that with this constraint, people find new bugs they were not previously
 
 Note: To fix the bug, you need to fix the css (stylesheet). Change "position: fixed;" to "position: relative;". One line fix you can search online. Sometimes you fixing the bug is faster than you writing a bug report.
 
-![Recognizing Application and Execution Environment](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oq3ezi3x4ta5266g1h7g.JPG)
+![Recognizing Application and Execution Environment](./slide-images/Slide38.png)
 
 Next we look at a constraint I find core to the idea of *system testing*. Even when we work in teams creating our team's components and code, testing does not exist merely to test the code we have created. It does not comfort us much if our users tell us that the function they were trying to use does not work, even if we could explain that this is in fact because Microsoft operating system does not work correctly and we assume it does.
 
@@ -572,7 +574,7 @@ For a web application, different browsers and even browser versions are a low-ha
 
 Recognizing our application architecture and technologies are a relevant part of this. We can expect different problems for different technologies.
 
-![What You Coded is a Bad Constraint](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttmyviohnqdjn5z99agl.JPG)
+![What You Coded is a Bad Constraint](./slide-images/Slide39.png)
 
 No matter what level of detail we look at when we test – code structures, application programming interfaces, user interfaces be it individual parts of multiple parts end-to-end – we should remember that with testing, we are not only evaluating our own code, but we are also evaluating our own code in the bigger ecosystem.
 
@@ -582,7 +584,7 @@ Signal – the messaging app – is a great example, and Naomi Wu makes the poin
 
 We evaluate applications as systems for multiple stakeholders. Pointing out the problem is someone else's in our supply chain does not comfort the users who see your company's logo in the corner of the application they are trying to work with.
 
-![Execution Environment](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eil8ff12m9t3dpas0mxs.JPG)
+![Execution Environment](./slide-images/Slide40.png)
 
 We talked about environment being important, but let's reiterate parts of execution environment for a web application.
 
@@ -596,11 +598,11 @@ We talked about environment being important, but let's reiterate parts of execut
 
 * **Layers of its architecture** - This particular application is in-browser only. Some web applications comprise of frontend and backend. When we would focus on testing of the backend, we may miss problems in the frontend. Understanding what parts make the application helps us target our exploration.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z3mlia8l3rlf9bfrhz48.JPG)
+![Let's Test](./slide-images/Slide41.png)
 
 Time to test for things that are about the environment. Using execution environment and what your application relies on as a constraint, explore what issues are there with E-Primer. Do you find new issues? What kind of a list of environment functionality you come up with?
 
-![Learning of Application and Execution Environment of E-Primer](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fnevo7zwde43x71gmfob.JPG)
+![Learning of Application and Execution Environment of E-Primer](./slide-images/Slide42.png)
 
 This particular constraint always gets the least amount of time and has widest possible scope. Setting up different operating systems with different antiviruses and browsers, both web and mobile is a significant effort.
 
@@ -624,7 +626,7 @@ Documentation is a constraint, as it slows us down when running through ideas wi
 
 We believe that whenever we have time to create traditional step-by-step test cases, we are likely better off if we were creating test automation instead. Our recommendation is to make choices between no documentation visible to others, session notes in any format and detail required, and executable documentation based on available skills and time.
 
-![Documenting in a Mindmap](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8tajs4xfycevia17d1ep.JPG)
+![Documenting in a Mindmap](./slide-images/Slide43.png)
 
 The first format of documenting we discuss is a mindmap. Creating a mindmap has some benefits:
 
@@ -638,7 +640,7 @@ The first format of documenting we discuss is a mindmap. Creating a mindmap has 
 
 There are a lot of mindmapping tools, and I commonly use Mindmup. Within company with company secrets, I use Xmind and save files on company hard drives only.
 
-![Mindmap](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/flvctey1lebst0omgkwp.PNG)
+![Mindmap](./slide-images/Slide44.png)
 
 Mindmaps can have any structure. Sometimes people start with a template reminding of the constraints we have had in the earlier sessions: Function, Data, Environment, Domain. We find a good use of mindmap is to remember that less words is better. Making functionalities visible so that we can write down our data, questions, and bugs as color coded nodes is what we propose to try.
 
@@ -648,7 +650,7 @@ Maps can grow too big, and we may need to structure them into multiple maps each
 
 Our lesson learned over years of using mindmaps is that they serve well in discovering a new functionality and its testing. They don't serve as well when trying to remember all functionalities there are to consider impacts of new changes across functionalities. We often find we create a checklist out of established structures we mapped out earlier in the project for this purpose.
 
-![Bug Reports](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mwyzccpfupiac56rhbx.JPG)
+![Bug Reports](./slide-images/Slide45.png)
 
 Since we are now discussing the basic documentation of testing, we should talk a little bit about bug reports as the core documentation.
 
@@ -682,11 +684,11 @@ When writing a bug report, you should consider making it more likely to be fixed
 
 * Neutral tone. Keep it factual.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wx41jn4c4qws3h70zkpb.JPG)
+![Let's Test](./slide-images/Slide46.png)
 
 Let's try testing and creating a mindmap while we are testing. Document all functions we have found, all data we have tried, and all bugs we have found. How does your map look?
 
-![Mindmapping as Future Reference](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i9y7940zi8p6d5vdyozw.JPG)
+![Mindmapping as Future Reference](./slide-images/Slide47.png)
 
 At this point, your mindmap should look like early example on the course we shared after first impression. You may already know more than what the early mindmap entailed. Everything you know is not documented, but your documentation could help you rediscover things effectively later and show what your thoughts were while testing.
 
@@ -698,11 +700,11 @@ Saving the mindmap in a common structure and place can work as *documentation fo
 
 *General purpose mindmaps* include ideas and heuristics you could use for multiple similar applications. Try searching online for web application testing mindmaps, and you find many examples. If those help you, color coding coverage of ideas may be sufficient for you.
 
-![pytest the Very Basics](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xwswzesuhc1rok2gdpd2.JPG)
+![pytest the Very Basics](./slide-images/Slide48.png)
 
 On this course we use pytest to illustrate the idea of test automation as documentation. Python is fairly English-like programming language, and provides pytest-bdd to write GIVEN-WHEN-THEN structure of English.
 
-![pytest](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo0m3y7o9kk3tv7f5qp6.JPG)
+![pytest](./slide-images/Slide49.png)
 
 For this course to illustrate test automation, we use pytest. It is a Python-based test runner that comes with:
 
@@ -726,7 +728,7 @@ After this for files with .py ending including test_<yourname>-methods, you can 
 pytest test_file.py
 ```
 
-![Documenting as Skeleton Test Automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/478ofexdgms88i4aa8k8.JPG)
+![Documenting as Skeleton Test Automation](./slide-images/Slide50.png)
 
 Documenting with mindmaps is not the only option you have. Let's look at the option of documenting with stepwise test cases, but skip writing them separately and take you directly into the context of test automation when you consider writing them.
 
@@ -736,7 +738,7 @@ At simplest, your code can be just keeping track of the things you would like yo
 
 We start with the idea of creating skeleton test automation. It does not automate anything but it moves your test cases into the tooling that you could use in translating your intent of tests to code.
 
-![Document in Context of Code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5x7eul51laajwg25nppz.JPG)
+![Document in Context of Code](./slide-images/Slide51.png)
 
 For writing skeleton test cases in pytest, we show you a simple idea of how to do that.
 
@@ -782,11 +784,11 @@ With some tools, we have used a 'best before' style expiration concept to make t
 
 The more difficult question that the tool for this case is the question of what would make a good test case. Our advice is to write down flows we discovered and deemed relevant while exploratory testing, understanding that we will choose to write down only a small subset of all the flow variations we have played with to discover ones worth keeping around.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8fj3o1phwx637iz2wwel.PNG)
+![Let's Test](./slide-images/Slide52.png)
 
 Let's try creating a test cases like this with pytest. One is sufficient. What would the basic flow of testing in this application look like?
 
-![Skeleton Test Automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/szk97felimu8qf4blis7.JPG)
+![Skeleton Test Automation](./slide-images/Slide53.png)
 
 Here is one example we created you can save in example.py:
 
@@ -809,7 +811,7 @@ These can be like traditional test cases but instead of maintaining them in a sy
 
 These skeleton test cases are a concrete handoff to an idea to keep around through automating, and while we propose thinking of decomposing the tests differently for automation purpose, refactoring from this input is possible.
 
-![Playwright library and Selectors on Web Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xa19d3drx6v1yi1zmic7.JPG)
+![Playwright library and Selectors on Web Page](./slide-images/Slide54.png)
 
 To get your automation to drive testing on this application, you need more than what pytest alone comes with. We are now adding the concepts you need around web applications, namely two things:
 
@@ -819,7 +821,7 @@ To get your automation to drive testing on this application, you need more than 
 
 While Playwright library gives you methods to do things in browser, the CSS selectors are a simple form of being specific about what you want to do on that page.
 
-![Playwright Library](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a8ubhf927jaazex1w50i.JPG)
+![Playwright Library](./slide-images/Slide55.png)
 
 To get playwright library into use, you will need some more setup. At its simplest form you need to run these commands on a command line:
 
@@ -842,7 +844,11 @@ This new library lowers the bar for new automators by new design on how waiting 
 
 Playwright promises speed, reliability, visibility. Speed is about it being faster than Selenium library. Reliability is about the new designs on waiting. Visibility is about being able to control API calls in browser as well as working with the web page structures we can expect to be complex in the real world applications.
 
-![CSS Selectors](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u8en9e96987e6t5axn8c.JPG)
+![Library / Methods](./slide-images/Slide56.png)
+
+For purposes of this material, you don’t need many methods from it. Playwright API reference pages are very useful, and for basic use you need within this course, it reads like English. 
+
+![CSS Selectors](./slide-images/Slide57.png)
 
 CSS selectors are one way we can access elements on a web page. For example, we see there is a button, but we need to be more specific for automation purposes on how the program we are creating would know to press exactly that button.
 
@@ -883,7 +889,7 @@ addopts = --browser chromium --headed --slowmo 1000 --screenshot only-on-failure
 
 This does a bit more than show the browser. It selects the browser so that you can change it, shows the browser, slows it down so that you have time to also think about what you see, takes screenshots of failures and does videos of your test executions.
 
-![Documenting as Executable Test Automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0xext97gyhdfrohh1zhg.JPG)
+![Documenting as Executable Test Automation](./slide-images/Slide58.png)
 
 Documenting as executable test automation may take you more time, depending on your application structure and your skills in moving in steps that allow you to automate and explore. It may also very soon save you time in allowing you to do some things you would not be doing manually as fast. After you have one test case, moving towards different inputs and their matching outputs of similar structure become a listing exercise. Similarly, you can run your tests across multiple browsers with the example application we use on this course. You could, should you want to, run your tests in a loop while you sleep and see what happens. These are not **all** your tests, but they are some you can consider.
 
@@ -891,7 +897,7 @@ We think of it this way. You could choose to start your exploratory testing with
 
 Think of exploring while documenting with automation as a timing-aware way of creating automation. You can create something simple and extend. We recommend adding reusability when you need it and cleaning up when you need it. You may be throwing the work away so pay attention to when you invest your time into keeping things around up to standards withheld for good test automation.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ws5rdajemuwgjmd2mvj.JPG)
+![Let's Test](./slide-images/Slide59.png)
 
 Now, you could translate each of your earlier log lines into executable code, using css locators and playwright library reference available at [Playwright pages](https://playwright.dev/python/docs/api/class-page).
 
@@ -925,7 +931,7 @@ def test_example(page: Page):
     assert page.inner_text("#wordCount") == expect_wordcount
 ```
 
-![Example](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a2chqur77mz7vsnxfgki.JPG)
+![Example](./slide-images/Slide60.png)
 
 The way this usually plays out in stages is this.
 
@@ -980,11 +986,11 @@ pytest test_filename.py
 
 We encourage you to run your tests frequently as you are creating them to understand each step. Pay attention to indentation - in python indentation is part of the structure.
 
-![Reports](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4wwg1lcdp0k422207d0i.JPG)
+![Reports](./slide-images/Slide61.png)
 
 When you run tests with pytest, it creates an output on the terminal. If you want it to create report files, there is pytest-html that you can add to your project. Later,
 
-![Parametrized Tests](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ws7emtkxwboff5ziqyaa.JPG)
+![Parametrized Tests](./slide-images/Slide62.png)
 
 Parametrized tests are an idea that for any linear script, you can replace all values with variables and reuse the same script for different values of variables. This is sometimes referred to as data-driven approach to test automation.
 
@@ -1087,7 +1093,7 @@ def test_parametrized(page: Page, input_text, expect_wordcount, expect_discourag
 
 ```
 
-![Logs with Failure](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3w9hclgjsrdwv3h0j0pj.JPG)
+![Logs with Failure](./slide-images/Slide63.png)
 
 When your tests fail, logs show red for the step failing. If you did not try so before, try shortened version of plural "you're". This is two words in shortened format, against e-prime and not recognized by the program.
 
@@ -1097,7 +1103,7 @@ When your tests fail, logs show red for the step failing. If you did not try so 
 
 With a fail due to a problem in the application, you have a choice to make: how will you deal with the problem. First you report it. If it isn't immediately fixed, it will show as red in your test automation. For purely attended use of your test automation this does not matter, but if you want to continuously run your tests, alerting on the known issue isn't desirable. Some teams comment out the tests that fail with a known issue. Other teams have practices to tag their tests to categorize results of those tests differently.
 
-![BDD](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e8n9so3wsuxi4md7n2l4.PNG)
+![BDD](./slide-images/Slide64.png)
 
 In case you are up for a little more refactoring, you can also try adding pytest-bdd to the mix. Install it with:
 
@@ -1170,11 +1176,11 @@ def search_results(page: Page, words, violations, discouraged):
     assert page.inner_text("#possibleViolationCount") == discouraged
 ```
 
-![BDD with failure](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m79bjtu02p4vpx0xzy4m.JPG)
+![BDD with failure](./slide-images/Slide65.png)
 
 Similarly than before, you will also want to see your tests fail and make sure you understand how to read the results.
 
-![Documenting as Executable Test Automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5cz9anh5cggap279i1k0.PNG)
+![Documenting as Executable Test Automation](./slide-images/Slide66.png)
 
 With this exercise, you have now taken multiple steps through to create test automation to document your tests. Test automation is an output of your exploration. It is not complete of things you paid attention to while exploring, but no documentation is. As executable documentation it allows you to see if the changes in your application result in changes in your tests results.
 
@@ -1182,7 +1188,7 @@ We recommend you explore with documenting as automation step by step. You first 
 
 In the end, you have choices of keeping your notes private to you, throwing them away or keeping them around running as part of your continuous integration pipelines. If your tests sometimes fail and sometimes pass, the false alarms take away trust from your tests in the continuous integration. Your scripts may also run on your own environment, and extend your exploration on other days. Our experience is that it's not about the scripts extending your work, but the scripts extending the whole team's work, even when you are not available. Working to bring your test automation into continuous integration is often a worthwhile effort.
 
-![Why This Is Not About Any Specific Tool](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnid437k4l5z59yqrdd3.PNG)
+![Why This Is Not About Any Specific Tool](./slide-images/Slide67.png)
 
 When we teach this content including this constraint with automating with pytest, people sometime - we would say often - forget that there are many things to explore and this is only one of our constraints that directs thinking. Temper your possible excitement. There are many tools and your choice should be one the developers in your team will share with you. Over time, our recommendation is learning the language of the programmers in your team and working with libraries that allow working in the same language and ecosystem.
 
@@ -1196,7 +1202,7 @@ The words of caution we want to extend on come down to four themes you need to p
 
 * Debugging. Figuring out what fails and where is a big part of the work in long term. Running individual tests and being able to enjoy the full debugging features of IDEs is essential.
 
-![Documentation as a Constraint](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6qrp7dd0f6a8b9gxp3fn.PNG)
+![Documentation as a Constraint](./slide-images/Slide68.png)
 
 When you do exploratory testing, you are making choices of where to use your time. Time used on something is time away from something else. You can do documentation too extensively, prematurely, or in formats that limits future use. You are always striking a balance in what you can focus on at a time, what your skills are, what is possible and what you in particular should do in relation to the other people testing in your team.
 
@@ -1206,7 +1212,7 @@ Earlier on this course, we talked about the heuristic of "Never be bored". We be
 
 Testing is for everyone. Testers are a group that build their professional identity around testing. A common observation in preferences is that many people with tester identity cope with tedium, while those with programmer identity automate tedium away. We recognize the second level of thinking happening when there is appearance of repetitive work in exploratory testing, yet there are possibilities of doing simple things to get to a mindset also when test automation is doing significant repeat work. We can have best of both worlds in the teams.
 
-![Automation in Frame of Exploratory Testing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bta0rr4kpg1jlcv5tsl0.PNG)
+![Automation in Frame of Exploratory Testing](./slide-images/Slide69.png)
 
 Test automation as documentation is only one of the uses of test automation in exploratory testing.
 
@@ -1218,7 +1224,7 @@ Finally, when you make an effort to automate, it is like you are applying a magn
 
 A particular category you will notice is ideas to improving testability. What would make it easier for you to control what you want to control, and have visibility to things you want to see and verify. A popular example for web applications is good selectors. With the example application we have used on this course, unique IDs are generally made available but have many conventions to naming them. If use of these was consistent, creating test automation as documentation would be a little more straightforward.
 
-![Moving Focus](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vm9vnuojzzg9cglv1vha.PNG)
+![Moving Focus](./slide-images/Slide70.png)
 
 With exploratory testing, we find it is better to frame testing activities as attended and unattended.
 
@@ -1228,18 +1234,18 @@ You need to do unattended testing where your programmed tests do work for you ev
 
 Creating good, reliable programmed tests is inherently an exploratory testing activity, now in addition to exploring your application you are exploring your application with drivers that you need to balance into the mission of optimizing the value of your testing - today and in long term.
 
-![Stop and Think - pytest-playwright](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zwsifbvaz1ohkbkm1pl6.JPG)
+![Stop and Think - pytest-playwright](./slide-images/Slide71.png)
 We have now discussed using one particular framework with our target application. It is time to stop and think back to all the different constraints you have used during this course so far. How would the testing you did before this have been different if this was what you started with?
 
 We have watched groups start with this, end with this, and try this in the middle. Those who start with this, tend to end up with a more structural understanding of the test application, but also be inattentive to many of the problems. You fit the work you do to the constraint you do it with. When using automation, you pay attention to things you can do with automation - first. The premise of exploratory testing is that your work can start there but it does not have to end there. It can also start elsewhere and still end with automation in place.  
 
-![Use of Time](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9375domyeobh8da2kajy.JPG)
+![Use of Time](./slide-images/Slide72.png)
 
 You have made it through all of the constraints we wanted you to apply on E-Primer, and if you completed all the exercises, you would have spent a day on this course. We teach this in classroom focusing on exercises and these barely fit into a day. With exercises, discussion and the theory in the written material, this course takes usually two working days. In the end of that time, we are all bored of the E-Primer application and wish for something else to test.
 
 Being aware of time you use is core to exploratory testing. We will discuss this briefly.
 
-![Test, Bug, Setup](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fl6elbcymm4sxbappr97.JPG)
+![Test, Bug, Setup](./slide-images/Slide73.png)
 
 When you test, your time is roughly consumed in four categories:
 
@@ -1253,7 +1259,7 @@ When you test, your time is roughly consumed in four categories:
 
 If you don't get to spend time with Test, you aren't making progress. Pay attention to where time goes.
 
-![E-Primer Traps](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/om3y86gosdu62zg2e509.JPG)
+![E-Primer Traps](./slide-images/Slide74.png)
 
 With E-Primer, we have observed groups getting time related troubles with four items we call time traps.
 
@@ -1269,7 +1275,7 @@ All traps are fatal if we run out of time while stuck in a one of these. With ex
 
 When you are out of time, did you end up doing the best testing you possible can? What would you do differently so that you've used your time well?
 
-![Stop and Think - Time and Traps](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tv7aos2yds27qrip53gx.JPG)
+![Stop and Think - Time and Traps](./slide-images/Slide75.png)
 
 Stop to think once more. You have tested with many constraints. Where did your time go?
 
@@ -1281,7 +1287,7 @@ Did you find all the problems we outlines in the mindmap with bugs in red? Did c
 
 What time taught you most about the application? What about what use of time taught you most about testing?
 
-![Coverage](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t5he1v21mob8nlizui9x.JPG)
+![Coverage](./slide-images/Slide76.png)
 
 Coverage is a way for us to talk about thoroughness of our testing against some criteria.
 
@@ -1293,25 +1299,25 @@ If we find all the relevant problems - list we don't have available now, or even
 
 We can estimate coverage with many criteria: plans; claims in specifications; features; code; risks.
 
-![Setting the Stage for Testing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdjciinz886l2ruvmlnd.JPG)
+![Setting the Stage for Testing](./slide-images/Slide77.png)
 
 Simply framed, testing is the act of targeting test ideas to find relevant issues and information that we act on and assessing the work we do in relation to all the work we should be doing (coverage).
 
 Not all information is equally valuable. Some is more valuable found early on. We need to target our efforts in support of product/project success and recognize what is relevant.
 
-![Risk Coverage](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tuqv631f0t0lzw3ypix.JPG)
+![Risk Coverage](./slide-images/Slide78.png)
 
 In the end, it is about risk coverage. Of all things that can go wrong, how well we work to know those things aren't going wrong.
 
 We are painting on an empty canvas, and we try to understand what is there. Bugs may sometimes be equally expensive (cheap) to fix when found in production by real customers, but we will want our customers to be able to rely on a level of functional. Different products will require different detail. You can easily imagine e-primer isn't a product that threatens life, but it is only one of the many applications you may end up testing.
 
-![Stop and Think - Coverage of Testing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8yl6ou0etl9xmapyhtkq.JPG)
+![Stop and Think - Coverage of Testing](./slide-images/Slide79.png)
 
 You thought about time, now think about coverage. Would the testing you did and thought of have missed any of the bugs we have mentioned on the course?
 
 Can you still think of something we did not test? Maybe Security? Performance? Or Reliability?
 
-![Test Strategy](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kong90yhkl7s13il8xp1.JPG)
+![Test Strategy](./slide-images/Slide80.png)
 
 Strategy - ideas guiding our test design - is usually something we think of as starting with,
 to target our testing to match those ideas. Yet given an application that we know nothing of,
@@ -1319,7 +1325,7 @@ before starting testing of it is making decisions prematurely with the least inf
 
 We recommend taking the approach of strategy being always present from the start to the end, and being ready to be summarized after relevant amount of testing to learn the application has already taken place.
 
-![Ideas that Guide Test Design](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9axlv51n6gr98ib81y5e.JPG)
+![Ideas that Guide Test Design](./slide-images/Slide81.png)
 
 To understand what is test strategy, we define it as ideas that guide test design. Those ideas are about risks and tasks, and our understanding of why the application exists in the first place. Since they are ideas about a specific application, we recommend paying attention to the specificity - same ideas don't apply to all applications or project constraints.
 
@@ -1335,13 +1341,13 @@ The answers to these questions both improve and change over time as we are learn
 
 Writing down a strategy enables critique of the ideas that currently drive us. This critique can be you reviewing what you wrote down as time has passed with more experience with the application under your belt, or it can be stakeholders critique inviting improving the ideas you have collected.
 
-![Let's Test](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6xtlszpm0rmbym3g9lrb.JPG)
+![Let's Test](./slide-images/Slide82.png)
 
 Just like everything on this course, when we expect you to create a testing deliverable like test strategy, you can test to create it. The strategy would look different if you did this segment earlier in the course flow than where we tentatively schedule it.
 
 Let's try testing and creating a written description of a test strategy. Try answering clearly and concisely to 1) what is the product? 2) What are its key potential risks? 3) How could you test to evaluate the actual risks?
 
-![Test Strategy for E-Primer](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8rte9m919ablzxskm5v.JPG)
+![Test Strategy for E-Primer](./slide-images/Slide83.png)
 
 After all the testing we had done on the application, we paired on documenting the strategy including all the learning that we had.
 
@@ -1383,64 +1389,74 @@ To evaluate the actual risks we would propose the following activities:
 
 This example is just that - example. It is not the only possible outcome. Your outcome can differ, perhaps even should differ and comparing two outcomes is done on usefulness, not exact match. Would following these ideas driving your testing get you to a place where you do good testing that you can be happy with?
 
-![Closing Remarks](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pd6hvcigyzwzch2atdjf.JPG)
+![Full Results and Reproducing from Customer Feedback](./slide-images/Slide84.png)
 
-You have reached the end of the course and it is time for us to reflect on what we were teaching.
+Throughout this material, we have lead you though various perspectives. If you covered them all, are you no done done, for certain? Usually not. The assignment we work against is to get to the results that matter, most important results first so that our organizations have time to react to the feedback of testing. Useful results are different than good enough results, and good enough results are usually less than full results. Usually you complete the circle to full - or good enough to full - by hearing from multiple people, including your customers. This does not mean you would not try your very best to find things before your customers do. 
 
-The whole course was set up around one simple application, yet we could approach it with many constraints and see different perspectives to quality of it.
+![Invisible Ink](./slide-images/Slide85.png)
 
-There are other applications we could test to learn - partially same things to deepen our understanding, but also a lot of new perspectives.
+The work of exploratory testing is like working with an empty paper full of text but all written in invisible ink. Your toolset as someone doing exploratory testing is how you turn that ink visible, and allow your team to know of the conversations they will have ahead of them without sufficient mitigations - usually fixing and changing things. 
 
-To score yourself on ability to find bugs, here are the 22 we know of:
+Your customers will tell you what was missed, and a good relationship with the customer facing people in the organization on a regular cadence is beneficial for these messages to pass through. Watching the customer use the system is a powerful learning tool. No matter how hard you try, you are not the customer. You will find things you consider relevant the customer does not care for. And you will miss perspectives the customer will find to have unnecessary friction. 
 
-* Long text moves button outside user's access as vertical scroll is disabled
+Your product can collect information from production environment, like statistics of use or inabilities to complete flows. Being able to understand what the customers do is a whole set of features around telemetry, where your product tells how it is being used, allowing for exploring from the customers behavior data in production. 
 
-* Two words separated by line feed are counted as one
+You will find some, maybe even many, usually more than those in the team that don’t take the time, care and mind space to allow the problems to unfold. But you will not find all. Everyone’s capability to find and recognize problems is limited, both in what we know to look for, but also what we make time for with at a particular moment. 
 
-* Space is considered only separator for words and special characters are counted as words
+![Known issues](./slide-images/Slide86.png)
 
-* The possible violation's category takes possessives and leaves for human assessment and would probably be expected to be something to create programmatic rules on
+To score yourself on ability to find bugs, here are the 22 of the 34 we know of:
 
-* You're / we're / They're contractions not recognised as violations of e-prime
+	•	Long text moves button outside user's access as vertical scroll is disabled
+	•	Two words separated by line feed are counted as one
+	•	Space is considered only separator for words and special characters are counted as words
+	•	The possible violation's category takes possessives and leaves for human assessment and would probably be expected to be something to create programmatic rules on
+	•	You're / we're / They're contractions not recognized as violations of e-prime
+	•	Possible violations does not handle typesetter's apostrophe, only typewriter's apostrophe in calculation
+	•	Human being is noun but recognized as violation
+	•	Two part words (like people's last names) in possessive form are not recognized as possible violations
+	•	Contractions for word count (I'm) count as two words as per general rules of how word counting works
+	•	Images missing alt text necessary for accessibility
+	•	Accessibility warnings on contrast
+	•	Mobile use not supported
+	•	Zoom renders page unusable due to missing scroll bars
+	•	UI instructions for user are unclear
+	•	Long texts without spaces go outside the grey area reserved for displaying the texts
+	•	Choosing which links are to overload this app and which open new browser window are inconsistent
+	•	Resizing the input text field can move it outside view so that it cannot be resized back
+	•	Site is missing favicon and security.txt - both common conventions for web applications
+	•	html validator identifies 3 errors
+	•	id naming is inconsistent, some are camel case, others not
+	•	If word is in single quotes, it is not properly recognized as e-prime.
+	•	Text box location in UI is not where user would expect it to be as per the logic of how web pages are usually operating
 
-* Possible violations does not handle typesetter's apostrophe, only typewriter's apostrophe in calculation
+The image from slide has a few more mentions that have been identified later. 
 
-* Human being is noun but recognised as violation
+![Let's Test](./slide-images/Slide87.png)
 
-* Two part words (like people's last names) in possessive form are not recognised as possible violations
+We gave you a list of known issues, reported tersely. These are like examples of how customers report problems, they miss details. Now is time to pick some from the list, reproduce them and write better step-by-step instructions on the problems. 
 
-* Contractions for word count (I'm) count as two words as per general rules of how word counting works
+![Finding Relevant Conversation Starters](./slide-images/Slide88.png)
 
-* Images missing alt text necessary for accessibility
+You may already know of issues. You may based on your testing know of issues we did not know on our list of known issues. You will not find them all, but your task was to find some of what matter, and assess the time and means you need to integrate to your exploring to find what matters. Speaking to your stakeholders is part of exploratory testing. Learning so that you can find issues that matter is part of exploratory testing. Learn what it is that matters. 
 
-* Accessibility warnings on contrast
+You may not have time to list all the things you see, so choose ones that drive your project forward. Seeing problems that you never wrote a bug report on is expected, even if a more advanced skill. Reporting and watching reactions - and choosing to fight for what you believe is relevant information - is part of exploratory testing. 
 
-* Mobile use not supported
+![Closing Remarks](./slide-images/Slide89.png)
 
-* Zoom renders page unusable due to missing scroll bars
+You have reached the end of the course and it is time for us to reflect on what we were teaching. 
 
-* UI instructions for user are unclear
+The whole course was set up around one simple application, yet we could approach it with many constraints and see different perspectives to quality of it. 
 
-* Long texts without spaces go outside the grey area reserved for displaying the texts
+There are other applications we could test to learn - partially same things to deepen our understanding, but also a lot of new perspectives. 
 
-* Choosing which links are to overload this app and which open new browser window are inconsistent
+![Course Outline](./slide-images/Slide90.png)
 
-* Resizing the input text field can move it outside view so that it cannot be resized back
+The two main constraints were focus without documentation and focus with documentation. Test automation we framed as a form of documentation, and speed of creating it depends on the application as well as the skills around the types of tools needed for it. 
 
-* Site is missing favicon and security.txt - both common conventions for web applications
+Even if you choose to support others in your team automating from your insights from exploratory testing, knowing it can be done and considering what documentation to leave behind as automation are essential. We say that Contemporary Exploratory Testing is an approach limited by process (can't do it fully if test design and execution are separate) and skill (can't do it fully if you don't know how to test and program). There's always room to improve, for all of us. 
 
-* html validator identifies 3 errors
 
-* id naming is inconsistent, some are camel case, others not
-
-* If word is in single quotes, it is not properly recognised as eprime.
-
-* Text box location in UI is not where user would expect it to be as per the logic of how web pages are usually operating
-
-![Course Outline - In Summary](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ennglhqs5fsxp8u4jsq6.JPG)
-
-The two main constraints were focus without documentation and focus with documentation. Test automation we framed as a form of documentation, and speed of creating it depends on the application as well as the skills around the types of tools needed for it.
-
-![About the Course Author](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sjvsggtz7nmkfex8kqx0.JPG)
+![About the Course Author](./slide-images/Slide91.png)
 
 You are done with the course, but may have questions. We have set up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQUlLU2agTSp0eMHj7nWMdi8eMD6-iNvdKZvIjkXP_6qAexA/viewform">an exploratory testing slack group</a> you can join. You can ask anything on <a href="https://twitter.com/maaretp">twitter</a> from the main contributor of this course material. And if this material was valuable to you, you can choose to <a href="https://ko-fi.com/maaretp">pay Maaret as many coffees as you like</a>. A simple message sharing your experiences would also be most appreciated in support of her goal of SCALE - making this material useful for more people.  
