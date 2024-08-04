@@ -7,7 +7,7 @@ Exploring Pipelines is about putting together two things that clicked for me on 
 
 In order to make the connection, we need to talk about both things: exploratory testing and pipelines. Finally, we’ll talk about a few different organizations and my experiences there to show that the theory of today may be a practice of tomorrow.
 
-![Defining Exploratory Testing - inseparable design and execution for learning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xyryc2p55herefv48xxc.PNG)
+![Defining Exploratory Testing - inseparable design and execution for learning](./slide-images/Slide2.png)
 
 Exploratory testing has been around since 1984, when Cem Kaner first coined the term. Even if we like to think same words mean the same thing for different people, it is particularly not the case with this word.
 
@@ -20,7 +20,7 @@ We do this to optimize results and investment. For the time we spend exploratory
 
 Remember, the core to this is agency that enables learning. And for that, we can’t split this work for two different people, we would seek different dimensions in splitting of exploratory testing when we need scale.
 
-![Refining execution - inseparable manual and automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ev94m1vgnjuqyrlginrv.PNG)
+![Refining execution - inseparable manual and automation](./slide-images/Slide3.png)
 
 Now that we established that for exploratory testing to be exploratory, we can’t split design and execution, we need to talk a bit about test automation in exploratory testing. It comes to my attention at work, with various organizations, that people somehow think that even if we can’t split the design and execution, we could do that for the dimension of manual vs. automated in execution.
 
@@ -30,7 +30,7 @@ So you see, it makes very little sense to try and define exploratory testing as 
 
 If you are looking at exploratory testing, with design and execution strongly linked, you can’t separate automation in the execution. Even the creation of automation is a manual task. Or like I learned last week, humanual. I really like the ring to the term from Erika Chestnut.
 
-![Refining design - inseparable manual and automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmyv457inftbi1gsykiw.PNG)
+![Refining design - inseparable manual and automation](./slide-images/Slide4.png)
 
 Manual vs. automated however isn’t part of only the execution part. We are also working to figure out, and have been for decades in the academia, automating parts of test design. If we split design consideration into coming up with an idea of what to do, and how to tell if the result is right, we can easily already give examples of activities that are both manual and automated within the design.
 
@@ -40,7 +40,7 @@ Think about model based testing. We design our tests with images, boxes and arro
 
 You may be seeing a pattern here: if you can’t split design and execution in exploratory testing, and you can’t split manual and automation in either of those two, perhaps what we mean by exploratory testing is that there’s the same kind of relationship with manual vs. automated than with design vs. execution?
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6dg7000au8mw73yp06wl.PNG)
+![Alt Text](./slide-images/Slide5.png)
 
 There indeed is. If you are separating the manual and automated, you are not living true to what exploratory testing frames to be. You are removing agency from the person making those design and execution choices to the best testing they could do. You are not enabling learning between activities. And it shows up in your results.
 
@@ -52,7 +52,7 @@ Not all testing is exploratory testing. Look for the broken links in activities 
 
 We have been through a bit of a discussion on what exploratory testing is and we have not yet talked about pipelines, but let’s just say this now: pipelines are automation. Understanding that automation is inherent in exploratory testing is important.
 
-![All paths lead to learning more](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jtu8t69uvokzjqpox9s6.PNG)
+![All paths lead to learning more](./slide-images/Slide6.png)
 
 I may have intimidated some of you with images of having to take on work beyond your scope today at the office. While I talk about agency and sustaining connection between activities that need learning in between them to optimize their value for whatever investment we have, I am also well aware that the scale in which we create software does not fit in a single person’s head. We need teams that share ownership. We need to accept that in an industry that doubles in size every five years, half of us have less than five years of experience.
 
@@ -64,11 +64,11 @@ Particularly, I learned that moving around picking up skills - being even an eng
 
 I remind you all on the power of “not yet”. You don’t know something - yet. And every single one of us is already useful while we are on a journey to grow our impactfulness.
 
-![Content warning: animals as food](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i99zrbpzmbu1352tbtiw.PNG)
+![Content warning: animals as food](./slide-images/Slide7.png)
 
 This all sums up to a vision that I want to share with a metaphor. The metaphor includes food and animal products, and if that particular area is a source of discomfort, I suggest skipping forward the next slide.
 
-![Comparing beef for value](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p7avlzeo7rubba0cyve5.PNG)
+![Comparing beef for value](./slide-images/Slide8.png)
 
 What I look forward with contemporary exploratory testing is impactful results, and higher value.
 
@@ -78,13 +78,13 @@ Like if you look at two pieces of beef. One is a regular american beef courtesy 
 
 There’s room in the world for both. But with contemporary exploratory testing, I look at moving from the lower value category to the higher value category.
 
-![Test automation pyramid - where is exploratory testing](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1ftu66l50dkcr02tgne.PNG)
+![Test automation pyramid - where is exploratory testing](./slide-images/Slide9.png)
 
 The same idea with a less controversial image is how we place exploratory testing on a test automation pyramid. The sprinkle on top kind improves the result and is definitely better option than not having it sprinkled on top. But the kids I share a vision on, contemporary exploratory testing, cuts through all layers and drives learning in all testing we do.
 
 Exploratory testing is more valuable when we allow it its intended place as an approach to testing, instead of turning it into a technique applied on top of everything else. It is exploratory testing in both formats, but the results and practices we would observe are essentially different.
 
-![Defining pipeline as automation connecting automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05n3vyup813ur8nxwat6.PNG)
+![Defining pipeline as automation connecting automation](./slide-images/Slide10.png)
 
 Understanding how I view the relationship of exploratory testing and test automation, as two sides of the very same coin, leads us to discussing exploring pipelines.
 
@@ -92,7 +92,7 @@ The way I define pipelines is that they are automation that connects other autom
 
 Let me illustrate this a little more.
 
-![Exploring to create test code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zjvtswz757p0xxp7cybv.PNG)
+![Exploring to create test code](./slide-images/Slide11.png)
 
 In building a course where one of the many constraints of exploratory testing is documenting with test automation, I follow people work though creating sometimes the first automated test of their lives. Watching this unfold, makes it very clear it is an exploratory activity where to create automation, we are really exploring all the way.
 
@@ -104,14 +104,14 @@ Adding enough, we find a problem and see tests fail for real reasons. We decide 
 
 This is test automation, but it is not in a pipeline. The human remains as the person starting the run of automation on demand. And if we left along the red failing test, this set would not serve us well in a pipeline always reminding us that it is still broken until it gets fixed, potentially hiding other issues.
 
-![Robot test with templates example](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dqlpltab7ntbl3n3o1k8.PNG)
+![Robot test with templates example](./slide-images/Slide12.png)
 
 So we need to move from a piece of code doing testing for us when we ask to piece of code that does testing for us on rules we have defined.
 
 Looking at this example I use as illustration, the tool in question is Robot Framework and I have a split relationship with it. On one hand, I teach it to new people who have never automated. On other hand, I propose never using it as soon as you’re ready for a general purpose programming language.
 In the picture, test 6 fails because the program does not work as it should by its specification.
 
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p0dnlqrwh5nistwl4l6e.PNG)
+![To code in pipelines](./slide-images/Slide13.png)
 
 Dragging our code along into the pipelines, the other end of this is human, team and passer-by manager understandable traffic lights that report - radiate - our status on close to real time. When the code runs in a pipeline, results show what works now.
 
@@ -121,7 +121,7 @@ In recent years, we have become more boring. But we put a lot of thinking, parti
 
 My previous organization was into blue (with enough color blind people around), and with my current organization I am getting used to green again, and just working towards having less colorful displays in general. That is a culture change we often need to make it through in pipeline building.
 
-![Connecting automation with automation](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qed6f00a1c3a8ja1r7b.PNG)
+![Connecting automation with automation](./slide-images/Slide14.png)
 
 From that single script, there is glue automation in the pipeline that makes the results continuously available. Remember, we defined pipelines as connecting automation with automation, what are the key aspects to explore then for this type of automation?
 
@@ -135,7 +135,7 @@ Third, I can’t deal with things that are not pictures. When exploring pipeline
 
 Fourth, existence of pipelines in repeatability of building our software cannot be overemphasized. Sometimes you test the result. Sometimes you test the thing that creates the result. And when the result gets refreshed and recreated multiple times a day, testing the thing that creates the result is a better choice. In recent weeks, we have built pipelines to build a three dimensional matrix of same but different in 3x5x3 dimensions. If I had to test all those 45 end results, I could not deal, even with test automation around. Pipelines visualize the difference, and create a baseline that is repeatable.
 
-![Pipeline, the card game for learning](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7fx0jxp8yupkl1kthqpe.PNG)
+![Pipeline, the card game for learning](./slide-images/Slide15.png)
 
 To get started in playful exploration of pipelines, I recommend trying out the pipeline card game created by Emily Bache. Knowing that Emily created the game inspired by a simulation by Abby Bangser at European Testing Conference I used to run makes me even more happy this game exists.
 The idea of the game is quite simple and great for educating teams. You build a pipeline from committing code to deployed in production. You are given a rich set of options, and asked to design your pipeline, and calculating the cost (in wait time) of running your pipeline for different kinds of organizational risk profiles.
@@ -144,7 +144,7 @@ Caring for the cost in wait time ties to the accelerate metrics of lead time, no
 
 You can choose the sprinkle on top exploratory testing, but that costs you time in the pipeline. I invite you to think about ways of integrating it everywhere, and remind you that some of exploratory testing we do in production looking at improvement we could propose.
 
-![Experiences](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ffhpzwczs1ve2cb1jozv.PNG)
+![Experiences](./slide-images/Slide16.png)
 
 I have been through organizations, changing jobs. The three last organizations have each been very different in regards to pipelines.
 
@@ -156,7 +156,7 @@ The third one, my current job, has a good baseline of pipelines but having exper
 
 I believe that the future is already here in our industry, it is just not at all equally divided. Appreciating what we have today, knowing we can have something else tomorrow is a foundational idea.
 
-![Automation strategy](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mg6ifacq1ewzlyqy1gh2.PNG)
+![Automation strategy](./slide-images/Slide17.png)
 
 For me, the strategy for automating starts with the idea of incremental, incomplete, learning. What we have is a good baseline even when it is not that good.
 
@@ -164,12 +164,12 @@ Small flows of value, always for better, create big changes over time.
 
 Even the ones of us who think we know how it should be done would do well in allowing the team to learn together to get to something the team can run with, even when you are gone.
 
-![DevOps turns things to code](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xvbisptr6hwtzeeeejxr.PNG)
+![DevOps turns things to code](./slide-images/Slide18.png)
 
 Finally, as a departing thought to leave you with. Pipelines are a core of how we automate automation. In this process, we turn things into code. We put it in version management. And we call that shift to being able to see what we have as code - or configuration - DevOps. And that changes testing.
 
 We move from black box to more hints on what have changed. We move from lack of control to some control. And that ability to have a little more control over our systems is what enables the increased complexity and speed.
 
-![Get in touch](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfyr53rozx958b0hur8r.PNG)
+![Get in touch](./slide-images/Slide19.png)
 
 I enjoy connecting with people, and love a good conversation. You may notice I like my work. I also like talking about themes related to my work. I started speaking to get people to talk to me. I talk back, and I invite you all on a journey to figure out how we explore our way into a better place for software creators and consumers.
