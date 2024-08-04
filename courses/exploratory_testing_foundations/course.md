@@ -1,13 +1,14 @@
 # Exploratory Testing Foundations
 
-*Published: Sept 20th 2021*
-*Updated: Aug 4th 2024* 
+*Published: Sept 20th 2021* | *Updated: Aug 4th 2024* 
 
 * Keywords: testing, exploratorytesting, testautomation, course
 
 With so much to say and share on Exploratory Testing, what would you need to know to get started? This question lead us to summarizing basic theory on exploratory testing around one test target, and to creation of Exploratory Testing Foundations course material presented in this chapter. The course, slides and accompanying content description that together make up Exploratory Testing Foundations by Maaret Pyhäjärvi and is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) and is made available at [Exploratory Testing Academy](https://www.exploratorytestingacademy.com). Also consider [supporting me on Ko-Fi](https://ko-fi.com/maaretp).
 
 To create the course, Maaret Pyhäjärvi paired to test the application under test with the brilliant Irja Straus (Croatia), Parveen Khan (United Kingdom), Julia Durán Muñoz (Spain) and Mirja Pyhäjärvi (Finland). The application and lessons were tried with many ensemble testing groups to finally come to be summarized as part of the course. We particularly want to appreciate two open space communities in creation of this content: [Socrates UK](https://socratesuk.org) and [Friends of Good Software](https://frogsconf.nl). Both served as places to try out hands-on testing of the application to see the dynamics under various constraints.
+
+Material refers to a few people: Elisabeth Hendrickson (USA) and Elizabeth Zagroba (Netherlands), Cem Kaner (USA) and Alan Richardson (UK). These are all people whose material you should consume if you haven't already. 
 
 Pair testing and ensemble testing are social software testing approaches. In a pair, we have two people testing. In an ensemble, we have a group of at least three people. Both forms of social software testing enable us to test and learn together, and give us a better feel of the results testing of the application can produce. With tens of sessions with this little application, no two sessions have produced exactly the same results but each session has produced useful results that can be used to build on, should we seek good coverage over our target of testing.
 
