@@ -21,7 +21,7 @@ Ensemble Testing is ensembling on testing activities:
 
 ![Ensemble Testing Ongoing and the Group Works Together.](./ensembling_ghosts.jpeg)
 
-Before when testers got together to test and learn about testing, we would work in same space, everyone with our own computers or a minimum of a computer per pair. Ensemble Testing gave us a vocabulary to say that one computer or set of computers with control together as a group would be an option. And that while we might do less, we might learn more. Usually in ensemble testing we don’t uncover so many issues, but we learn a lot. 
+Before when testers got together to test and learn about testing, we would work in same space, everyone with our own computers or a minimum of a computer per pair. Ensemble Testing gave us a vocabulary to say that one computer or set of computers with control together as a group would be an option. And that while we might do less, we might learn more. Usually in ensemble testing we don’t uncover so many issues, but we learn a lot.
 
 And we learn to work better together over time!
 

@@ -4,7 +4,7 @@ You must have heard about pair programming and it’s testing sibling, pair test
 
 ![Kids Pairing](./kidspair.webp)
 
-# Individual Work
+## Individual Work
 
 Let’s first think of testing as individual work. Core to the work is the a skilled tester, with ideas of what to do to uncover information. They use the keyboard to drive the computer, and as ideas emerge and evolve, write down notes in a tool of their choice. There’s just one person for all the activities around the task, and no need for changing roles other than within the tester’s head.
 
@@ -34,12 +34,12 @@ With strong-style pairing the one with more knowledge is hands off keyboard, and
 
 ![Strong-Style pairing helps distribute the work and the control so that both are active.](./skillsets.webp)
 
-# Ensemble Testing — Pairing on Turned Up
+## Ensemble Testing — Pairing on Turned Up
 
 Strong-style pairing is also the foundation of ensemble testing (and ensemble programming). In this style of working, you have group of people working on one task, taking turns on the computer. Ideas come from the crowd not on the computer. This is about getting the best out of everyone into the work we are doing. Everyone takes turns at the keyboard, and if you have someone unequal at task, the ensemble helps out navigating at an appropriate level of abstraction.
 
 ![Mob Testing brings in more people for the ideas side using Strong-style to communicate.](./ensembletesting.webp)
 
-There’s a lot more on the dynamics of pairing and ensembling. Check out the Ensemble Programming Guidebook I’m writing, it is available on https://ensembleprogramming.xyz.
+There’s a lot more on the dynamics of pairing and ensembling. Check out the Ensemble Programming Guidebook I’m writing, it is available on <https://ensembleprogramming.xyz>.
 
 For me adjusting to strong-style is what made pairing turn from frustration to learning fun and something I’d volunteer for. Similarly, ensembling was the gateway to pairing making me comfortable in a group before being alone with each of my team mates. I encourage you to experiment with what works with you.

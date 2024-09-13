@@ -1,10 +1,10 @@
 # List Ways in Which AI is Used In Testing
 
-I have now been through 3 out of 30 days of AI in Testing by Ministry of Testing. I was awarded my fifth Anniversary Badge, meaning that I have not shown up in that community for a while. 
+I have now been through 3 out of 30 days of AI in Testing by Ministry of Testing. I was awarded my fifth Anniversary Badge, meaning that I have not shown up in that community for a while.
 
 ![MoT Anniversary announcement](anniversary.png)
 
-The first day was introduction. Second day was to read an introductory article. Third day asked to list ways AI is used in testing. As with blogging, I filled the paper and wanted to leave the notes from personal experience behind as a blog post. 
+The first day was introduction. Second day was to read an introductory article. Third day asked to list ways AI is used in testing. As with blogging, I filled the paper and wanted to leave the notes from personal experience behind as a blog post.
 
 Practical applications, personal reflection rather than research:
 
@@ -26,4 +26,4 @@ Practical applications, personal reflection rather than research:
 
 **Refactoring test code**. Works fine at least for robot framework and python tests as long as we first open the code we want to move things from. Trust things to be pre-aware and suffer the duplication. We’ve been measuring this a bit, and copilot seems to encourage duplication for us.
 
-Wrote down few, will revisit when time is right. 
+Wrote down few, will revisit when time is right.

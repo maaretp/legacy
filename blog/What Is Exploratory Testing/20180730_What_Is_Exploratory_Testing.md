@@ -3,6 +3,7 @@
 It has been 34 years since Cem Kaner coined the term to describe a style of skilled multidisciplinary testing common in Silicon Valley. I’ve walked the path of exploratory testing for 25 years and it has been a foundational practice in becoming the testing professional I am today. Let’s look at what it is, to understand why it still matters — more than ever.
 
 ## An Approach to Testing
+
 E
 xploratory Testing is an approach to testing that centers the person doing testing by emphasizing intertwined test design and execution with continuous learning where next test is influenced by lessons on previous tests. As an approach, it gives a frame on *how* we do testing in a skilled way.
 

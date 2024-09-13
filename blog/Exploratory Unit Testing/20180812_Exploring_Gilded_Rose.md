@@ -23,7 +23,7 @@ IDE with visual code coverage. Code and unit test in an environment where you ca
 
 To make the exercise slightly more tester friendly and approachable in coaching people who never work with code, I extracted a method out of the original unit test.
 
-![](./GildedRose_Image1.png)
+![Gilded Rose Method Extraction](./GildedRose_Image1.png)
 
 If you want to try things out before spoilers, pause here and go do the exercise. Figure out what your test cases for it look like and why they are the way they are.
 
@@ -75,13 +75,13 @@ There is no absolute choice for the first test, and having tested this with a go
 
 For me, the first test is to see we can actually test. Running the test that has been given to us as an example. The test that reveals our ability to run any consequent tests.
 
-![](./GildedRose_Image2.png)
+![Running the first test](./GildedRose_Image2.png)
 
 There has been days of going into doing the exercise where this test fails, because I accidentally cleaned up more than I should after the previous run through the exercise.
 
 Generally, this test results in a green bar.
 
-![](./GildedRose_Image3.png)
+![Green bar indicating test passed](./GildedRose_Image3.png)
 
 As we are exploratory testing, we learn that the interface provided is good for us to go further. We learn that the tool reports us with green when a test is given that passes. We might even read the test to figure out that it says that when we start with item named “Any”, no days to sell it and quality of zero, the quality isn’t changing anywhere.
 
@@ -127,7 +127,7 @@ To contract to the 18 handpicked tests over 2 hour intensive work, I’ll show y
 
 This tool includes a possibility to pass a group of values and automatically generate combinations of those values. The generated tests are pushed into a text file where we can visually verify and approve them. Within the minutes version, I would use the principle of them all being correct because this is legacy code that *Works in Production*. Within minutes, I generated 41616 tests to get to 100% branch coverage, and to run them again to make sure nothing breaks it takes 1.028 seconds to run. The code to do that is four lines and I go with the ultimate lazy of not even hand-picking relevant integer values but using all between -1 and 100.
 
-![](./GildedRose_Image4.png)
+![ApprovalTests-library example](./GildedRose_Image4.png)
 
 If you miss the [copy-pasteable example of this](https://gist.github.com/maaretp/2ec5eb9e38b9d9b1758f98e0bdb016ed), I put in a gist. You may notice I needed to do one change to the original method so that the returning object would have a *toString()* to write to file. What was object type GildedRose in the first example, is no object type Items in the latter as it already had the necessary *toString()* defined.
 
