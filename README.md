@@ -38,3 +38,11 @@ This folder holds my twitter and mastodon public notes that I have not yet proce
 ### YouTube
 
 This folder holds text transcripts of the talks on my own YouTube channel, generated from YouTube's auto-captions, so the words are searchable and reusable even though I prefer writing storylines down.
+
+### Podcasts
+
+This folder collects the podcast episodes, panels and live conversations I have appeared on, from the index at [maaretp.com/contributions](https://maaretp.com/contributions/). Most are audio-only, so each entry keeps the show notes or description the episode page carried rather than a transcript.
+
+### External articles
+
+This folder collects articles and papers I wrote for other people's platforms - blogs, magazines, books and conference proceedings - with the text pulled in where the source still allows it, so the words survive the platforms.
