@@ -1,0 +1,219 @@
+Date/Time,Media Description,Media Link
+"You uploaded a feed photo on August 28, 2026 at 9:31 PM (GMT)","Remember this? I read a lot of my blog posts to categorize them thematically on what I was sharing on #ExploratoryTesting. It was all manual work. I did not find time to continue on side of work for *five years*. 
+
+Today it was one request to update for today's scale. Perhaps you find the updated version useful: https://lnkd.in/dHg4pyN ",
+"You uploaded a feed photo on August 28, 2026 at 7:47 PM (GMT)","Thanks robots, for 2.04M blog hits.  ? 
+I think the summary of what did I come to on twitter on #ExploratoryTesting with me quoting me is worth a chance of joining the robots. 
+https://lnkd.in/dCCRDQ3E",
+"You uploaded a feed photo on August 27, 2026 at 4:51 PM (GMT)","Ask a tester on state of your transformation, and a coverage metric comes out. While I sampled 6% of the organization for actuals, the analysis drives a continuous growth and change, and would feel wrong to make snapshot of today. 
+
+Funny observations through - asking to generate the demo data, it decided that TEST was behind DEV and that is decidedly not true for my corner of the world. 
+
+I track SOMEONE and EVERYONE coverage. Community takes everyone along for the ride.  ",
+"You uploaded a feed photo on August 21, 2026 at 5:31 AM (GMT)","As I left an agent reading through a particular internal web site to explore for patterns of information I had in mind, I used the unattended time of 30 minutes to think through my experiences and aspirations in the AI-space. Most things I ask don't free up 30 minutes, but I set them up more as botsitting. Knowing what I would learn without learning each step through exploring isn't the case. Tasks such as ""write test cases"", if they go any deeper than appearance of documentation and target results, are a lot more complex than the surface says. And while those of us deeper than the surface are now doing world favors by writing that into skills, figuring it out is still kind of short loop. 
+
+I have been categorizing things. Doing things alone, prompt engineering, will up your skill. Doing things with the team is socially a lot more challenging - avoided files do not change the experience. The unattended side of longer requests introduce a new challenge on filling the freed time. 
+
+We are building systems around AI for people to remain accountable. In level of details that entails, it's definitely a journey. ",
+"You uploaded a feed photo on August 17, 2026 at 8:29 AM (GMT)","I've seen a four leaf clover. Now I also know that likelihood of a four leaf clover is 1 in 10 000, and that the Guinness world record of single stem with leafs is 63. I thought about clovers, because I was thinking about how we set expectations for testing. 
+
+I believe we should not teach testing as easy with things everyone can find. I have been in teams where it is like that, and called those team pizza box teams. Your job as tester in a team should not be reminding that big visible items of trash of any kind should not be lying around. If it is, your 1st item of business is to have conversations that change the idea of how we deal with basics, and building a foundational culture of quality. 
+
+So today I am suggesting that instead 'kicking tires' and finding out things with intuition that anyone with care and time could go for, testing is more like hunt of the four leaf clovers. They are there even when you don't find them. There are techniques of directing attention that make the hunt rewarding, and exploratory means you continuously learn and adapt the hunt, while tracking the coverage. 
+
+Would people take a job as four leaf clover hunters if they never saw one? Or would they need a field that made the hunt rewarding, changing the odds? But also, if there was already a pile of recently found ones, would adding one more to the pile be rewarding to anyone? ",
+"You uploaded a feed photo on August 14, 2026 at 6:20 PM (GMT)","Met up with Marko ""NarsuMan"" Rintam?ki today to talk about the great testing course he runs at JAMK. Realizing the mindmap of me exploratory testing on an earlier target they had is already 11 years old (!), I could not resist a bit of testing. 
+
+So for a Friday evening, I spawned up PrestaShop locally on my machine, and fixed the issues I ended up with Colima (my Mac docker tool) not supporting something this was relying on, and dealing with redirects that wouldn't work, all within setting up my docker compose file. This part Narsu called ""ops"", and I expect testers to be able to do this, particularly with these nicely containerized web things, but also with what used to be installing the whole windows machine back in my starting days. 
+
+It was very obvious that how I explore has changed in 11 years. The first thing I did is add two Playwright tests to remind myself where the main page and admin page are located. An the second thing was touring the UI, listing problems. I would be foolish to not use AI for this work, but also I would be foolish if I stopped here. 
+
+The interesting part starts after this, and I have options: 
+- I think I will inject a fuller agentic playwright framework into my exploratory project, to support continuously documenting my insights so that changing the latest of PrestaShop still allows me to be in control
+- I would list areas / features I would investigate deeper. Most likely I would start with taking control over the data, because the defaults will hide all the interesting problems. 
+- I would revisit the open source projects known issues list, and see if I can score some insight into what they actually care about. 
+
+The meta I set out to explore though, is if we need injected bugs for teaching. My theory of teaching says no. Our production versions are target rich enough without injecting anything. Let's talk about that after I spend a few hours going deeper. 
+
+Getting here, git tells me took less than 2 hours. 
+1 hour ago   Initial commit
+https://lnkd.in/dn7_538V 
+
+This is exploratory testing. ",
+"You uploaded a feed photo on August 14, 2026 at 5:18 AM (GMT)","It's been four years since I last run a workshop on designing test ideas specific to a small batch. Building iteratively and incrementally in small batches and related testing skills were (are) a skill that was needed, and the simulation exercise of doing this showed how wide a gap was built between increments and end-in-mind planning. 
+
+When our attentions move and shift, we do other things than we used to. Many of the games and exercises around agile are no longer around, as they lived with their instructors. The marshmallow challenge has lived long, and I still occasionally see people playing elephant carpaccio. 
+
+Modern training feels a lot like recorded talks available on a platform, and competition of platforms. ",
+"You uploaded a feed photo on August 13, 2026 at 7:33 PM (GMT)","Is testing really that hard? Honestly, I don't know. It does not feel easy and I might be going about trying to make sense of it the wrong way. I may still be learning to figure out what the right way is. 
+
+If it was easy and fit the few days people like to schedule for it, I would not be watching the loading... indefinitely for adding an image to my post on LinkedIn. How did I add the picture then? A workaround, because there are always many ways do try and do the ""same but different"". 
+
+If it was easy, people testing https://lnkd.in/dNxry3id would easily figure out the 37 inputs and the 65 bugs *that I know of*, on an application as simple as one text field all logic in frontend. 
+
+But I do make it harder in my head, trying to figure out how to make space for it and explain it to people. I would like more software to work when we use it. ",
+"You uploaded a feed photo on August 13, 2026 at 6:02 PM (GMT)","Tein jutun, jonka olen tehnyt *monta* kertaa testausp??llik?n roolissa monitoimittajaprojekteissa, mutta t?ll? kertaa visuaalisesti vibekoodaamalla. 
+
+Selitin samaa asiaa kuin mist? julkaisin ensimm?isen akateemisen artikkelini vuonna 2003: yksikk?-, integraatio-, j?rjestelm?- (end-to-end), ja hyv?ksymistestaus sellaisenaan tarkoittavat paljon v?hemm?n kuin ajateltiin. 
+https://lnkd.in/d8vhQ4SH
+
+Ne on ehk? V-mallin vesiputoukseen tuomat vastinparit, mutta ne olisi fiksua pilkkoa ihan toisella tapaa, ettei testaus olisi sen vesiputouksen lopussa julkaisun edess? kaikkine vaiheineen, aikamoisen teatterin kanssa. 
+
+Ehdotin siis ett? *integraatiotestaus* itse asiassa sis?lt?? toteutusta ja inkrementaalista j?rjestelm?testausta. Ensimm?isess? testaajakulma on kevyt osallistuminen katselmointien kautta, ja toisessa toteutuksen aikana syntyv?n automaation t?ydent?minen niin ett? testaus ei ala toteutuksen loputtua. Ehdotin ett? ""end-to-end testaus"" on merkitt?v?sti pienempi kuin mihin se meinaa livahtaa, ja ett? sit? ajatellaan inkrementaalisena j?rjestelm?testauksena kolmannen osapuolen j?rjestelm?n kanssa. Lis?ksi toin n?kyviin ett? ""end-to-end testaus"" tarvitsee kokoavaa j?rjestelm?testausta, jota ei ole suunniteltu ja luvattu, ja jonka odotukset kolmannen osapuolen toimesta ovat varsin merkitt?v?t - niinkuin usein on kun kokonaisuuteen tulee sen oman j?rjestelm?n osan lis?ksi tusinan verran muita. Ja ehdotin erotettavaksi *hyv?ksymistestauksessa* kaksi eri hyv?ksymistestausta vaikka ne saattavat tapahtua sovitusti samassa kalenteriajassa: sen osan josta toimitusvastuu, ja sen j?rjestelm?n johon osa liittyy.
+
+Mit? opin? No ainakin sen ett? visuaalisesti itselleni askeleet on nyt todella selvi? ja oikeaan aikaan pystyy viem??n loppuun hallitusti haluamiaan osia. Ja ett? kaikki muut toivoo ett? testaus voisi olla suoraviivaisempaa ja helpompaa. 
+
+Jutellaan siit? uudestaan sitten kun t?m?n oivalluksen projektit p??tyy onnistumaan aikataulussa ja laadussa, kun taas ilman t?t? t?rm?t??n keskusteluun testauksesta pullonkaulana ja laadusta ongelmana.   ",
+"You uploaded a feed photo on August 13, 2026 at 8:49 AM (GMT)","Comfort in concepts. That is, I have found it difficult to describe what my work is, and Pia Kiviranta posting on concepts of Interim and Fractional made some sense in how I could think about it. 
+
+Right now I am: 
+- Fractional as AI-enhanced application testing Director, managing a team of 9 testers
+- Fractional for two significant clients in a role of bridging QA change
+- Interim and Fractional Director of Consulting, managing a team of 12 developer
+- Consultant in particular gigs
+
+I have found it difficult to wrap my head around the juggling and explaining it, and I am appreciating the words. It's career growth for me to be considered for roles that are fractional, and mutually supportive. And being trusted with a role that is both interim and fractional from June onwards fits me well. 
+
+Being a fractional tester with 10-20% allocation takes a different perspective. This is usually something for management roles, but I can see the requests of this increasing. Not sure if I could make that make sense. ",
+"You uploaded a feed photo on August 12, 2026 at 2:46 PM (GMT)","Paired on *Capture the Bugs* with Ru Cindrea ? Gamescom, this time on adding statistics page. Turns out someone found a bug we had not yet found, and did not submit it even in the application. This one was something introduced by us putting the app in an iframe, and not testing the old features in a new frame. 
+
+This particular one was not self-verifying data, whereas a lot of the things we could see was identifying things we try and the ways we demo. We used to know that technique as clear-text way of reading source of particular data you would see elsewhere, but with AI we might be seeing consistent styles and groupings as well. Our fingerprint was recognizable.  ? 
+
+For learning how to would you 'test a text field' with versatile inputs, and a tiny application with results baseline comparison, you can try out: 
+https://lnkd.in/dNxry3id",
+"You uploaded a feed photo on August 12, 2026 at 1:07 PM (GMT)","The blockers of *time* and *shame*. Those two have real benefit stories in genAI use. People are doing things they weren't doing before, learning things they weren't able to do before. 
+
+There are two collected experiences in particular in my mind from space of test managers: 
+- doing an excel (complex one)
+- creating a Jira dashboard (tailored one)
+
+These two at first feel to me like things I learned to do 20 years ago. Granted, I took an advanced excel course to be comfortable with pivot tables and macros. And I was awarded the opportunities of configuring Jira for too many organizations over the years to learn the limits and possibilities of the tool. I was surprised the others hadn't learned those. 
+
+Eventually, I got to the realization with a little nudging of great folks of Mastodon:
+- we start our 10x from very different points, and appreciating the variety of skills and contributions in necessary
+- adding shame won't help, and the best of genAI is removal of shame, allowing for time to do things we never did before but delegated or left undone. 
+
+GenAI as learning tool is valuable. ",
+"You uploaded a feed photo on August 11, 2026 at 9:59 AM (GMT)","Many of us have learned that Grace Hopper coined the advice that it is better to ask for forgiveness than permission. . Elizabeth Ayer shifted me fundamentally, when he built on Hopper and suggested *radiating intent*. 
+
+We are, in our projects, often waiting for someone else to decide. Be it choice between Terraform and Bicep or our mutual commitment to showing a plan to a client or what day of the week we are meeting for breakfast at office, we expect ""other"" to contribute, and yield to a degree where things don't move forward. 
+
+A good way of doing things that aren't quite up your alley is to radiate intent. I was inspired to think about it as I posted to my project teams that I'm picking up work that wasn't mine, needs doing, and got pushback on a necessary conversation we had first. Doing something, visibly, is a great way for taking things forward. You will notice you are rarely being blocked for a conversation when you radiate intent. ",
+"You uploaded a feed photo on August 10, 2026 at 6:04 PM (GMT)","Whenever I book flights to a conference I promised to speak at, I remember the realities:
+- This means 16-18 hours of travel, and that is just the flights, each direction. 
+- This means investing money out of pocket in relevant scale to usually be compensated after the event.
+- This means a week away from work and family
+
+But it also means extending myself to a community somewhere else, hoping they not only benefit from the talks I put a lot of effort into making them useful and grounded in practice I live in majority of my working days, but also me fully being there and willing to help anyone who is there.
+
+See you at PNSQC in Portland, Oregon, USA October 12-14th to figure out testing together? ? ",
+"You uploaded a feed photo on August 10, 2026 at 3:27 PM (GMT)","Tunti pariopiskelua teemalla ""AI 3rd party integrations"". P??dyttiin laittamaan kuntoon ja kokeilemaan yhdistelyskenaarioita Jira ja Figma MCP:ill?, Playwright CLI:ll? ja tarkkailemaan tokenk?ytt??mme Codeburnilla. Isoin hikka: Playwright CLI vs. MCP, piti tiet?? mik? n?iden ero on. Pari ehdotettua k?ytt?skenaariota ehdittiin kokeilla alkuun. ",
+"You uploaded a feed photo on August 10, 2026 at 8:09 AM (GMT)","Year 2008 this was one of my slides on talking about testing in the industry for students at a university visit. Ideas about why testing exists were more incorrect than they are today, when AI makes everyone in dire need of testing, but the ideas about testers are taking steps backwards. 
+
+I find it almost reasonable to say that it is hard sell of extra testing (professional testers) when the client already buys teams where service promise includes it all. So the question these days is who holds control over how to emphasize viewpoints in software teams. 
+
+Makes it easier to see why in last 10 years, the client sector has moved to owning software development and acquiring services - they have control over this mix. ",
+"You uploaded a feed photo on August 6, 2026 at 8:09 AM (GMT)","The workforce transformation around AI hits tester profession in an interesting way, since tester profession is one of the least homogenous masses. While the world argues on growing programming-centricity making many testers developers, there are a lot of testers I would classify as knowledge workers. Knowledge worker type of a tester stops at reporting the bug, not at fixing the bug (with growing abilities in fixing, and varying boundaries on how the work gets shared with other developers). 
+
+I find myself tracking experiences people have already been through. 
+
+People who are ""developers"" have all or most of the knowledge worker experiences too with AI. People who are knowledge workers hand off all of that developer experiences to developers. 
+
+A lot of this split is on the tools you live with. Git-first or some WYSIWYG work support systems. For years we've believed that knowledge workers can't deal with having to see VSCode and version control, and would not recognize the computer they are on, let alone the sandbox they work on. For abstracting things away, we have designed work with a handoff. 
+
+I have chosen to live in the developer frame. I transform people to the developer frame, and in the developer frame. But I recognize the more significant fears are in the knowledge worker frame. ",
+"You uploaded a feed photo on August 5, 2026 at 5:08 PM (GMT)","Ohjelmistoalalla uuden oppiminen on v?ltt?m?tt?myys kokemustasosta huolimatta. Teinp? er??n yhteis?kolleegan kanssa k?ydyn keskustelun j?lkeen ajatusleikki? siit? ett? hyv?ll? opetuksella kahdella p?iv?ll? kuussa pienempipalkkainen oppisi tekem??n ty?n, ett? miss? ne nk. valmiiden senioreiden palkat menee. 
+
+T?m? laskelma sai mut pohtimaan kahdenlaista kouluttautumista: 
+- tekee musta p?tev?n
+- nostaa mun tuottavuutta
+
+Usein kun mietit??n koulutuksia, pienemm?n palkan kaverille panostuksen p?tevyyden t?ydent?miseen on helpompi perustella kun kokonaiskustannuksia lasketaan. Toki sit? tuloksellisuutta pit?? mietti?. 
+
+Tein l?hiaikoina CPACC-sertin ja ISTQB Advanced Test Automation -sertin. Ne teki musta p?tev?n tiettyihin caseihin. Osasin kyll? asiat pohjille, mutta p?tevyytt? on monenlaista. Toisaalta tein myyntivalmennuksen (itse asiassa kaksi), ja toinen niist? ei antanut kumpaakaan noista arvoista, toinen lis?si mun tuottavuutta. 
+
+M? haluaisin lis?? junnuja joita ""raskas koulutus"" (=maksetaan tuloksellisesta p?tevyyden saavuttamisesta) vie nopeasti eteenp?in. Ja tietty oppia itse valitsemaan vain kouluttautumista joka on hy?dyksi, mutta -- you win some, you lose some --. Sill? menn??n. 
+
+Ja olen ihan varma ett? pohtien asiaa ??neen linkkarisein?ll? on monta n?k?kulmaa joita en ole ajattellut juuri t?ss? hetkess?. Olinkin utelias siit? ett? miten muut omaa palkkaansa ja koulutustaan pohdiskelee. ",
+"You uploaded a feed photo on August 5, 2026 at 6:53 AM (GMT)","Listened a podcast episode with Ashley Hunsberger on conversations around job design, and loved the mention of what I now know is famous poem, used to describe situations where  you are surrounded by a lot of something, but none of it is helpful or usable. She used it on onboarding, I felt seen. 
+
+As I am onboarding a new team member this week, this is a great reminder. We have lots of water. I started finding things to drink early, but really became comfortable at finding them much closer to two years. Onboarding is not just how the org feeds you the info, but also how you ask the info to be fed - there is a whole lot more agency than people give credit for. 
+
+Also, like Anne-Marie Charrett says: investing in onboarding is the ultimate shift left. 
+
+",
+"You uploaded a feed photo on August 4, 2026 at 3:33 PM (GMT)","Funny insight: I feel lonely for talking with AI. I used to have these conversations with people. Someone used to be around for all this figuring out of how hard it is to explain things we don't have when we simultaneously have them, since we mean different things with those words. 
+
+I would not share the response AI generates on my socials. Anyone can generate it from the prompt. I have a newfound love for figuring out the questions people care to ask for. 
+
+Would figuring out the way we talk about doing things better be something I could converse with you, so that I would not talk to a machine? A colleague at work told me today that 15 minutes with me changes how things are. I believe that is missing the stream of 15 minutes leading up to a moment that we were appreciating today, but if there is one thing I think I learned, it is that 1:1 is powerful. Broadcasting from stages is illusion, as is broadcasting on socials. ",
+"You uploaded a feed photo on August 3, 2026 at 10:21 AM (GMT)","Yolo should not be the option. But do you know if is, for your environment? That is, for me the idea of sandbox awareness is something I teach from the very first vibe coding workshop. My work computer tends to include sandboxed accesses protected by software mechanisms in various degrees, ensuring that I would manage to avoid mixing things up myself and allowing AI harness full admin rights on my environments would not be something I'd do. 
+
+Understanding what these options even mean is not something we have equally divided in the industry as knowledge, let alone agreeing that the hurdles security thinking guides us to would be a worthwhile investment as they hit out convenience. 
+
+Figuring out how to figure this out better. Questionnaire on mastodon seems to work fine. ",
+"You uploaded a feed photo on August 3, 2026 at 9:30 AM (GMT)","In May, I joined Agile Testing Fellow / Lisa Crispin and Janet Gregory on a conversation on what in AI makes me most excited: Task expansion.
+
+With AI as our external imagination, we are learning things we did not know of before, because we are *curious*. The entry bar to trying a thing you did not try before is lower. 
+
+Last week for a colleagues, this was to create a complex beast of an excel with formulas and pivot tables. Something that I had forgotten that we did not all get a chance of learning through work. 
+
+For testers, task expansion is how we report bugs with pull requests (fixes) so that the overall flow is more effective. It's how we stop focusing on prompt engineering (individual perspective) and start focusing on context engineering (team knowledge) and showing up with more value. It's how we don't  have one person who designs tests and other who executes, and third who automates. We get support to grow in the value we provide, with less handoffs. 
+ 
+https://lnkd.in/dB_6m3ir",
+"You uploaded a feed photo on August 1, 2026 at 10:44 AM (GMT)","When assigning a test target as a recruiting exercise to a professional tester joining projects near me, I search for skill. The benchmarking results of 18% coverage of results from a professional tester is an intellectual challenge I have been trying to solve long enough that people smarter than me ask me if I could reframe so that I would not have the sense of an unsolvable puzzle. 
+
+From half a day on thinking of that reframe, I realize such exists. Instead of focusing on the skill on entry, I can work towards focusing the skill after learning. 
+
+In scale, watching the story unfold is could be sad though: clients having to tell contractors things that did not work; end users needing to share stories of insufficient quality. Finding the 25 000 ?/year mistake I found in June as a tester in a team working on testing during requirements and specifications phase later by either the team or the customer. 
+
+We used to talk about the idea that cost of errors multiplies, but we know now that it is not true for most of errors. This 25 000 ?/year was one of architecture and technologies. Knowing what I know now on implementing, this error too could have been fixed later by reorganizing where the things we build run on cloud. 
+
+Remembering also what agile gave us, even when we now no longer speak of it: smaller batches, smaller risk. There is a lot of power in the skill of being able to recognize problems, and get to places where they show up intentionally. That skill is learnable. 
+
+So right question for me is on why aren't our RCAs at large building this skill up in the scale I hope to show up. Maybe. #research
+
+",
+"You uploaded a feed photo on July 31, 2026 at 1:42 PM (GMT)","A colleague in the community helped me on groundwork around ideas and expectations on what results to expect from a tester. For him to help me, I may have given an hour of teaching. I learned a lot and wanted to share some of the insights the collaboration generated. 
+
+We were testing e-primer within capture the bugs -feedback frame . 
+https://lnkd.in/dNxry3id
+
+He proposed *positive* tests of real sentences as focus, and we learned that it is a wide concept that requires quite much imagination. Eprime is this idea of writing English voiding all forms of ""to be"" verb, and we came up with the You are - you're side by side. One works, one finds a bug. 
+
+Generating the 35 essentially different classes of input is a hard problem, and it's not taught in ISTQB courses. A lot of the testing is framed as ready answers from someone else, and a lot of the testers fail at finding problems because they stick to someone else's plans. 
+
+Added a few new features to the list of things we could consider, from tracking questions people should be asking to giving tips you can benefit from when learning but would never get with real applications. ",
+"You uploaded a feed photo on July 30, 2026 at 7:39 AM (GMT)","Now that we get to read every day how AI ""escaped"" the sandbox, it's good to remind. 
+
+Sandbox connected to network is poorly isolated. 
+Sandbox protected only by (vulnerable) software begs for escaping.
+Sandbox where we tell AI not to do something and it forgets, that is just us not getting that that is not how this technology works. 
+
+Notice how we assign the agency of bad decisions by people to AI? 
+",
+"You uploaded a video on May 21, 2025 at 4:27 PM (GMT)", -,https://dms.licdn.com/playlist/vid/dynamic/D4D05AQEs36bsVMrJHg/CeJxzMnGJSqoqjK_IcrdwcdXVcULme6Lxi9H45boAhQEURQ?e=1788624000&v=beta&t=0gpTzHAAzY64_B6x1S2WrT5tTIdgyMsJUTL5ZoMOdM4
+"You uploaded a video on April 9, 2025 at 5:28 PM (GMT)", -,https://dms.licdn.com/playlist/vid/dynamic/D4D05AQHnuFEGF66gOg/CeJxzMnGJikzK9XA1cTdx8dXVcULmZ6Px03UBPesNMw?e=1788624000&v=beta&t=PPsXw_-QFn7sg8KV0IyxuN6Xa2SKidvBhtTOkfcT53s
+"You uploaded a video on October 31, 2023 at 2:38 PM (GMT)", -,https://dms.licdn.com/playlist/vid/v2/D4D05AQEk7pohju99Wg/mp4-720p-30fp-crf28/mp4-720p-30fp-crf28/0/1698763138219?e=1788624000&v=beta&t=ngM1xfiNgNOvTmy02LmEo1uZf_aF1RO5h3DaPAwAgBs
+"You uploaded a document on March 3, 2022 at 5:26 PM (GMT)", -,https://media.licdn.com/dms/document/media/v2/C4E2DAQGbmxPrg5i18Q/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1646328407415?e=1788624000&v=beta&t=rn1qBYveeO2so7In1lOMwBy4bZXB57rYQwi1qtGiqKI
+"You uploaded a feed photo on June 23, 2020 at 7:34 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C4D22AQFsmpgnYvYpYg/feedshare-shrink_800/feedshare-shrink_800/0/1592940884998?e=1789603200&v=beta&t=ng9acszz18STMXfncJLg0pNQ_tgA2edIH55mVo1gze4
+"You uploaded a feed photo on March 9, 2020 at 3:31 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C4D22AQGUxKD4H4gBGg/feedshare-shrink_800/feedshare-shrink_800/0/1583767915170?e=1789603200&v=beta&t=Nf1Deagj2BNTyi4QM5YbuDbucP-N1MQ2hDT9MHq6LpQ
+"You uploaded a photo on March 5, 2020 at 3:05 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQFeV4zEfby5TA/feedshare-shrink_800/feedshare-shrink_800/0/1583377551039?e=1789603200&v=beta&t=B1kI4VADkDssfuFYBS3_5LpoxHzwHGu-agAEV1VOh1Q
+"You uploaded a feed photo on February 28, 2020 at 5:39 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C4D22AQGn7a9njxAxTw/feedshare-shrink_800/feedshare-shrink_800/0/1582868390577?e=1789603200&v=beta&t=EQSaIS9G6xH3aYDE2T9oMMLNrraAL5CbwjFtMTL98PA
+"You uploaded a photo on February 2, 2020 at 8:30 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQEmeP_iBVKHGA/feedshare-shrink_800/feedshare-shrink_800/0/1580632238169?e=1789603200&v=beta&t=oxCXYAAY_3jqlVHj-S_3R0xV1VnB-t8kbbzIl6FXnlg
+"You uploaded a photo on January 31, 2020 at 11:14 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQHssXBswAijFA/feedshare-shrink_800/feedshare-shrink_800/0/1580469264030?e=1789603200&v=beta&t=ZNVKVpQCnsWa6v1leVkvpTHCWB7mp8Npa8Y6hc_6AlE
+"You uploaded a feed photo on January 28, 2020 at 9:22 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C4E22AQGx6TL6Q3_MDg/feedshare-shrink_800/feedshare-shrink_800/0/1580203373663?e=1789603200&v=beta&t=dtl6iVHusj6XLeej6Y9MNHj_klXhCNBKND-C5xDOauo
+"You uploaded a photo on January 9, 2020 at 6:40 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQGyBzVBEVp8OQ/feedshare-shrink_800/feedshare-shrink_800/0/1578595233258?e=1789603200&v=beta&t=X1CbeeI_AbDXUEGDGv2hNTQptC2phE2o1ZAz55b-vyw
+"You uploaded a photo on December 18, 2019 at 6:56 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQGyn8laBxANJA/feedshare-shrink_800/feedshare-shrink_800/0/1576695392592?e=1789603200&v=beta&t=jv3L3W0Jzc8j8LE1ZTEyY2-pUvPQ1qL2zbyqi9zwnQk
+"You uploaded a photo on December 12, 2019 at 10:42 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQG0a4mrLBasig/feedshare-shrink_800/feedshare-shrink_800/0/1576147361271?e=1789603200&v=beta&t=yVeV8wCIDXFlSXP6FNyQZHK_exHeNvAGJkKffaKeXA0
+"You uploaded a photo on November 26, 2019 at 11:56 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQECdsvmDwbS1Q/feedshare-shrink_800/feedshare-shrink_800/0/1574769394404?e=1789603200&v=beta&t=PKO8bE3woxlJA4q-jvtfgfWequVmZYGdBgW0XrE1Xo4
+"You uploaded a photo on November 20, 2019 at 8:43 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQGIPi-nXnkTqg/feedshare-shrink_800/feedshare-shrink_800/0/1574282602963?e=1789603200&v=beta&t=5aB4W6x6Aj58eomFuf7rM0DwEIM8FngKrQwieY1bk6o
+"You uploaded a photo on November 20, 2019 at 3:47 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQFysq4VxXst_Q/feedshare-shrink_800/feedshare-shrink_800/0/1574264867417?e=1789603200&v=beta&t=DEkFA6zVneuo6GpkmHqSixpOvwxtYpZfj52DAuYLDLs
+"You uploaded a photo on November 17, 2019 at 1:52 AM (GMT)", -,https://media.licdn.com/dms/image/v2/C5622AQGD2bMIWGL34A/feedshare-shrink_800/feedshare-shrink_800/0/1573955532992?e=1789603200&v=beta&t=tbr7YKDUpImS3bMZsnGhtq82zPY3k9OOjZ8d05fR9uk
+"You uploaded a profile background photo on June 26, 2019 at 7:09 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C4D16AQG6E_ZKY19igg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1561576147399?e=1789603200&v=beta&t=b80H_S4E2UnompLhOA5S6BgffHsqBMokTuNJIB9incs
+"You uploaded a profile background photo on June 26, 2019 at 7:09 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C4D04AQFDx8WgXhkv_w/profile-originalbackgroundimage-shrink_396_1584/profile-originalbackgroundimage-shrink_396_1584/0/1561576147462?e=1789603200&v=beta&t=tDyFWEpBtJ-BrvERVxsPtftXyGgUDGieaxPlJG-CIq4
+"You uploaded a feed photo on May 19, 2019 at 6:06 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C4D22AQGXZ2LZ_vvF9Q/feedshare-shrink_800/feedshare-shrink_800/0/1573404613169?e=1789603200&v=beta&t=yBapQpIx0A-JSzxqjkdEKXsfSm_od_z7qDQxGPMyvjw
+"You uploaded a feed photo on March 7, 2019 at 2:45 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C4D22AQFlrF9eqeIciw/feedshare-shrink_800/feedshare-shrink_800/0/1551969944638?e=1789603200&v=beta&t=JvlbW5lrm5fCZl-_L_G6rVCHd4xryOFXm8qn25W9gds
+"You uploaded a feed photo on March 6, 2019 at 4:42 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C4E22AQEFU9QYMYWVYQ/feedshare-shrink_800/feedshare-shrink_800/0/1551890530678?e=1789603200&v=beta&t=qekVjHkDyEq74JVvLajkPv4tj-_FyPB6KnXAwfBVyFQ
+"You uploaded a article cover photo on March 4, 2018 at 6:44 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C5612AQGAZJ6KP1G2zQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520189081991?e=1789603200&v=beta&t=RMDp0iUjxSbdySxJUMpXxqARXJ7xE0zZjNVDj-wYRvQ
+"You uploaded a article cover photo on March 3, 2018 at 9:31 PM (GMT)", -,https://media.licdn.com/dms/image/v2/C5612AQFG8iV8vY9h4Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520112665865?e=1789603200&v=beta&t=1kvGDWtffKrn_bqlPzQzAb6q8pj2AJ2UBKnnaWsMpR0

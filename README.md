@@ -34,3 +34,7 @@ This folder will hold guides to exercises, like how I run coverage exercise arou
 ### Archives
 
 This folder holds my twitter and mastodon public notes that I have not yet processed into more consumable formats. I take public notes on what I learn and think, and want to have opportunity to learn from patterns over time even when I change tools for ideological reasons. 
+
+### YouTube
+
+This folder holds text transcripts of the talks on my own YouTube channel, generated from YouTube's auto-captions, so the words are searchable and reusable even though I prefer writing storylines down.
