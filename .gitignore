@@ -1,3 +1,7 @@
 .DS_Store
 archives/linkedin/.li_token
 archives/linkedin/snapshot/
+
+# python
+__pycache__/
+*.pyc

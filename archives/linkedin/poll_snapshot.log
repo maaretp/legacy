@@ -263,3 +263,63 @@ Written to /Users/maaretp/Documents/own-code/legacy/archives/linkedin/snapshot/
 
 Written to /Users/maaretp/Documents/own-code/legacy/archives/linkedin/snapshot/
 [poll] not ready yet; sleeping 1200s
+[poll 10/72 2026-08-30 17:32] fetching --content domains
+== MEMBER_SHARE_INFO
+  (not ready — LinkedIn still processing this domain; re-run later)
+== ARTICLES
+  ARTICLES: start=0 -> +159 (total 159)
+  wrote ARTICLES.html (159 lines)
+== ALL_COMMENTS
+  ALL_COMMENTS: start=0 -> +1206 (total 1206)
+  ALL_COMMENTS: start=1 -> +1854 (total 3060)
+== ALL_LIKES
+  ALL_LIKES: start=0 -> +4694 (total 4694)
+  ALL_LIKES: start=1 -> +4694 (total 9388)
+== ALL_VOTES
+  ALL_VOTES: start=0 -> +180 (total 180)
+== INSTANT_REPOSTS
+  INSTANT_REPOSTS: start=0 -> +199 (total 199)
+== RICH_MEDIA
+  RICH_MEDIA: start=0 -> +50 (total 50)
+
+== summary ==
+  MEMBER_SHARE_INFO: 0 records
+  ARTICLES: 159 records
+  ALL_COMMENTS: 3060 records
+  ALL_LIKES: 9388 records
+  ALL_VOTES: 180 records
+  INSTANT_REPOSTS: 199 records
+  RICH_MEDIA: 50 records
+
+Written to /Users/maaretp/Documents/own-code/legacy/archives/linkedin/snapshot/
+[poll] not ready yet; sleeping 1200s
+[poll 11/72 2026-08-30 17:53] fetching --content domains
+== MEMBER_SHARE_INFO
+  (not ready — LinkedIn still processing this domain; re-run later)
+== ARTICLES
+  ARTICLES: start=0 -> +159 (total 159)
+  wrote ARTICLES.html (159 lines)
+== ALL_COMMENTS
+  ALL_COMMENTS: start=0 -> +1206 (total 1206)
+  ALL_COMMENTS: start=1 -> +1854 (total 3060)
+== ALL_LIKES
+  ALL_LIKES: start=0 -> +4694 (total 4694)
+  ALL_LIKES: start=1 -> +4694 (total 9388)
+== ALL_VOTES
+  ALL_VOTES: start=0 -> +180 (total 180)
+== INSTANT_REPOSTS
+  INSTANT_REPOSTS: start=0 -> +199 (total 199)
+== RICH_MEDIA
+  RICH_MEDIA: start=0 -> +50 (total 50)
+
+== summary ==
+  MEMBER_SHARE_INFO: 0 records
+  ARTICLES: 159 records
+  ALL_COMMENTS: 3060 records
+  ALL_LIKES: 9388 records
+  ALL_VOTES: 180 records
+  INSTANT_REPOSTS: 199 records
+  RICH_MEDIA: 50 records
+
+Written to /Users/maaretp/Documents/own-code/legacy/archives/linkedin/snapshot/
+[poll] not ready yet; sleeping 1200s

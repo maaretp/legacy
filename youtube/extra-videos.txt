@@ -1,0 +1,40 @@
+# Talks / interviews / show appearances on OTHER people's YouTube channels.
+# One video id or URL per line; blank lines and #-comments ignored.
+# Processed by fetch_transcripts.py in addition to my own channel.
+
+zIFEPCAkZCU
+oQXbs3awemg
+ATE32ERlBqg
+v0pNA8a7dbY
+bA3gh2MD6WM
+ZWI6MFvxQJk
+n935eyyq4aE
+0CzA_yll0Fw
+AuUnB1hLTpg
+uA-VL86nOwE
+AjJF-0r5HMc
+CQTuI5y2NFI
+0NAB4nDOzl0
+Wh3MTHyA1tQ
+IETVizs_x2M
+7VaodpFN1Dg
+oavHo_kGt24
+Q_UrRPogoMc
+SnKUTre-oug
+iUNnxCeuG7E
+5lm-zZsNj6k
+xB3zVnzBW90
+WDSL06hN2Rw
+yWJY1rDqLBI
+F1V_JcpfWiY
+VAT2Wm34Ecw
+J2qLwAFN7_8
+fJURwOdjFXI
+alZtLZ2FH8U
+8Q2bqTpxSCs
+tzHpBXhxCHE
+Q8Jc7CIBWHY
+L1QsUXQhiMs
+iW7llt36Vis
+7Xu4xg9dZ0s
+3eO10dn06U4

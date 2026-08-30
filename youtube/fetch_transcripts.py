@@ -14,8 +14,12 @@ Prerequisites:
   * yt-dlp on PATH.  Install with:  brew install yt-dlp
     (no API key or login is needed for public videos with public captions)
 
+It also reads `youtube/extra-videos.txt` (one id/URL per line) for talks and
+interviews that live on other people's channels, and processes those too.
+
 Usage:
-  python3 fetch_transcripts.py                 # fetch new videos, skip existing
+  python3 fetch_transcripts.py                 # channel + extra-videos.txt, skip existing
+  python3 fetch_transcripts.py --no-channel    # only extra-videos.txt
   python3 fetch_transcripts.py --force         # re-fetch and overwrite all
   python3 fetch_transcripts.py --keep-vtt      # also keep the raw .vtt files
   python3 fetch_transcripts.py --url <video>   # just one video (id or full URL)
@@ -40,6 +44,8 @@ CHANNEL_URL = "https://www.youtube.com/channel/UCrTlIKuIS-LmRk-aAbcxTKg/videos"
 HERE = os.path.dirname(os.path.abspath(__file__))
 TRANSCRIPTS_DIR = os.path.join(HERE, "transcripts")
 INDEX_CSV = os.path.join(HERE, "video-index.csv")
+# Talks/interviews on other people's channels, one id or URL per line.
+EXTRA_FILE = os.path.join(HERE, "extra-videos.txt")
 
 # Caption tracks to try, in order of preference. "en-orig" is the original
 # English auto-caption; "en" is the (identical, for English talks) default.
@@ -74,6 +80,27 @@ def list_videos(url=CHANNEL_URL):
             continue
         videos.append({"id": e["id"], "title": e.get("title") or e["id"]})
     return videos
+
+
+def video_id(s):
+    """Pull a bare 11-char video id out of an id or any YouTube URL."""
+    s = s.strip()
+    m = re.search(r"(?:v=|youtu\.be/|/shorts/|/embed/)([A-Za-z0-9_-]{11})", s)
+    if m:
+        return m.group(1)
+    return s.split("&")[0].split("?")[0]
+
+
+def read_extra_ids():
+    if not os.path.exists(EXTRA_FILE):
+        return []
+    ids = []
+    with open(EXTRA_FILE, encoding="utf-8") as fh:
+        for line in fh:
+            line = line.split("#", 1)[0].strip()
+            if line:
+                ids.append(video_id(line))
+    return ids
 
 
 def slugify(text):
@@ -136,17 +163,25 @@ def fetch_one(vid, force=False, keep_vtt=False):
 
     with tempfile.TemporaryDirectory() as workdir:
         outtmpl = os.path.join(workdir, "%(id)s.%(ext)s")
+        # Metadata first, on its own, so a rate-limited caption download does
+        # not cost us the whole entry.
         rc, _, err = run([
-            "yt-dlp", "--skip-download",
-            "--write-info-json",
-            "--write-auto-subs", "--write-subs",
-            "--sub-langs", SUB_LANGS, "--sub-format", "vtt",
+            "yt-dlp", "--skip-download", "--write-info-json",
             "-o", outtmpl, url,
         ])
         info_path = os.path.join(workdir, f"{vid}.info.json")
         if rc != 0 or not os.path.exists(info_path):
             print(f"  ! {vid}: yt-dlp failed\n{err.strip()}")
             return None
+        # Captions in a second call; tolerate failure (429, none available).
+        rc2, _, err2 = run([
+            "yt-dlp", "--skip-download",
+            "--write-auto-subs", "--write-subs",
+            "--sub-langs", SUB_LANGS, "--sub-format", "vtt",
+            "-o", outtmpl, url,
+        ])
+        if rc2 != 0:
+            print(f"  ~ {vid}: caption download failed ({err2.strip().splitlines()[-1] if err2.strip() else 'unknown'})")
 
         with open(info_path, encoding="utf-8") as fh:
             info = json.load(fh)
@@ -212,13 +247,22 @@ def fetch_one(vid, force=False, keep_vtt=False):
 
 
 def write_index(rows):
-    rows = sorted(rows, key=lambda r: r["upload_date"], reverse=True)
+    """Merge the rows from this run into video-index.csv (keyed by id)."""
+    fields = ["id", "upload_date", "duration", "title", "url"]
+    merged = {}
+    if os.path.exists(INDEX_CSV):
+        with open(INDEX_CSV, newline="", encoding="utf-8") as fh:
+            for r in csv.DictReader(fh):
+                merged[r["id"]] = r
+    for r in rows:
+        merged[r["id"]] = {k: r.get(k, "") for k in fields}
+    out = sorted(merged.values(),
+                 key=lambda r: r.get("upload_date", ""), reverse=True)
     with open(INDEX_CSV, "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(
-            fh, fieldnames=["id", "upload_date", "duration", "title", "url"])
+        w = csv.DictWriter(fh, fieldnames=fields)
         w.writeheader()
-        w.writerows(rows)
-    print(f"\nWrote {INDEX_CSV} ({len(rows)} videos)")
+        w.writerows(out)
+    print(f"\nWrote {INDEX_CSV} ({len(out)} videos)")
 
 
 def main():
@@ -230,6 +274,8 @@ def main():
                     help="also keep the raw .vtt caption file next to the .md")
     ap.add_argument("--url", metavar="VIDEO",
                     help="fetch a single video (id or URL) instead of the channel")
+    ap.add_argument("--no-channel", action="store_true",
+                    help="skip the channel; only process extra-videos.txt")
     ap.add_argument("--list", action="store_true",
                     help="just print the channel video list and exit")
     args = ap.parse_args()
@@ -243,11 +289,17 @@ def main():
         return
 
     if args.url:
-        vid = args.url.rsplit("/", 1)[-1].split("v=")[-1].split("&")[0]
-        videos = [{"id": vid, "title": vid}]
+        videos = [{"id": video_id(args.url), "title": video_id(args.url)}]
     else:
-        videos = list_videos()
-        print(f"Channel has {len(videos)} videos\n")
+        videos = [] if args.no_channel else list_videos()
+        if not args.no_channel:
+            print(f"Channel has {len(videos)} videos")
+        seen = {v["id"] for v in videos}
+        extra = [i for i in read_extra_ids() if i not in seen]
+        if extra:
+            print(f"+ {len(extra)} extra videos from extra-videos.txt")
+            videos += [{"id": i, "title": i} for i in extra]
+        print()
 
     rows = []
     for i, v in enumerate(videos, 1):
