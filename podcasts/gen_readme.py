@@ -20,7 +20,7 @@ CUT_MARKERS = [
     "Log In or Register to post comments", "User Comments", "Community Sponsor",
     "Lets Hang!", "Featured Resources", "Leave a Reply", "Leave a Comment",
     "Post navigation", "Related Posts", "Related Episodes", "More Episodes",
-    "You might also like", "Recent Posts", "Recent Episodes",
+    "You might also like", "Recent Posts", "Recent Episodes", "Comments",
     "Oh, here is more", "Explore our resources",
     "May I Ask You For a Favor", "SUBSCRIBE & DOWNLOAD",
     "This site uses Akismet to reduce spam",
