@@ -39,3 +39,7 @@ captions on YouTube at all (Scan Agile 2015, one "Learning through Osmosis"
 recording, a Finnish career-story talk); one (The Automationist's Gambit,
 EuroSTAR 2021) was rate-limited on this run — re-run `--url 7VaodpFN1Dg`
 to fill it in.
+
+Added September 28th 2026: "Exploratory Testing Reimagined" (PractiTest
+webinar, September 24th 2026) — `--url BULFWhYG-LM`, id added to
+`extra-videos.txt`, full transcript.
