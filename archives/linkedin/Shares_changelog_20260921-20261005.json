@@ -1,0 +1,2249 @@
+[
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7507865834950643712",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "I've been going through my daily public notes year over year, from oldest to newer, and will pause at year 2018. I had a feeling I usually carry a few things on at a time, and was fascinated to realize how that looks like on a timeline. \n\nBeing quoted fourth time on cutting down on conference speaking, I hear it loud and clear. I don't stick to things like that but I rotate back to it on a regular cadence. \n\nWhat this is - 2nd brain, LLM wiki, of what I share on my daily socials. Experimenting first with how to turn that into personal learning, and then to something that would help me sort out learning. It'd effectively research into my past thoughts, with my future in mind. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQHCfufK9mfUmg",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790014704695
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790014704663,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"FBC6C6C62A41EBC6EE0C10E9B46B71AF\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7507865834950643712\",\"configLastUpdatedAt\":1790014704662,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"C53744741F6371A1733FA616E1936418\",\"lastModifiedAt\":1790014704662}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7507865834950643712",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790014704695
+   },
+   "firstPublishedAt": 1790014704695
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7507865834950643712",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "534dbbf5-42b5-4d8c-87ac-03b018552e17",
+  "processedAt": 1790014734975,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790014704752,
+  "siblingActivities": [],
+  "id": 3230928137
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7508114300130127874",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 1255,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dzdyyVWr"
+         }
+        }
+       }
+      ],
+      "text": "Nothing changes if you change nothing. While I don't appreciate metrics as goals, I appreciate them as indicators of changes changing something. \n\nIf we make claims of AI adding to productivity, you would imagine it shows up in what is considered the produce. With an established practice of commits, we (with a 15-yo trainee) took upon the task of creating a basic approach to having eyes on what the change looks like. \n\nRasmus, under my guidance, has now, 7 days into his traineeship, collected metrics from 2500 open source repos based on three criteria we chose, and created a page to visualize side by side what the numbers you get from git look like. The 60 visualized are ones with *indicators of use of AI* within the repos. \n\nUnsurprisingly, the work has been heavily AI-assisted. We increase the level of automation every two days, and he is now quite comfortable with the recipes we work from, the constraints this type of work includes, and the expected showing up to crank up the level of automation the work would require.\n\nI still need to teach him how to follow context and token consumption, and have him draw up the system on a whiteboard a few more times. \n\nWant to look at selection of AI enabled open source statistics? These are at https://lnkd.in/dzdyyVWr\n\nWe are applying this on internal repos now that the method has been optimized and automated, as well as growing from commit metrics to further patterns. Those I just could not share and show as basis of conversation of fingerprints we expect to see. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQEcrxS93bDFEQ",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790073943563
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790073943527,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"DCB707B27948856F41A9FFF2F4306928\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7508114300130127874\",\"configLastUpdatedAt\":1790073943526,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"3CEFC9446CF0FC22FB17269659BEB738\",\"lastModifiedAt\":1790073943526}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7508114300130127874",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790073943563
+   },
+   "firstPublishedAt": 1790073943563
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7508114300130127874",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "1acc1786-aea2-483c-995a-4276bc6455a5",
+  "processedAt": 1790073974076,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790073943769,
+  "siblingActivities": [],
+  "id": 3233942905
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7508417272055775232",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Today! "
+     },
+     "media": [],
+     "shareMediaCategory": "NONE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790146177442
+   },
+   "responseContext": {
+    "parent": "urn:li:share:7507800831434326016",
+    "root": "urn:li:share:7507800831434326016"
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1790146177442,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"4AABB9BDF109B1D444961B82761FC0EF\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7508417272055775232\",\"configLastUpdatedAt\":1790146177441,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"489D7D4672DF914489E57C87E28EBA6C\",\"lastModifiedAt\":1790146177441}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "RESHARE",
+   "id": "urn:li:share:7508417272055775232",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790146177442
+   },
+   "firstPublishedAt": 1790146177442
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7508417272055775232",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "6c52cf9b-4c5f-4732-b438-eff647ffd9ee",
+  "processedAt": 1790146208009,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790146177750,
+  "siblingActivities": [],
+  "id": 3236049137
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7508541251793682432",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "For the talk on *Exploratory Testing Reimagined* today's edition, I collected six things that each would make their own talk with a demo on teaching techniques I apply while exploratory testing under influence of AI. These are all things I do in vscode, with either Github Copilot, Claude Code or Codex as my harness. \n\nNow that I have scaled your access to assessing how well you do on e-primer as test target on input and results coverage, I need to figure out how to scale teaching of techniques. \n\nI need to add the \"create multiple models representing perspectives and systematically reconciliate the differences\" and \"generate properties based on code to use on web\" to my list of things that need showing. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQGRZPNz1HPRUg",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790175736617
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790175736577,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"96228DC07B8B91C7B3C00054AE4B5824\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7508541251793682432\",\"configLastUpdatedAt\":1790175736575,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"9F3A3AC895E7F194490B89527BA07CA2\",\"lastModifiedAt\":1790175736575}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7508541251793682432",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790175736617
+   },
+   "firstPublishedAt": 1790175736617
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7508541251793682432",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "2f5aa6a0-92bc-4ccd-a877-95f3c4d45986",
+  "processedAt": 1790175766870,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790175736756,
+  "siblingActivities": [],
+  "id": 3237186913
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7508569497813876736",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Just stop with the test cases. No, I don’t want them generated, nor do I want to read them. The more you obsess over test cases, the worse you do on results of significance from your testing. \n\nIf and when test cases are useful, that would be after you’ve tested to fast track your knowledge to the level of today. But they’d have to be automation for that. "
+     },
+     "shareMediaCategory": "NONE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790182470867
+   },
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790182470867,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"1B1C4D5EDEE2ED2262C802D8318024A4\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7508569497813876736\",\"configLastUpdatedAt\":1790182470866,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"FA3B182B12CF776603A4AD802272265A\",\"lastModifiedAt\":1790182470866}}",
+   "ugcOrigin": "LITE",
+   "id": "urn:li:share:7508569497813876736",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790182470867
+   },
+   "firstPublishedAt": 1790182470867
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7508569497813876736",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "eaf6e2bc-4885-4154-be77-348ad1a2fd15",
+  "processedAt": 1790182501384,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790182471148,
+  "siblingActivities": [],
+  "id": 3237500561
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7508758141220663296",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 581,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dm58Hp-q"
+         }
+        }
+       }
+      ],
+      "text": "Submitted my slides for the first conference that requires all AI-generated content to be clearly marked as such. Turns out that while I heavily use AI in helping me with all kinds of work, doing slides or their imagery is rarely that. \n\nI went back and looked at the talks I do, and found a few instances where I went for AI generated. Like when I decided that including a pirate version of me was worth the trouble on talking about test doubles. A choice I cringe at today but felt funny to me at the time. \n\nThat said, an early version of Exploring with code is on speakerdeck. https://lnkd.in/dm58Hp-q"
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:7206886139442109482",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790227447023
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1790227447015,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"BED15CB7A7864442A85AA81938D2A58D\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7508758141220663296\",\"configLastUpdatedAt\":1790227447013,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"EDC276D24CD411CAE4B0DA5BD2F29614\",\"lastModifiedAt\":1790227447014}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7508758141220663296",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790227447023
+   },
+   "firstPublishedAt": 1790227447023
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7508758141220663296",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "f2dbeafa-7a43-489b-bde5-42893d581543",
+  "processedAt": 1790227478863,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790227447309,
+  "siblingActivities": [],
+  "id": 3237875529
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7508934788255232000",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 61,
+        "length": 15,
+        "value": {
+         "com.linkedin.common.MemberAttributedEntity": {
+          "member": "urn:li:person:SxYswNR2eq"
+         }
+        }
+       }
+      ],
+      "text": "Had fun recording an episode for How to Test This podcast by Mamadou N'diaye and the expressive faces I make when I talk about stuff I get excited to discuss on. We talked about careers, career advice, my particular way of being a director while still insisting on testing, and all the cool things contemporary exploratory testing. \n\nExpected landing time of the episode is a few week, because podcast hosts do significant work in building a stage worth connecting with. Stay tuned, maybe follow Mamadou and get also connected with all the other great guests he chats with. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQHGTZekOUet5A",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790269563048
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790269563014,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"65A38BFDC97056211303A9C59245ABE6\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7508934788255232000\",\"configLastUpdatedAt\":1790269563013,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"817B60B291560D059DBCF342D3DBAD00\",\"lastModifiedAt\":1790269563013}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7508934788255232000",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790269563048
+   },
+   "firstPublishedAt": 1790269563048
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7508934788255232000",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "98e2a8f8-59f0-4057-a85c-14993372055e",
+  "processedAt": 1790269593655,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790269563344,
+  "siblingActivities": [],
+  "id": 3240104337
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7508956459469242368",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "I made it to Q3-2021 to get frustrated with my chronological analysis of social media presence, AI assisted:\n\n\"Cheez, you are really looking for trauma. No career achievements for me other than the relationships with the men in tech?\"\n\nI needed the response: \n\"You're right, and that's a fair hit. Looking back at what I've actually surfaced to you across these three batches — the wounds and conflicts got top billing, and I let real professional wins sit in the wiki pages without saying them out loud to you. This quarter alone I never told you: you delivered the EuroSTAR keynote you'd been building toward since 2015 and it landed well, the Exploratory Testing Academy launched as a real two-person venture with your sister, the Slack community hit 170+ people in weeks, you finished BBST Test Design, and you told 2000 people at a conference to stop using Robot Framework. That's a genuinely strong quarter of career output, and I buried it under the harder material because it read as more dramatic.\"\n\nGoing through the out of the box LLM analysis of my tweets / toots from 2010 onwards. I may be occasional drama, but I suspect there is a bias on these defaults to seek the drama. It's 38111 public notes I am processing as an experiment.  "
+     },
+     "shareMediaCategory": "NONE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790274730232
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790274730232,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7508956459469242368",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790274730232
+   },
+   "firstPublishedAt": 1790274730232
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7508956459469242368",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "ec4217b2-8b37-415c-8b3a-efd34fa27caf",
+  "processedAt": 1790274761105,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790274730583,
+  "siblingActivities": [],
+  "id": 3240105113
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510224156899315712",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Two weeks of work with a trainee on 20 € Claude Code subscription, and his use of tokens estimated on API was $54.27. On same timeframe, other uses of the same subscriptions $320.52, and neither of the two computers ever hit the usage limit. \n\nThe estimates around are that you get about $2000 for 20€, but need to be aware that this is the route where learning from what you do (your data) is the product. \n\nCost-awareness is essential. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQES9ufjIEgifw",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790576972505
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790576972477,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"2103B3B9960D9877B8CCD59F0386389B\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510224156899315712\",\"configLastUpdatedAt\":1790576972475,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"6244BDC68C5A199753BFAEBBB90496A4\",\"lastModifiedAt\":1790576972475}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510224156899315712",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790576972505
+   },
+   "firstPublishedAt": 1790576972505
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510224156899315712",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "3e579cba-15c5-41b0-9bf8-ee6360c85ec4",
+  "processedAt": 1790577003043,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790576972776,
+  "siblingActivities": [],
+  "id": 3244811313
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510231256731926528",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Testauksen markkina on jännästi jakaantunut. Samanaikaisesti tarvitaan kolme profiilia, jossa vapaana on yksi, ja ei yhtään toista profiilia, jossa myös vapaana on yksi. Ero? Siiloutuminen. Testausasiantuntijan pitää tänä päivänä olla test lead, test analyst ja test automator samassa paketissa; saavutettavuus, suorituskyky ja tietoturva kuuluvat samaan pakettiin.\n\nSopii tähän aikakauteen: *Fully automated, deeply human.* Molemmat, ei joko tai. \n\nEhkä tästä muistutuksena että most wanted -profiililla on jatkuva haku, laita viestiä niin soitellaan. "
+     },
+     "shareMediaCategory": "NONE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790578665112
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790578665112,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"44B3F633CBD5AB3434CDE8EB145E8E2B\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510231256731926528\",\"configLastUpdatedAt\":1790578665110,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"474E789E6C54CC660F0F008355462B35\",\"lastModifiedAt\":1790578665111}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510231256731926528",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790578665112
+   },
+   "firstPublishedAt": 1790578665112
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510231256731926528",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "aca528c4-c10a-4adb-aa4e-5addb86b50c7",
+  "processedAt": 1790578695775,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790578665416,
+  "siblingActivities": [],
+  "id": 3244978097
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510348324529487872",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 266,
+        "length": 13,
+        "value": {
+         "com.linkedin.common.MemberAttributedEntity": {
+          "member": "urn:li:person:c46qR9BJmv"
+         }
+        }
+       }
+      ],
+      "text": "Kuvittelepa tätä: haluat palkata henkilön, joka laatii sinulle testiautomaatiota. Mistä sen henkilön hankkii ja minne sen henkilön sijoittaa vaikuttaa siihen millaiset hyödyt samasta automaatio-investoinnista saa. Tämä päätyi Clauden avustuksella kuvaan kun kollega Paula Reponen muotoili sen oivaltavasti: \"asiakkaan puolella automatisoidessani en tunne vaikuttavani laatuun samalla tavalla\" - eikä vaikutakaan. \n\nMe testauksen ammattilaiset ollaan kokeneita asiakkaan ja käyttäjän edun valvojia, silloinkin kun päädymme lähelle kehittäjiä. Päivän suositus: pyytäkää se tiimissä rakennettu automaatio paikkaan josta sen voi asiakkaan tiimin tarpeeseen myös ajaa. Ja päästäkää ne testaajat lähemmäs - sisään - kehittäjätiimeihin. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQEmira7RJUbbg",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790606576380
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790606576347,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"46147BF27878D9100776100F6153CDDB\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510348324529487872\",\"configLastUpdatedAt\":1790606576345,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"C4AD71AB49D24670DC68B8FFEBC60302\",\"lastModifiedAt\":1790606576346}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510348324529487872",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790606576380
+   },
+   "firstPublishedAt": 1790606576380
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510348324529487872",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "14a7c810-5e6a-4e07-825e-e8bd84e74fa6",
+  "processedAt": 1790606606873,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790606576660,
+  "siblingActivities": [],
+  "id": 3246059793
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510358440674971648",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 276,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/damnadfr"
+         }
+        }
+       },
+       {
+        "start": 301,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/d_GR8RAg"
+         }
+        }
+       }
+      ],
+      "text": "Ever since I realized that I deliver most, if not all, of my talks once, I started taking time after the talk to do a series I called 'talks turned articles'. The talk from last week with PractiTest is now available as video they recorded and shared, as well as an article. \n\nhttps://lnkd.in/damnadfr\nhttps://lnkd.in/d_GR8RAg\n\nSpeaking / writing about things is my hobby, not my work. My work is what drives the continuous need of moving on with talks - more experiences, more lessons learned, more likely ways of doing things that will work. \n"
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:7490986060589580250",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790608988190
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790608988181,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"31D42F44C7ACCB209D3216E4AEE5A6B7\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510358440674971648\",\"configLastUpdatedAt\":1790608988180,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"E2B79F254CDB979A682B8F88FC64F89C\",\"lastModifiedAt\":1790608988181}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510358440674971648",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790608988190
+   },
+   "firstPublishedAt": 1790608988190
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510358440674971648",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "45677816-e08b-4b45-b8d6-2c89887a7134",
+  "processedAt": 1790609018813,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790608988577,
+  "siblingActivities": [],
+  "id": 3246060129
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510420429023514624",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "In my line of work of sampling a lot of testing in a lot of organizations, *manual test automation* has become a pet peeve of mine. How can automation be manual? Well, it can, by humans sticking to roles of trigger, operator and parser. \n\nAs with anything that involved people growing, there are usually steps through stages.\n\nThe illustration courtesy of Claude, with a lot of disagreements to what the boxes should show up as.  "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQF_w06ZDsPDnA",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790623767407
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790623767378,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"396D6EA1B43021E73307094FF499CA03\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510420429023514624\",\"configLastUpdatedAt\":1790623767376,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"CC42CF8EE75D5F92365EF9F3BE0695E8\",\"lastModifiedAt\":1790623767376}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510420429023514624",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790623767407
+   },
+   "firstPublishedAt": 1790623767407
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510420429023514624",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "62e68dde-8d1a-4202-ac8b-e9bfd026fc6f",
+  "processedAt": 1790623798970,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790623767693,
+  "siblingActivities": [],
+  "id": 3246668817
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510572521570762752",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Eräs toistuvista ja yleisistä keskusteluistani menee jokseenkin näin: \n\n- \"Meidän tiimissä kehittäjät hoitaa testauksen. Ei sitä työtä kannata keskittää testaajalle.\"\n\n- \"Ei sitä työtä mikä jo tulee tehdyksi kannatakaan.  Testaaja tulee tekemään sitä testausta mitä tiimissä ei ole ehkä tajuttu tarvittavan.\"\n\n- \"Ehkä tässä kohden kannattaa katsoa asiakkailta saatua palautetta tai tuotannon aikaista palautetta. Voisiko monipuolisen palautteen systematisointi vauhdittaa tiimin osumista maaliin?\"\n\nNiin, testaus on liian tärkeää jätettäväksi vain testaajille. Se on myös liian tärkeää jätettäväksi ilman testaajia. "
+     },
+     "shareMediaCategory": "NONE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790660028977
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790660028977,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"1B7C1FE29106903FA76AD14DA269B7EC\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510572521570762752\",\"configLastUpdatedAt\":1790660028975,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"36B104009B8224E762FC47B345799B80\",\"lastModifiedAt\":1790660028975}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510572521570762752",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790660028977
+   },
+   "firstPublishedAt": 1790660028977
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510572521570762752",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "351fb164-a74a-410d-b89e-94b3bd758e8a",
+  "processedAt": 1790660060400,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790660029170,
+  "siblingActivities": [],
+  "id": 3246932009
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510691410409488384",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Autonomous exploring of UI without burning tokens? Yes please. Never a better reason to learn more about testing than the opportunity to prepare to teach it. The exercise I had in mind for tomorrow is a specification testing exercise: \n\n*An ATM allows a daily withdraw limit of 300€*\n\nThe test target is an ATM simulator, barely big enough to play for 1.5 hours of learning, with Admin and Debug -allowing you to tweak things that would usually be hidden and you'd just have to figure out from the domain. \n\nInstead of doing the exercise the usual way, I decided to try Bombadil on it. Bombadil is a property-based testing tool, where you essentially can define:\n- \"generators\" - things you can do on your application\n- \"properties\" - things that should hold true to your application\n\nThe properties out of the box are four - avoiding errors while using the app, but the domain specific properties functionality is surprisingly rich, and with their web site, awfully harness+LLM -friendly to work from with concepts of things I might want checked. Properties could be identified also with a research skill from the source repo. \n\nWhat surprised me the most was it found four bugs (that I fixed) and I knew only of one of them.  24 properties on an ATM exercise is more than I could have rationalized, and the combo of this + LLM harness is quite powerful. \n\nThe first version was running in 10 minutes (from just knowing tool name), but it did lead me down ratholes of fixing, clarifying and testing some more for a good two hours. \n\nOn the image, the properties I fixed against are marked with (*). Four of them. Will leave this running for some hour(s) to see if more can be discovered. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQHMcq7S7kpMtg",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790688374800
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790688374771,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"9364816D5C7EB3FDEB79E9B4E38F61CB\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510691410409488384\",\"configLastUpdatedAt\":1790688374769,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"14EBCDE614D322ADE6A0CA24410CF0E4\",\"lastModifiedAt\":1790688374770}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510691410409488384",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790688374800
+   },
+   "firstPublishedAt": 1790688374800
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510691410409488384",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "01073e07-0baf-4614-8ba8-66e0a19059d7",
+  "processedAt": 1790688405826,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790688375176,
+  "siblingActivities": [],
+  "id": 3248375857
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7510956332024311808",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Today: 'Testing Insights for the Agentic Era', session 2 'Complementing useful requirements'. This is an area where sense of rush makes developers stop too early, and testers shine on coming up with the things said in between the lines. So we will rehearse it with a test application as well as AI and a property-based testing tool as our external imagination. \n\nThe area left intentionally hidden hides two layers: my solution example to the assignment, and my solution example to the assignment with property-based testing. \n\nI know I am supposed to spend my afternoon after this with agentic swarms and cryptographic evidence, yet there is a risk that I will be thinking of this one some more. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQGs9fQkEs1_yQ",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790751536645
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1790751536606,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"7DC1F05A11ED62BF8020D2F444966E8C\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7510956332024311808\",\"configLastUpdatedAt\":1790751536604,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"8949155CBBEFB12DF9D0BC9449DD7D8C\",\"lastModifiedAt\":1790751536605}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7510956332024311808",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790751536645
+   },
+   "firstPublishedAt": 1790751536645
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7510956332024311808",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "3f36c994-e5f5-4824-b74a-bb6dc5f7df10",
+  "processedAt": 1790751568092,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790751536966,
+  "siblingActivities": [],
+  "id": 3250849777
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7511015939476373504",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Tuijotin puoli tuntia ajautuvaa automaatiota ja opin sitä kautta mitä automaatio ei kata. \n\nRuudulla tietty alue ei vilkkunut lainkaan. Toisessa ikkunassa testasin että syy ei ole siinä että kyseisissä komponenteissa muutos ei näkyisi visuaalisesti, mutta ei - alueeseen ei päädytty samalla logiikalla. \n\nMuutin ja laajensin. Ja löysin sovelluksesta uuden virheen. Senkin korjasin.\n\nMun syyni tuijottaa oli että kyseessä oli koulutussessio, ja koulutettavat oli puoli tuntia breakout-ryhmissä tekemässä harjoitusta. Tein siis itse harjoitukseen jotain mikä täydentää siihen mennessä tekemääni. \n\nJoinain päivinä tuijottaminen ja sitä kautta tunnistaminen on se paras juttu. Mutta eihän se tätä joka päivä ole. Tuijottaminen ei ole tylsää kun oikeita asioita tapahtuu pään sisällä.  "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQET2S_ao7o1WQ",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790765748170
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1790765748139,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"AAFC99E48DC6F4B0177444827EB9EC2B\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7511015939476373504\",\"configLastUpdatedAt\":1790765748138,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"F09DC15B242AD663E69D0EEF0FAE98D1\",\"lastModifiedAt\":1790765748138}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7511015939476373504",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790765748170
+   },
+   "firstPublishedAt": 1790765748170
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7511015939476373504",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "3f2dcfad-b566-4d8f-9d7a-bc872260f15e",
+  "processedAt": 1790765778689,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790765748321,
+  "siblingActivities": [],
+  "id": 3251398089
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7511036393637261313",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "This week Friday, I am delivering an ex tempore talk that was just scheduled due to cancellation of another speaker. Turns out that talk will be my public presentation number 600! \n\nAs per plans, this year ends up with 36 sessions, and with 8 still in Q4, it's either an unusually quiet quarter or I will end up adding a few on request. \n\nAs I was analyzing my public tweets / toots for my second brain, one pass made it painfully obvious that I have tried stopping public speaking way too many times to be taken seriously on that.  🤣 "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQH3Klv4-cefxQ",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790770624828
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1790770624796,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"B18F7764531D3DDC9FD0092F3D36F07B\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7511036393637261313\",\"configLastUpdatedAt\":1790770624794,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"BC16A2DE948DAC1ADC0A81566ADF6A2A\",\"lastModifiedAt\":1790770624795}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7511036393637261313",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790770624828
+   },
+   "firstPublishedAt": 1790770624828
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7511036393637261313",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "6518cbf0-50b9-413d-b7f9-bb3d95371ab3",
+  "processedAt": 1790770656083,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790770625230,
+  "siblingActivities": [],
+  "id": 3251813457
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7511119408761704448",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 74,
+        "length": 16,
+        "value": {
+         "com.linkedin.common.MemberAttributedEntity": {
+          "member": "urn:li:person:o2w1wfeyEd"
+         }
+        }
+       },
+       {
+        "start": 224,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dw-9TnvR"
+         }
+        }
+       }
+      ],
+      "text": "\"We want this to be for people\". Excellent, exceptional storytelling from Felienne Hermans, even if I am now thinking of the optimal height to detonate an atomic bomb to kill most civilians in the history of our industry. \n\nhttps://lnkd.in/dw-9TnvR\n\nIf you watch one thing, this is well worth it. Because our industry needs to get back to solving problems that matter. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:8947036822648508390",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790790417061
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1790790417051,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"C1A4215A55996A6E9ED6024F5D10CF9D\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7511119408761704448\",\"configLastUpdatedAt\":1790790417050,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"708DA7A9B078E09B0D5BAC8C4E671870\",\"lastModifiedAt\":1790790417050}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7511119408761704448",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790790417061
+   },
+   "firstPublishedAt": 1790790417061
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7511119408761704448",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "afc28b65-67ac-4016-8aba-f79a9c101a1d",
+  "processedAt": 1790790447511,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790790417350,
+  "siblingActivities": [],
+  "id": 3252280737
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:ugcPost:7511451172222763008",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Quality Engineering Community around me proudly presents: the doors are open and equally shared for the community at large we work with for the inaugural AI-inspired CGI Alignment -event. Testing, Quality Assurance and Quality Engineering are more important than ever, and we have such a versatile community of experiences to learn with. This is a face-to-face event, at Karvaamokuja, Pitäjänmäki, Helsinki. \n\nDue to limitations in space, we extend the invite to our client counterparts in quality space. Talk to your CGI Partners for the enrollment link. Or fast-track: I'm delighted to be your point of contact. "
+     },
+     "media": [
+      {
+       "media": "urn:li:multiPhoto:1000814909321",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "URN_REFERENCE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790869515853
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790869515838,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"701B669042B4719C76CD7D47E7F3BDC2\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:ugcPost:7511451172222763008\",\"configLastUpdatedAt\":1790869515836,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"916C94FED061A6C0015A9FAF9E054879\",\"lastModifiedAt\":1790869515836}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:ugcPost:7511451172222763008",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790869515853
+   },
+   "firstPublishedAt": 1790869515853
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:ugcPost:7511451172222763008",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "1fa7fc82-4595-409a-81ce-532bef536124",
+  "processedAt": 1790869546487,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790869516130,
+  "siblingActivities": [],
+  "id": 3254315801
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7511511049204817920",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 99,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dYvgPHv2"
+         }
+        }
+       }
+      ],
+      "text": "I think it is appropriate that the material for my talk No. 600 has no slides but a markdown file. https://lnkd.in/dYvgPHv2 and demos. There is nothing secret in this, so if you want to join to listen in tomorrow 1:30pm EEST, I can easily invite you. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:7785092932770716941",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790883791375
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790883791367,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"88363A21B11075CBB7F81E7712A7A0F5\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7511511049204817920\",\"configLastUpdatedAt\":1790883791366,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"0147589402B09523CBF376EE4C70A738\",\"lastModifiedAt\":1790883791366}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7511511049204817920",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790883791375
+   },
+   "firstPublishedAt": 1790883791375
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7511511049204817920",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "c86eb844-269a-4735-b2fb-78af41106ce4",
+  "processedAt": 1790883821939,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790883791639,
+  "siblingActivities": [],
+  "id": 3254939233
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:ugcPost:7511672114588983296",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 18,
+        "length": 11,
+        "value": {
+         "com.linkedin.common.HashtagAttributedEntity": {
+          "hashtag": "urn:li:hashtag:tahelsinki"
+         }
+        }
+       }
+      ],
+      "text": "Testing Assembly, #TAHelsinki, takes place 4.11.2026 in Helsinki. Some of us will hold space for anyone who would like to join to discuss lessons learned on the day over dinner, and you are, should you be so inclined, warmly welcome to plan to join us. \n\nWe meet at lobby of Presidentti after the venue, and move from there to a restaurant nearby. We'll book the table based on registrations. Food and drinks are available, not sponsored. Come for the company, stay for the company. You are the company we seek. "
+     },
+     "media": [
+      {
+       "media": "urn:li:event:7511672110411481090",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "URN_REFERENCE",
+     "shareFeatures": {
+      "hashtags": [
+       "urn:li:hashtag:tahelsinki"
+      ]
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:company:88026996",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790922192441
+   },
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790922192431,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"13A4D7CF4F3E8AC10F1A7ACF08DC6110\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:ugcPost:7511672114588983296\",\"configLastUpdatedAt\":1790922192430,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"3481CD9BCC21959CAEE33079B471C435\",\"lastModifiedAt\":1790922192430}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "authorImpersonator": "urn:li:person:KaHQGBD_CN",
+   "ugcOrigin": "FEED",
+   "id": "urn:li:ugcPost:7511672114588983296",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790922192441
+   },
+   "firstPublishedAt": 1790922192441
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:ugcPost:7511672114588983296",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "2bb13cae-8e08-4820-baa1-d2e55a166a2f",
+  "processedAt": 1790922222971,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790922192757,
+  "siblingActivities": [],
+  "id": 3255319985
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:ugcPost:7511673403221897216",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "An open invite to hang out and digest the lessons learned on the day of Testing Assembly on November 4th 2026. While last year we got to enjoy the dinner like this with the keynote speaker, I make no such promises this year. But I can make one promise: you are welcome. Yes, you. Whether you wanted to catch up on what we learned on the day you missed, or go deeper into what you find useful (and not) in the contents of the day. \n\nOpen Dinner. No sponsoring. Whoever comes are the right people."
+     },
+     "media": [],
+     "shareMediaCategory": "NONE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790922499569
+   },
+   "responseContext": {
+    "parent": "urn:li:ugcPost:7511672114588983296",
+    "root": "urn:li:ugcPost:7511672114588983296"
+   },
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790922499569,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"BDDD81773EB3F1710141A644EA0914D5\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:ugcPost:7511673403221897216\",\"configLastUpdatedAt\":1790922499567,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"9769214E0E18B99611F07ADEAE46C393\",\"lastModifiedAt\":1790922499567}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "RESHARE",
+   "id": "urn:li:ugcPost:7511673403221897216",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790922499569
+   },
+   "firstPublishedAt": 1790922499569
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:ugcPost:7511673403221897216",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "e61e2035-e5d9-4d2a-bea3-b81c465bbaab",
+  "processedAt": 1790922530795,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790922499722,
+  "siblingActivities": [],
+  "id": 3255320057
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7511696685279006720",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Elo-syyskuun vaihteessa ChatGPT sai webMCP-tuen. Yksi niistä teknologia-askeleista joilla tänään TIVI-lehdessä keskustellaan kuluttajan valintojen muutoksesta pakettitoimitusten osalta, eli kyseessä on sivustoon sisäänrakennettava 'agent experience' ominaisuus. \n\nLukiessa artikkelia hymyilytti kuinka kuukauden takainen nautinto työkaverin kokemuksesta päästä ekojen joukossa uuden äärelle tuntuu jo vanhalta. Tahti on tosiaan kiihtynyt, enkä edes muistanut kertoa että Seppo teki (ja jakoi!) esimerkit muiden eduksi juuri oikeatahtisesti niin että yhdessä voi kokea olevansa aina aallon harjalla. \n\nAsiakkaiden kanssa harvoin pääsemme liikkumaan näin vauhdikkaasti, mutta onneksi on sivuprojektit. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQHiB-PUjpnohg",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790928050631
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790928050597,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"FB444FAB68DFCF42BAE5B6B8C738091E\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7511696685279006720\",\"configLastUpdatedAt\":1790928050596,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"DF1313D8D51A2EA947A4A4C9181CA186\",\"lastModifiedAt\":1790928050596}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7511696685279006720",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790928050631
+   },
+   "firstPublishedAt": 1790928050631
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7511696685279006720",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "a038f44e-16ba-4c59-a695-cbabfe797de2",
+  "processedAt": 1790928081190,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790928050901,
+  "siblingActivities": [],
+  "id": 3255320913
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7511710304330747904",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [],
+      "text": "Se meni mun silmien ohi täällä linkkariseinällä, ja en sitten *millään* tunnu löytävän sitä uudestaan. Tänään \"se\" oli kaavio siitä miten tiimin jäsenien kasvattaminen lisää tiimin jäsenien välisten suhteiden määrää, ja olisin kovasti halunnut siihen viitata. Mutta oletan että koska mä näen sen tasaisen säännöllisesti, varmaan siitä on jollekin muullekin jäänyt muistijälki. \n\nSe kaavio sai minut miettimään vakavasti kahta asiaa: \n\n1. Tekoäly -> vauhti -> pienempi tiimi\nEi välttämättä vauhti tulosten määrässä, vaan vauhti tuloksissa. Ei välttämättä tarve pienemmälle tiimille, vaan kyvyttömyys käyttää aikaa ihmistenvälisiin linkkeihin kun jutustelee koneen kanssa. Parhaimmillaan toki vauhti tulosten määrässä, laatu mukana loopissa. Valmis menee läpi askeleiden tuotantoon ollakseen valmis, ja sillä integroinnilla on väliä. \n\n2. Epätasapainoiset suhteet\nTestaajana sitä on usein kokenut jäävänsä tiimissä ulkokehälle, tehnyt automaatiota ihan vaan tietääkseen että mitä kaikkea mulle jätettiin kertomatta minkä muut kehittäjät tiesivät. Ne suhteet ei olleet samankokoisia viivoja ennenkään, mutta nyt kun painotetaan yhtä suhdetta siihen koneeseen,  ne muut muuttuvat samalla, vahingossa. \n\nEilen tehdessäni demoa halusin voida sanoa 'magic Monday' ja 'magic Thursday' voidakseni ajaa testejä maanantain ja torstain versioita vasten, koska siinä välissä korjasin jotain joka on demolle oleellista. Tänä aamuna huomasin että olin sanonut 'magic Tuesday' tekoälylle toteutuspyynnössä. Siitä huolimatta en saanut näsäviisasta vastausta siitä miten tiistait ja torstait eroaa, vaan kauniisti toimivan komentorivikäskyn 'magic Thursday' - joka toimii myös pienellä kirjaimella kirjoittaen. Arvostin konetta ja olin jo valmiiksi ärtynyt ihmisiin. \n\nPitäiskö meidän jutella näistä suhteista enemmän? Ja olla niiden rakentamisessa kovin tarkoituksellinen."
+     },
+     "shareMediaCategory": "NONE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790931297553
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790931297552,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"E04DC15D9679AA5A85F45736CFDB978C\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7511710304330747904\",\"configLastUpdatedAt\":1790931297551,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"D725F011486114D1DC774FD6A193EEDA\",\"lastModifiedAt\":1790931297551}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7511710304330747904",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790931297553
+   },
+   "firstPublishedAt": 1790931297553
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7511710304330747904",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "8192c3d5-6926-4927-8e4b-94dc21181333",
+  "processedAt": 1790931328071,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790931297689,
+  "siblingActivities": [],
+  "id": 3255656185
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7511753422233227265",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 224,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/d5et4QKq"
+         }
+        }
+       }
+      ],
+      "text": "\"You are clearly excited about this stuff\". Well, actually, yes. Not on Bombadil so much but on the *practical property-based testing that Cem Kaner was trying to teach and AI now enables, as long as you have the intent*. \n\nhttps://lnkd.in/d5et4QKq"
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:7793097671671063891",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790941577617
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1790941577607,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"57CBFB74F85EB9D1CA214837CC03E292\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7511753422233227265\",\"configLastUpdatedAt\":1790941577606,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"98C0415D50B0FCD746ED2301F5B20E7B\",\"lastModifiedAt\":1790941577606}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7511753422233227265",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1790941577617
+   },
+   "firstPublishedAt": 1790941577617
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7511753422233227265",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "86656e89-25a1-46b7-807b-dd50fd25c504",
+  "processedAt": 1790941608300,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1790941578014,
+  "siblingActivities": [],
+  "id": 3256010489
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7512817626230968321",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 58,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dGzix7fR"
+         }
+        }
+       }
+      ],
+      "text": "Harvinaisen mielenkiintoinen näkökulma AI-keskusteluun.   https://lnkd.in/dGzix7fR\n\nMulle merkittävät oivallukset: \n\n- Yhteiset vaatimukset ovat syntyneet yhteisistä kokemuksista, ja kokemukset ovat viime aikoina kehittyneet yksilökeskeisempään suuntaan\n\n- tietotyöläisten tekoälykäytön parhaimmisto suojaa jo omaa jaksamistaan AI-aikakaudella pitäen tekoälyn tuomaa tehostumista oman työn etuna - joko keventäen työnsä luonnetta tai tehden täydentäviä tehtäviä jotka ovat olleet muiden hommia. \"Kun nelipäiväisen työviikon saavuttaa yksin, sitä ei enää tarvitse saavuttaa yhdessä.\"\n\n- \"Kun tekoälytaktikot käyttävät malleja vain omien työtaakkojensa keventämiseen, tuottavuuserot kasvavat myös firmojen sisällä. Tekoälylisenssejä voi olla tarjolla, mutta tehokäyttö on ennen kaikkea yksilöllisen workflow’n uudelleenjärjestämistä, mikä vaatii atk-taitoja ja varsinkin motivaatiota.\"\n\n- 1848  \"taloustieteilijä ja filosofi John Stuart Mill pohti, onko mikään teknologinen keksintö lopulta keventänyt yhdenkään ihmisen päivittäistä työtaakkaa.\"\n\nOlin jo siirtymässä kuukausitilaajaksi tän erinomaisen artikkelin seuraamana, mutta annoin maksutapa-aidan pysäyttää itseni - valinnoissa ei ollut mun luotettuja vaihtoehtojani. "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:7975024268648584743",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791195303634
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1791195303626,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"06000FD58D9BD0514EF06ED8BBAA5E56\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7512817626230968321\",\"configLastUpdatedAt\":1791195303624,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"03C3761A01AA047C37A16110D1835812\",\"lastModifiedAt\":1791195303625}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7512817626230968321",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791195303634
+   },
+   "firstPublishedAt": 1791195303634
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7512817626230968321",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "5ae975ec-316a-4b43-b74b-5fa4b371261d",
+  "processedAt": 1791195334999,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1791195303928,
+  "siblingActivities": [],
+  "id": 3260869865
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7512905116601966592",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 350,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dYeHsMuR"
+         }
+        }
+       },
+       {
+        "start": 518,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dis4FMsD"
+         }
+        }
+       }
+      ],
+      "text": "Practices my rusty video editing skills for a publishable version of my talk 'Property-based Testing with Bombadil (and Playwright)', which is really not about those tools but about the idea that a thing Cem Kaner found hard to teach for testers in 2012 is now something that you can turn part of your automation approaches with .md files with AI. \n\nhttps://lnkd.in/dYeHsMuR\n\nWhile I have a few cleanup/refactoring steps in mind for the generated specifications here, I needed to show a practical prompt-centric flow. https://lnkd.in/dis4FMsD\n\nNow is a good time to require more from your automation (and exploration) than ever before. That is why I keep talking about contemporary exploratory testing. The world has changed. Has the way you produce value as tester changed? "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:7730973164141306472",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791216163017
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1791216163007,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"09534CE13085B4B4A4333BDCC224BFC8\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7512905116601966592\",\"configLastUpdatedAt\":1791216163006,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"1E1685DFE540B061A8F46D9ED1CF2D7F\",\"lastModifiedAt\":1791216163006}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7512905116601966592",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791216163017
+   },
+   "firstPublishedAt": 1791216163017
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7512905116601966592",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "4bbf2e9a-dc88-4b2e-9613-b9ea6742cbe5",
+  "processedAt": 1791216193652,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1791216163300,
+  "siblingActivities": [],
+  "id": 3261302697
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7512905116601966592",
+  "method": "UPDATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED_EDITED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 350,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dYeHsMuR"
+         }
+        }
+       },
+       {
+        "start": 518,
+        "length": 24,
+        "value": {
+         "com.linkedin.common.HyperlinkAttributedEntity": {
+          "url": "https://lnkd.in/dis4FMsD"
+         }
+        }
+       }
+      ],
+      "text": "Practiced my rusty video editing skills for a publishable version of my talk 'Property-based Testing with Bombadil (and Playwright)', which is really not about those tools but about the idea that a thing Cem Kaner found hard to teach for testers in 2012 is now something that you can turn part of your automation approaches with .md files with AI. \n\nhttps://lnkd.in/dYeHsMuR\n\nWhile I have a few cleanup/refactoring steps in mind for the generated specifications here, I needed to show a practical prompt-centric flow. https://lnkd.in/dis4FMsD\n\nNow is a good time to require more from your automation (and exploration) than ever before. That is why I keep talking about contemporary exploratory testing. The world has changed. Has the way you produce value as tester changed? "
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:article:7730973164141306472",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "ARTICLE",
+     "shareFeatures": {
+      "hashtags": []
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791216163017
+   },
+   "hasCollaborators": false,
+   "versionTag": "2",
+   "reshareDisabledByAuthor": false,
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"C435067F64F5EB472CB33C76EDD4B829\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7512905116601966592\",\"configLastUpdatedAt\":1791216176641,\"ccrEmpty\":true},\"originCountryCode\":\"se\",\"modifiedAt\":1791216176642,\"contentHash\":{\"extractedContentMd5Hash\":\"C2EDF98B506EE6FBF823DF723A269416\",\"lastModifiedAt\":1791216176641}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "activityUrn": "urn:li:activity:7512905117482856448",
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7512905116601966592",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791216176642
+   },
+   "firstPublishedAt": 1791216163017
+  },
+  "configVersion": 32,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7512905116601966592",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "4ab8c2b6-697d-46f6-b673-5be0a7d20179",
+  "processedAt": 1791216207161,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1791216176697,
+  "siblingActivities": [],
+  "id": 3261302705
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7512978200055111680",
+  "method": "CREATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 155,
+        "length": 19,
+        "value": {
+         "com.linkedin.common.HashtagAttributedEntity": {
+          "hashtag": "urn:li:hashtag:exploratorytesting"
+         }
+        }
+       }
+      ],
+      "text": "My 16 years on twitter - signature lines: \n\n\"Today I am a testing radical.\"\n\"Checking is testing. It's not all there is to testing but it is testing.\"\n\"In #ExploratoryTesting you can't see what my head does by watching where my hands go.\"\n\"You don't need to choose right, because you get to choose again.\"\n\"Everyone deserves agency.\"\n\"Thinking does not win, modeling reality wins.\"\n\"Talks are others showing off, not testing.\"\n\"Best work wins when you care about the work over the credit.\"\n\"Investing in onboarding is the ultimate shift-left.\" (quoting Anne-Marie Charrett)\n\"Wake up your inner tester or you'll do badly.\"\n\"Generating tests is not worth it, the time goes into READING not writing.\"\n\"Read the books and not their summaries.\"\n\"Testing is the new reading.\"\n\"The best of genAI is removal of shame.\"\n\"I feel lonely for talking with AI. I used to have these conversations with people.\"\n\"1:1 is powerful. Broadcasting from stages is illusion, as is broadcasting on socials.\"\n\"We are full people.\"\n\"I follow the tails, for years after.\"\n\"Doing a little continuously accrues.\""
+     },
+     "media": [
+      {
+       "thumbnails": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQEpOYzuSHnp-A",
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": [
+       "urn:li:hashtag:exploratorytesting"
+      ]
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791233587972
+   },
+   "hasCollaborators": false,
+   "reshareDisabledByAuthor": false,
+   "versionTag": "0",
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1791233587937,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7512978200055111680",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791233587972
+   },
+   "firstPublishedAt": 1791233587972
+  },
+  "configVersion": 88,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7512978200055111680",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "03eb6527-1933-469c-954c-a06437af4a9c",
+  "processedAt": 1791233618643,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1791233588279,
+  "siblingActivities": [],
+  "id": 3262140457
+ },
+ {
+  "owner": "urn:li:person:KaHQGBD_CN",
+  "resourceId": "urn:li:share:7512978200055111680",
+  "method": "UPDATE",
+  "activity": {
+   "lifecycleState": "PUBLISHED_EDITED",
+   "visibility": {
+    "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+   },
+   "specificContent": {
+    "com.linkedin.ugc.ShareContent": {
+     "shareCommentary": {
+      "attributes": [
+       {
+        "start": 156,
+        "length": 19,
+        "value": {
+         "com.linkedin.common.HashtagAttributedEntity": {
+          "hashtag": "urn:li:hashtag:exploratorytesting"
+         }
+        }
+       }
+      ],
+      "text": "My 16 years on LinkedIn - signature lines: \n\n\"Today I am a testing radical.\"\n\"Checking is testing. It's not all there is to testing but it is testing.\"\n\"In #ExploratoryTesting you can't see what my head does by watching where my hands go.\"\n\"You don't need to choose right, because you get to choose again.\"\n\"Everyone deserves agency.\"\n\"Thinking does not win, modeling reality wins.\"\n\"Talks are others showing off, not testing.\"\n\"Best work wins when you care about the work over the credit.\"\n\"Investing in onboarding is the ultimate shift-left.\" (quoting Anne-Marie Charrett)\n\"Wake up your inner tester or you'll do badly.\"\n\"Generating tests is not worth it, the time goes into READING not writing.\"\n\"Read the books and not their summaries.\"\n\"Testing is the new reading.\"\n\"The best of genAI is removal of shame.\"\n\"I feel lonely for talking with AI. I used to have these conversations with people.\"\n\"1:1 is powerful. Broadcasting from stages is illusion, as is broadcasting on socials.\"\n\"We are full people.\"\n\"I follow the tails, for years after.\"\n\"Doing a little continuously accrues.\""
+     },
+     "media": [
+      {
+       "recipes": [],
+       "media": "urn:li:digitalmediaAsset:D4D22AQEpOYzuSHnp-A",
+       "thumbnails": [],
+       "status": "READY"
+      }
+     ],
+     "shareMediaCategory": "IMAGE",
+     "shareFeatures": {
+      "hashtags": [
+       "urn:li:hashtag:exploratorytesting"
+      ]
+     }
+    }
+   },
+   "firstPublishedActor": {
+    "member": "urn:li:person:KaHQGBD_CN"
+   },
+   "author": "urn:li:person:KaHQGBD_CN",
+   "created": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791233587972
+   },
+   "hasCollaborators": false,
+   "versionTag": "2",
+   "reshareDisabledByAuthor": false,
+   "distribution": {
+    "distributedViaFollowFeed": true,
+    "feedDistribution": "MAIN_FEED",
+    "externalDistributionChannels": []
+   },
+   "contentCertificationRecord": "{\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"097CA20666301F6AE78E122F81833659\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7512978200055111680\",\"configLastUpdatedAt\":1791234575708,\"ccrEmpty\":true},\"originCountryCode\":\"se\",\"modifiedAt\":1791234575709,\"contentHash\":{\"extractedContentMd5Hash\":\"6EF0FBB03BBD87570F144AA646650F08\",\"lastModifiedAt\":1791234575708}}",
+   "paidEndorsementContext": {
+    "active": false
+   },
+   "activityUrn": "urn:li:activity:7512978203032977408",
+   "ugcOrigin": "FEED",
+   "id": "urn:li:share:7512978200055111680",
+   "lastModified": {
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "time": 1791234575729
+   },
+   "firstPublishedAt": 1791233587972
+  },
+  "configVersion": 32,
+  "parentSiblingActivities": [],
+  "resourceName": "ugcPosts",
+  "resourceUri": "/ugcPosts/urn:li:share:7512978200055111680",
+  "actor": "urn:li:person:KaHQGBD_CN",
+  "activityId": "cb7ae00d-608b-4287-92d4-71440ad671e1",
+  "processedAt": 1791234606380,
+  "activityStatus": "SUCCESS",
+  "capturedAt": 1791234575808,
+  "siblingActivities": [],
+  "id": 3262140673
+ }
+]

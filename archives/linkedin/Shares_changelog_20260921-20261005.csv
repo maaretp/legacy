@@ -1,0 +1,191 @@
+Date,ShareLink,ShareCommentary,SharedUrl,MediaUrl,Visibility
+2026-10-05 20:53:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7512978200055111680,"My 16 years on LinkedIn - signature lines: 
+
+""Today I am a testing radical.""
+""Checking is testing. It's not all there is to testing but it is testing.""
+""In #ExploratoryTesting you can't see what my head does by watching where my hands go.""
+""You don't need to choose right, because you get to choose again.""
+""Everyone deserves agency.""
+""Thinking does not win, modeling reality wins.""
+""Talks are others showing off, not testing.""
+""Best work wins when you care about the work over the credit.""
+""Investing in onboarding is the ultimate shift-left."" (quoting Anne-Marie Charrett)
+""Wake up your inner tester or you'll do badly.""
+""Generating tests is not worth it, the time goes into READING not writing.""
+""Read the books and not their summaries.""
+""Testing is the new reading.""
+""The best of genAI is removal of shame.""
+""I feel lonely for talking with AI. I used to have these conversations with people.""
+""1:1 is powerful. Broadcasting from stages is illusion, as is broadcasting on socials.""
+""We are full people.""
+""I follow the tails, for years after.""
+""Doing a little continuously accrues.""",,urn:li:digitalmediaAsset:D4D22AQEpOYzuSHnp-A,PUBLIC
+2026-10-05 16:02:43,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7512905116601966592,"Practiced my rusty video editing skills for a publishable version of my talk 'Property-based Testing with Bombadil (and Playwright)', which is really not about those tools but about the idea that a thing Cem Kaner found hard to teach for testers in 2012 is now something that you can turn part of your automation approaches with .md files with AI. 
+
+https://lnkd.in/dYeHsMuR
+
+While I have a few cleanup/refactoring steps in mind for the generated specifications here, I needed to show a practical prompt-centric flow. https://lnkd.in/dis4FMsD
+
+Now is a good time to require more from your automation (and exploration) than ever before. That is why I keep talking about contemporary exploratory testing. The world has changed. Has the way you produce value as tester changed? ",,urn:li:article:7730973164141306472,PUBLIC
+2026-10-05 10:15:03,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7512817626230968321,"Harvinaisen mielenkiintoinen näkökulma AI-keskusteluun.   https://lnkd.in/dGzix7fR
+
+Mulle merkittävät oivallukset: 
+
+- Yhteiset vaatimukset ovat syntyneet yhteisistä kokemuksista, ja kokemukset ovat viime aikoina kehittyneet yksilökeskeisempään suuntaan
+
+- tietotyöläisten tekoälykäytön parhaimmisto suojaa jo omaa jaksamistaan AI-aikakaudella pitäen tekoälyn tuomaa tehostumista oman työn etuna - joko keventäen työnsä luonnetta tai tehden täydentäviä tehtäviä jotka ovat olleet muiden hommia. ""Kun nelipäiväisen työviikon saavuttaa yksin, sitä ei enää tarvitse saavuttaa yhdessä.""
+
+- ""Kun tekoälytaktikot käyttävät malleja vain omien työtaakkojensa keventämiseen, tuottavuuserot kasvavat myös firmojen sisällä. Tekoälylisenssejä voi olla tarjolla, mutta tehokäyttö on ennen kaikkea yksilöllisen workflow’n uudelleenjärjestämistä, mikä vaatii atk-taitoja ja varsinkin motivaatiota.""
+
+- 1848  ""taloustieteilijä ja filosofi John Stuart Mill pohti, onko mikään teknologinen keksintö lopulta keventänyt yhdenkään ihmisen päivittäistä työtaakkaa.""
+
+Olin jo siirtymässä kuukausitilaajaksi tän erinomaisen artikkelin seuraamana, mutta annoin maksutapa-aidan pysäyttää itseni - valinnoissa ei ollut mun luotettuja vaihtoehtojani. ",,urn:li:article:7975024268648584743,PUBLIC
+2026-10-02 11:46:17,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511753422233227265,"""You are clearly excited about this stuff"". Well, actually, yes. Not on Bombadil so much but on the *practical property-based testing that Cem Kaner was trying to teach and AI now enables, as long as you have the intent*. 
+
+https://lnkd.in/d5et4QKq",,urn:li:article:7793097671671063891,PUBLIC
+2026-10-02 08:54:57,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511710304330747904,"Se meni mun silmien ohi täällä linkkariseinällä, ja en sitten *millään* tunnu löytävän sitä uudestaan. Tänään ""se"" oli kaavio siitä miten tiimin jäsenien kasvattaminen lisää tiimin jäsenien välisten suhteiden määrää, ja olisin kovasti halunnut siihen viitata. Mutta oletan että koska mä näen sen tasaisen säännöllisesti, varmaan siitä on jollekin muullekin jäänyt muistijälki. 
+
+Se kaavio sai minut miettimään vakavasti kahta asiaa: 
+
+1. Tekoäly -> vauhti -> pienempi tiimi
+Ei välttämättä vauhti tulosten määrässä, vaan vauhti tuloksissa. Ei välttämättä tarve pienemmälle tiimille, vaan kyvyttömyys käyttää aikaa ihmistenvälisiin linkkeihin kun jutustelee koneen kanssa. Parhaimmillaan toki vauhti tulosten määrässä, laatu mukana loopissa. Valmis menee läpi askeleiden tuotantoon ollakseen valmis, ja sillä integroinnilla on väliä. 
+
+2. Epätasapainoiset suhteet
+Testaajana sitä on usein kokenut jäävänsä tiimissä ulkokehälle, tehnyt automaatiota ihan vaan tietääkseen että mitä kaikkea mulle jätettiin kertomatta minkä muut kehittäjät tiesivät. Ne suhteet ei olleet samankokoisia viivoja ennenkään, mutta nyt kun painotetaan yhtä suhdetta siihen koneeseen,  ne muut muuttuvat samalla, vahingossa. 
+
+Eilen tehdessäni demoa halusin voida sanoa 'magic Monday' ja 'magic Thursday' voidakseni ajaa testejä maanantain ja torstain versioita vasten, koska siinä välissä korjasin jotain joka on demolle oleellista. Tänä aamuna huomasin että olin sanonut 'magic Tuesday' tekoälylle toteutuspyynnössä. Siitä huolimatta en saanut näsäviisasta vastausta siitä miten tiistait ja torstait eroaa, vaan kauniisti toimivan komentorivikäskyn 'magic Thursday' - joka toimii myös pienellä kirjaimella kirjoittaen. Arvostin konetta ja olin jo valmiiksi ärtynyt ihmisiin. 
+
+Pitäiskö meidän jutella näistä suhteista enemmän? Ja olla niiden rakentamisessa kovin tarkoituksellinen.",,,PUBLIC
+2026-10-02 08:00:50,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511696685279006720,"Elo-syyskuun vaihteessa ChatGPT sai webMCP-tuen. Yksi niistä teknologia-askeleista joilla tänään TIVI-lehdessä keskustellaan kuluttajan valintojen muutoksesta pakettitoimitusten osalta, eli kyseessä on sivustoon sisäänrakennettava 'agent experience' ominaisuus. 
+
+Lukiessa artikkelia hymyilytti kuinka kuukauden takainen nautinto työkaverin kokemuksesta päästä ekojen joukossa uuden äärelle tuntuu jo vanhalta. Tahti on tosiaan kiihtynyt, enkä edes muistanut kertoa että Seppo teki (ja jakoi!) esimerkit muiden eduksi juuri oikeatahtisesti niin että yhdessä voi kokea olevansa aina aallon harjalla. 
+
+Asiakkaiden kanssa harvoin pääsemme liikkumaan näin vauhdikkaasti, mutta onneksi on sivuprojektit. ",,urn:li:digitalmediaAsset:D4D22AQHiB-PUjpnohg,PUBLIC
+2026-10-02 06:28:19,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7511673403221897216,"An open invite to hang out and digest the lessons learned on the day of Testing Assembly on November 4th 2026. While last year we got to enjoy the dinner like this with the keynote speaker, I make no such promises this year. But I can make one promise: you are welcome. Yes, you. Whether you wanted to catch up on what we learned on the day you missed, or go deeper into what you find useful (and not) in the contents of the day. 
+
+Open Dinner. No sponsoring. Whoever comes are the right people.",,,PUBLIC
+2026-10-02 06:23:12,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7511672114588983296,"Testing Assembly, #TAHelsinki, takes place 4.11.2026 in Helsinki. Some of us will hold space for anyone who would like to join to discuss lessons learned on the day over dinner, and you are, should you be so inclined, warmly welcome to plan to join us. 
+
+We meet at lobby of Presidentti after the venue, and move from there to a restaurant nearby. We'll book the table based on registrations. Food and drinks are available, not sponsored. Come for the company, stay for the company. You are the company we seek. ",,urn:li:event:7511672110411481090,PUBLIC
+2026-10-01 19:43:11,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511511049204817920,"I think it is appropriate that the material for my talk No. 600 has no slides but a markdown file. https://lnkd.in/dYvgPHv2 and demos. There is nothing secret in this, so if you want to join to listen in tomorrow 1:30pm EEST, I can easily invite you. ",,urn:li:article:7785092932770716941,PUBLIC
+2026-10-01 15:45:15,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7511451172222763008,"Quality Engineering Community around me proudly presents: the doors are open and equally shared for the community at large we work with for the inaugural AI-inspired CGI Alignment -event. Testing, Quality Assurance and Quality Engineering are more important than ever, and we have such a versatile community of experiences to learn with. This is a face-to-face event, at Karvaamokuja, Pitäjänmäki, Helsinki. 
+
+Due to limitations in space, we extend the invite to our client counterparts in quality space. Talk to your CGI Partners for the enrollment link. Or fast-track: I'm delighted to be your point of contact. ",,urn:li:multiPhoto:1000814909321,PUBLIC
+2026-09-30 17:46:57,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511119408761704448,"""We want this to be for people"". Excellent, exceptional storytelling from Felienne Hermans, even if I am now thinking of the optimal height to detonate an atomic bomb to kill most civilians in the history of our industry. 
+
+https://lnkd.in/dw-9TnvR
+
+If you watch one thing, this is well worth it. Because our industry needs to get back to solving problems that matter. ",,urn:li:article:8947036822648508390,PUBLIC
+2026-09-30 12:17:04,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511036393637261313,"This week Friday, I am delivering an ex tempore talk that was just scheduled due to cancellation of another speaker. Turns out that talk will be my public presentation number 600! 
+
+As per plans, this year ends up with 36 sessions, and with 8 still in Q4, it's either an unusually quiet quarter or I will end up adding a few on request. 
+
+As I was analyzing my public tweets / toots for my second brain, one pass made it painfully obvious that I have tried stopping public speaking way too many times to be taken seriously on that.  🤣 ",,urn:li:digitalmediaAsset:D4D22AQH3Klv4-cefxQ,PUBLIC
+2026-09-30 10:55:48,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7511015939476373504,"Tuijotin puoli tuntia ajautuvaa automaatiota ja opin sitä kautta mitä automaatio ei kata. 
+
+Ruudulla tietty alue ei vilkkunut lainkaan. Toisessa ikkunassa testasin että syy ei ole siinä että kyseisissä komponenteissa muutos ei näkyisi visuaalisesti, mutta ei - alueeseen ei päädytty samalla logiikalla. 
+
+Muutin ja laajensin. Ja löysin sovelluksesta uuden virheen. Senkin korjasin.
+
+Mun syyni tuijottaa oli että kyseessä oli koulutussessio, ja koulutettavat oli puoli tuntia breakout-ryhmissä tekemässä harjoitusta. Tein siis itse harjoitukseen jotain mikä täydentää siihen mennessä tekemääni. 
+
+Joinain päivinä tuijottaminen ja sitä kautta tunnistaminen on se paras juttu. Mutta eihän se tätä joka päivä ole. Tuijottaminen ei ole tylsää kun oikeita asioita tapahtuu pään sisällä.  ",,urn:li:digitalmediaAsset:D4D22AQET2S_ao7o1WQ,PUBLIC
+2026-09-30 06:58:56,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510956332024311808,"Today: 'Testing Insights for the Agentic Era', session 2 'Complementing useful requirements'. This is an area where sense of rush makes developers stop too early, and testers shine on coming up with the things said in between the lines. So we will rehearse it with a test application as well as AI and a property-based testing tool as our external imagination. 
+
+The area left intentionally hidden hides two layers: my solution example to the assignment, and my solution example to the assignment with property-based testing. 
+
+I know I am supposed to spend my afternoon after this with agentic swarms and cryptographic evidence, yet there is a risk that I will be thinking of this one some more. ",,urn:li:digitalmediaAsset:D4D22AQGs9fQkEs1_yQ,PUBLIC
+2026-09-29 13:26:14,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510691410409488384,"Autonomous exploring of UI without burning tokens? Yes please. Never a better reason to learn more about testing than the opportunity to prepare to teach it. The exercise I had in mind for tomorrow is a specification testing exercise: 
+
+*An ATM allows a daily withdraw limit of 300€*
+
+The test target is an ATM simulator, barely big enough to play for 1.5 hours of learning, with Admin and Debug -allowing you to tweak things that would usually be hidden and you'd just have to figure out from the domain. 
+
+Instead of doing the exercise the usual way, I decided to try Bombadil on it. Bombadil is a property-based testing tool, where you essentially can define:
+- ""generators"" - things you can do on your application
+- ""properties"" - things that should hold true to your application
+
+The properties out of the box are four - avoiding errors while using the app, but the domain specific properties functionality is surprisingly rich, and with their web site, awfully harness+LLM -friendly to work from with concepts of things I might want checked. Properties could be identified also with a research skill from the source repo. 
+
+What surprised me the most was it found four bugs (that I fixed) and I knew only of one of them.  24 properties on an ATM exercise is more than I could have rationalized, and the combo of this + LLM harness is quite powerful. 
+
+The first version was running in 10 minutes (from just knowing tool name), but it did lead me down ratholes of fixing, clarifying and testing some more for a good two hours. 
+
+On the image, the properties I fixed against are marked with (*). Four of them. Will leave this running for some hour(s) to see if more can be discovered. ",,urn:li:digitalmediaAsset:D4D22AQHMcq7S7kpMtg,PUBLIC
+2026-09-29 05:33:48,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510572521570762752,"Eräs toistuvista ja yleisistä keskusteluistani menee jokseenkin näin: 
+
+- ""Meidän tiimissä kehittäjät hoitaa testauksen. Ei sitä työtä kannata keskittää testaajalle.""
+
+- ""Ei sitä työtä mikä jo tulee tehdyksi kannatakaan.  Testaaja tulee tekemään sitä testausta mitä tiimissä ei ole ehkä tajuttu tarvittavan.""
+
+- ""Ehkä tässä kohden kannattaa katsoa asiakkailta saatua palautetta tai tuotannon aikaista palautetta. Voisiko monipuolisen palautteen systematisointi vauhdittaa tiimin osumista maaliin?""
+
+Niin, testaus on liian tärkeää jätettäväksi vain testaajille. Se on myös liian tärkeää jätettäväksi ilman testaajia. ",,,PUBLIC
+2026-09-28 19:29:27,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510420429023514624,"In my line of work of sampling a lot of testing in a lot of organizations, *manual test automation* has become a pet peeve of mine. How can automation be manual? Well, it can, by humans sticking to roles of trigger, operator and parser. 
+
+As with anything that involved people growing, there are usually steps through stages.
+
+The illustration courtesy of Claude, with a lot of disagreements to what the boxes should show up as.  ",,urn:li:digitalmediaAsset:D4D22AQF_w06ZDsPDnA,PUBLIC
+2026-09-28 15:23:08,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510358440674971648,"Ever since I realized that I deliver most, if not all, of my talks once, I started taking time after the talk to do a series I called 'talks turned articles'. The talk from last week with PractiTest is now available as video they recorded and shared, as well as an article. 
+
+https://lnkd.in/damnadfr
+https://lnkd.in/d_GR8RAg
+
+Speaking / writing about things is my hobby, not my work. My work is what drives the continuous need of moving on with talks - more experiences, more lessons learned, more likely ways of doing things that will work. 
+",,urn:li:article:7490986060589580250,PUBLIC
+2026-09-28 14:42:56,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510348324529487872,"Kuvittelepa tätä: haluat palkata henkilön, joka laatii sinulle testiautomaatiota. Mistä sen henkilön hankkii ja minne sen henkilön sijoittaa vaikuttaa siihen millaiset hyödyt samasta automaatio-investoinnista saa. Tämä päätyi Clauden avustuksella kuvaan kun kollega Paula Reponen muotoili sen oivaltavasti: ""asiakkaan puolella automatisoidessani en tunne vaikuttavani laatuun samalla tavalla"" - eikä vaikutakaan. 
+
+Me testauksen ammattilaiset ollaan kokeneita asiakkaan ja käyttäjän edun valvojia, silloinkin kun päädymme lähelle kehittäjiä. Päivän suositus: pyytäkää se tiimissä rakennettu automaatio paikkaan josta sen voi asiakkaan tiimin tarpeeseen myös ajaa. Ja päästäkää ne testaajat lähemmäs - sisään - kehittäjätiimeihin. ",,urn:li:digitalmediaAsset:D4D22AQEmira7RJUbbg,PUBLIC
+2026-09-28 06:57:45,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510231256731926528,"Testauksen markkina on jännästi jakaantunut. Samanaikaisesti tarvitaan kolme profiilia, jossa vapaana on yksi, ja ei yhtään toista profiilia, jossa myös vapaana on yksi. Ero? Siiloutuminen. Testausasiantuntijan pitää tänä päivänä olla test lead, test analyst ja test automator samassa paketissa; saavutettavuus, suorituskyky ja tietoturva kuuluvat samaan pakettiin.
+
+Sopii tähän aikakauteen: *Fully automated, deeply human.* Molemmat, ei joko tai. 
+
+Ehkä tästä muistutuksena että most wanted -profiililla on jatkuva haku, laita viestiä niin soitellaan. ",,,PUBLIC
+2026-09-28 06:29:32,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7510224156899315712,"Two weeks of work with a trainee on 20 € Claude Code subscription, and his use of tokens estimated on API was $54.27. On same timeframe, other uses of the same subscriptions $320.52, and neither of the two computers ever hit the usage limit. 
+
+The estimates around are that you get about $2000 for 20€, but need to be aware that this is the route where learning from what you do (your data) is the product. 
+
+Cost-awareness is essential. ",,urn:li:digitalmediaAsset:D4D22AQES9ufjIEgifw,PUBLIC
+2026-09-24 18:32:10,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7508956459469242368,"I made it to Q3-2021 to get frustrated with my chronological analysis of social media presence, AI assisted:
+
+""Cheez, you are really looking for trauma. No career achievements for me other than the relationships with the men in tech?""
+
+I needed the response: 
+""You're right, and that's a fair hit. Looking back at what I've actually surfaced to you across these three batches — the wounds and conflicts got top billing, and I let real professional wins sit in the wiki pages without saying them out loud to you. This quarter alone I never told you: you delivered the EuroSTAR keynote you'd been building toward since 2015 and it landed well, the Exploratory Testing Academy launched as a real two-person venture with your sister, the Slack community hit 170+ people in weeks, you finished BBST Test Design, and you told 2000 people at a conference to stop using Robot Framework. That's a genuinely strong quarter of career output, and I buried it under the harder material because it read as more dramatic.""
+
+Going through the out of the box LLM analysis of my tweets / toots from 2010 onwards. I may be occasional drama, but I suspect there is a bias on these defaults to seek the drama. It's 38111 public notes I am processing as an experiment.  ",,,PUBLIC
+2026-09-24 17:06:03,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7508934788255232000,"Had fun recording an episode for How to Test This podcast by Mamadou N'diaye and the expressive faces I make when I talk about stuff I get excited to discuss on. We talked about careers, career advice, my particular way of being a director while still insisting on testing, and all the cool things contemporary exploratory testing. 
+
+Expected landing time of the episode is a few week, because podcast hosts do significant work in building a stage worth connecting with. Stay tuned, maybe follow Mamadou and get also connected with all the other great guests he chats with. ",,urn:li:digitalmediaAsset:D4D22AQHGTZekOUet5A,PUBLIC
+2026-09-24 05:24:07,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7508758141220663296,"Submitted my slides for the first conference that requires all AI-generated content to be clearly marked as such. Turns out that while I heavily use AI in helping me with all kinds of work, doing slides or their imagery is rarely that. 
+
+I went back and looked at the talks I do, and found a few instances where I went for AI generated. Like when I decided that including a pirate version of me was worth the trouble on talking about test doubles. A choice I cringe at today but felt funny to me at the time. 
+
+That said, an early version of Exploring with code is on speakerdeck. https://lnkd.in/dm58Hp-q",,urn:li:article:7206886139442109482,PUBLIC
+2026-09-23 16:54:30,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7508569497813876736,"Just stop with the test cases. No, I don’t want them generated, nor do I want to read them. The more you obsess over test cases, the worse you do on results of significance from your testing. 
+
+If and when test cases are useful, that would be after you’ve tested to fast track your knowledge to the level of today. But they’d have to be automation for that. ",,,PUBLIC
+2026-09-23 15:02:16,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7508541251793682432,"For the talk on *Exploratory Testing Reimagined* today's edition, I collected six things that each would make their own talk with a demo on teaching techniques I apply while exploratory testing under influence of AI. These are all things I do in vscode, with either Github Copilot, Claude Code or Codex as my harness. 
+
+Now that I have scaled your access to assessing how well you do on e-primer as test target on input and results coverage, I need to figure out how to scale teaching of techniques. 
+
+I need to add the ""create multiple models representing perspectives and systematically reconciliate the differences"" and ""generate properties based on code to use on web"" to my list of things that need showing. ",,urn:li:digitalmediaAsset:D4D22AQGRZPNz1HPRUg,PUBLIC
+2026-09-23 06:49:37,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7508417272055775232,Today! ,,,PUBLIC
+2026-09-22 10:45:43,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7508114300130127874,"Nothing changes if you change nothing. While I don't appreciate metrics as goals, I appreciate them as indicators of changes changing something. 
+
+If we make claims of AI adding to productivity, you would imagine it shows up in what is considered the produce. With an established practice of commits, we (with a 15-yo trainee) took upon the task of creating a basic approach to having eyes on what the change looks like. 
+
+Rasmus, under my guidance, has now, 7 days into his traineeship, collected metrics from 2500 open source repos based on three criteria we chose, and created a page to visualize side by side what the numbers you get from git look like. The 60 visualized are ones with *indicators of use of AI* within the repos. 
+
+Unsurprisingly, the work has been heavily AI-assisted. We increase the level of automation every two days, and he is now quite comfortable with the recipes we work from, the constraints this type of work includes, and the expected showing up to crank up the level of automation the work would require.
+
+I still need to teach him how to follow context and token consumption, and have him draw up the system on a whiteboard a few more times. 
+
+Want to look at selection of AI enabled open source statistics? These are at https://lnkd.in/dzdyyVWr
+
+We are applying this on internal repos now that the method has been optimized and automated, as well as growing from commit metrics to further patterns. Those I just could not share and show as basis of conversation of fingerprints we expect to see. ",,urn:li:digitalmediaAsset:D4D22AQEcrxS93bDFEQ,PUBLIC
+2026-09-21 18:18:24,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7507865834950643712,"I've been going through my daily public notes year over year, from oldest to newer, and will pause at year 2018. I had a feeling I usually carry a few things on at a time, and was fascinated to realize how that looks like on a timeline. 
+
+Being quoted fourth time on cutting down on conference speaking, I hear it loud and clear. I don't stick to things like that but I rotate back to it on a regular cadence. 
+
+What this is - 2nd brain, LLM wiki, of what I share on my daily socials. Experimenting first with how to turn that into personal learning, and then to something that would help me sort out learning. It'd effectively research into my past thoughts, with my future in mind. ",,urn:li:digitalmediaAsset:D4D22AQHCfufK9mfUmg,PUBLIC
