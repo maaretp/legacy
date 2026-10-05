@@ -43,3 +43,7 @@ to fill it in.
 Added September 28th 2026: "Exploratory Testing Reimagined" (PractiTest
 webinar, September 24th 2026) — `--url BULFWhYG-LM`, id added to
 `extra-videos.txt`, full transcript.
+
+Added October 5th 2026: "Property-based Testing with Bombadil (and
+Playwright)" (CGI Testing Community, my talk number 600) — from my own
+channel, `--url ZjoN2_FDG8Q`, full transcript.
