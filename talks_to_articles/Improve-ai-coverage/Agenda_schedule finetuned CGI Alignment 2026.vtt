@@ -1,0 +1,3536 @@
+WEBVTT
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/19-0
+00:00:03.935 --> 00:00:07.295
+<v L&#246;yt&#228;inen, Aleksandra>Or closing to an end, but one more.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/20-0
+00:00:08.455 --> 00:00:09.055
+<v L&#246;yt&#228;inen, Aleksandra>*****.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/22-0
+00:00:11.255 --> 00:00:15.695
+<v L&#246;yt&#228;inen, Aleksandra>Last one, but very surely, not the least.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/25-0
+00:00:17.375 --> 00:00:18.815
+<v L&#246;yt&#228;inen, Aleksandra>Should I embarrass you, boss?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/26-0
+00:00:21.695 --> 00:00:27.536
+<v L&#246;yt&#228;inen, Aleksandra>No, I won't do that any leader,
+so I don't do that this time, but OK,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/26-1
+00:00:27.536 --> 00:00:29.455
+<v L&#246;yt&#228;inen, Aleksandra>Maret, that it's yours.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/27-0
+00:00:36.015 --> 00:00:41.285
+<v L&#246;yt&#228;inen, Aleksandra>figuring out microphones still is
+complicated. Good afternoon, everyone.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/27-1
+00:00:41.285 --> 00:00:45.977
+<v L&#246;yt&#228;inen, Aleksandra>We're going to be spending a bit of time
+talking about coverage,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/27-2
+00:00:45.977 --> 00:00:51.896
+<v L&#246;yt&#228;inen, Aleksandra>because basically I feel like it's maybe
+a word we should talk about a little bit</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/27-3
+00:00:51.896 --> 00:00:54.495
+<v L&#246;yt&#228;inen, Aleksandra>more. We keep talking about testing,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/28-0
+00:00:54.935 --> 00:00:59.596
+<v L&#246;yt&#228;inen, Aleksandra>but we can't talk about testing without
+talking about coverage.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/28-1
+00:00:59.596 --> 00:01:02.655
+<v L&#246;yt&#228;inen, Aleksandra>So in terms of coverage, back in the days,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/29-0
+00:01:03.775 --> 00:01:07.650
+<v L&#246;yt&#228;inen, Aleksandra>I remember, you know,
+back in the days when I started as a</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/29-1
+00:01:07.650 --> 00:01:12.181
+<v L&#246;yt&#228;inen, Aleksandra>tester, which is almost 30 years ago,
+when we talked about coverage,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/29-2
+00:01:12.181 --> 00:01:15.793
+<v L&#246;yt&#228;inen, Aleksandra>it was always obvious.
+It meant one of the two things.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/29-3
+00:01:15.793 --> 00:01:20.784
+<v L&#246;yt&#228;inen, Aleksandra>It was either requirements that well Velo
+talked about the idea of like the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/29-4
+00:01:20.784 --> 00:01:25.578
+<v L&#246;yt&#228;inen, Aleksandra>authoritative source, you know,
+somebody else's answers that we would go</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/29-5
+00:01:25.578 --> 00:01:25.775
+<v L&#246;yt&#228;inen, Aleksandra>to.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/31-0
+00:01:26.175 --> 00:01:30.501
+<v L&#246;yt&#228;inen, Aleksandra>That was what we wanted to cover.
+Somebody else had the right answers and</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/31-1
+00:01:30.501 --> 00:01:34.358
+<v L&#246;yt&#228;inen, Aleksandra>we wanted to make sure that we would
+check against those answers.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/31-2
+00:01:34.358 --> 00:01:36.989
+<v L&#246;yt&#228;inen, Aleksandra>Or we would talk about coverage of the
+code.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/31-3
+00:01:36.989 --> 00:01:39.970
+<v L&#246;yt&#228;inen, Aleksandra>Did we touch all the things that were
+implemented?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/31-4
+00:01:39.970 --> 00:01:44.529
+<v L&#246;yt&#228;inen, Aleksandra>We used the requirements to cover the
+things that might be still missing from</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/31-5
+00:01:44.529 --> 00:01:45.055
+<v L&#246;yt&#228;inen, Aleksandra>the code.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/33-0
+00:01:45.535 --> 00:01:50.501
+<v L&#246;yt&#228;inen, Aleksandra>And we used the code to see that we had
+our eyes on everything that had been</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/33-1
+00:01:50.501 --> 00:01:53.533
+<v L&#246;yt&#228;inen, Aleksandra>implemented.
+It has worked great for 30 years.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/33-2
+00:01:53.533 --> 00:01:57.532
+<v L&#246;yt&#228;inen, Aleksandra>I think it still works great.
+Those are great approximations.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/33-3
+00:01:57.532 --> 00:02:01.982
+<v L&#246;yt&#228;inen, Aleksandra>But at the same time, you know,
+we as testers, we know we get older,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/33-4
+00:02:01.982 --> 00:02:04.175
+<v L&#246;yt&#228;inen, Aleksandra>we get different kinds of impacts.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/35-0
+00:02:04.815 --> 00:02:08.127
+<v L&#246;yt&#228;inen, Aleksandra>We get that visibility that Yamina was
+talking about.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/35-1
+00:02:08.127 --> 00:02:12.910
+<v L&#246;yt&#228;inen, Aleksandra>And it also means that we can take some
+of those core lessons that we learned</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/35-2
+00:02:12.910 --> 00:02:15.976
+<v L&#246;yt&#228;inen, Aleksandra>very early in our testing careers,
+like coverage,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/35-3
+00:02:15.976 --> 00:02:20.882
+<v L&#246;yt&#228;inen, Aleksandra>and we can start applying that on things
+that were never meant or never thought</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/35-4
+00:02:20.882 --> 00:02:23.887
+<v L&#246;yt&#228;inen, Aleksandra>about,
+kind of like that the coverage would be a</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/35-5
+00:02:23.887 --> 00:02:25.175
+<v L&#246;yt&#228;inen, Aleksandra>relevant thing about.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/36-0
+00:02:26.175 --> 00:02:31.074
+<v L&#246;yt&#228;inen, Aleksandra>So AI transformation is definitely a
+consideration of coverage.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/36-1
+00:02:31.074 --> 00:02:35.820
+<v L&#246;yt&#228;inen, Aleksandra>Like have we taught every single one of
+our people, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/36-2
+00:02:35.820 --> 00:02:40.719
+<v L&#246;yt&#228;inen, Aleksandra>in the whole Finland,
+have we taught everyone how to do certain</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/36-3
+00:02:40.719 --> 00:02:44.088
+<v L&#246;yt&#228;inen, Aleksandra>things around AI?
+It's a coverage question.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/36-4
+00:02:44.088 --> 00:02:45.695
+<v L&#246;yt&#228;inen, Aleksandra>And at the same time,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/37-0
+00:02:46.455 --> 00:02:50.947
+<v L&#246;yt&#228;inen, Aleksandra>When we talk about have we tested or how
+is testing being done,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/37-1
+00:02:50.947 --> 00:02:55.930
+<v L&#246;yt&#228;inen, Aleksandra>it is also a coverage question.
+So actually a lot of the conversations</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/37-2
+00:02:55.930 --> 00:03:01.123
+<v L&#246;yt&#228;inen, Aleksandra>that we're having around getting everyone
+on board in these kind of major</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/37-3
+00:03:01.123 --> 00:03:05.615
+<v L&#246;yt&#228;inen, Aleksandra>transformational changes,
+they are actually coverage questions.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/38-0
+00:03:06.415 --> 00:03:09.433
+<v L&#246;yt&#228;inen, Aleksandra>And I think as testers, you know,
+like again,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/38-1
+00:03:09.433 --> 00:03:14.222
+<v L&#246;yt&#228;inen, Aleksandra>if we look for things where we are of
+value and we are making an impact,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/38-2
+00:03:14.222 --> 00:03:18.682
+<v L&#246;yt&#228;inen, Aleksandra>the ways of kind of like, you know,
+thinking of things as coverage,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/38-3
+00:03:18.682 --> 00:03:24.324
+<v L&#246;yt&#228;inen, Aleksandra>creating lists of things we want to track,
+that's probably a core thing for us to do.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/38-4
+00:03:24.324 --> 00:03:24.455
+<v L&#246;yt&#228;inen, Aleksandra>So</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/42-0
+00:03:24.535 --> 00:03:29.861
+<v L&#246;yt&#228;inen, Aleksandra>So having seen Yamina speak last week,
+I was really inspired by the fact that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/42-1
+00:03:29.861 --> 00:03:33.957
+<v L&#246;yt&#228;inen, Aleksandra>she has lessons.
+So I also have three lessons like she did.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/42-2
+00:03:33.957 --> 00:03:37.508
+<v L&#246;yt&#228;inen, Aleksandra>The thing that I decided to do
+differently, though,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/42-3
+00:03:37.508 --> 00:03:42.355
+<v L&#246;yt&#228;inen, Aleksandra>is that I start with the lesson rather
+than tell you the entire story.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/42-4
+00:03:42.355 --> 00:03:47.817
+<v L&#246;yt&#228;inen, Aleksandra>I start with the lesson and I end each
+one of these sections that I have with a</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/42-5
+00:03:47.817 --> 00:03:48.295
+<v L&#246;yt&#228;inen, Aleksandra>lesson.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/43-0
+00:03:48.655 --> 00:03:54.827
+<v L&#246;yt&#228;inen, Aleksandra>And the first lesson that I really want
+to convey to you around coverage is that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/43-1
+00:03:54.827 --> 00:03:56.655
+<v L&#246;yt&#228;inen, Aleksandra>100% was never the goal.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/44-0
+00:03:57.855 --> 00:04:02.522
+<v L&#246;yt&#228;inen, Aleksandra>Growth was always the goal,
+100% was never the goal.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/44-1
+00:04:02.522 --> 00:04:09.215
+<v L&#246;yt&#228;inen, Aleksandra>And I really need to use the AI and
+testing example to talk about this 100%</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/44-2
+00:04:09.215 --> 00:04:10.095
+<v L&#246;yt&#228;inen, Aleksandra>as a goal.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/47-0
+00:04:12.015 --> 00:04:18.881
+<v L&#246;yt&#228;inen, Aleksandra>One of the things that I think AI brought
+to my tester life is that whatever I can</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/47-1
+00:04:18.881 --> 00:04:24.175
+<v L&#246;yt&#228;inen, Aleksandra>now imagine that I would get a computer
+to do, I can now do it.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/48-0
+00:04:25.055 --> 00:04:26.735
+<v L&#246;yt&#228;inen, Aleksandra>I couldn't five years ago.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/49-0
+00:04:27.935 --> 00:04:31.926
+<v L&#246;yt&#228;inen, Aleksandra>Five years ago,
+I had to rely on a poor proxy called good</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/49-1
+00:04:31.926 --> 00:04:37.088
+<v L&#246;yt&#228;inen, Aleksandra>relationships with the developers.
+And if I would have a good relationship</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/49-2
+00:04:37.088 --> 00:04:41.286
+<v L&#246;yt&#228;inen, Aleksandra>with a developer who could do the things
+that I couldn't do,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/49-3
+00:04:41.286 --> 00:04:45.621
+<v L&#246;yt&#228;inen, Aleksandra>I could go and talk to them.
+Cake was my main armor, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/49-4
+00:04:45.621 --> 00:04:47.135
+<v L&#246;yt&#228;inen, Aleksandra>like I bring you cake.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/50-0
+00:04:48.175 --> 00:04:52.801
+<v L&#246;yt&#228;inen, Aleksandra>I would organize parties.
+I would facilitate a meetup.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/50-1
+00:04:52.801 --> 00:04:58.437
+<v L&#246;yt&#228;inen, Aleksandra>I would bring the best people in the
+world to teach us all things,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/50-2
+00:04:58.437 --> 00:05:05.166
+<v L&#246;yt&#228;inen, Aleksandra>just so that I would get people to move
+to a direction that I wanted them to go</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/50-3
+00:05:05.166 --> 00:05:06.175
+<v L&#246;yt&#228;inen, Aleksandra>to. And now,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/51-0
+00:05:06.335 --> 00:05:11.181
+<v L&#246;yt&#228;inen, Aleksandra>The world is very different.
+I no longer need to do all of that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/51-1
+00:05:11.181 --> 00:05:14.685
+<v L&#246;yt&#228;inen, Aleksandra>I can go to this, you know, assistant,
+the AI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/51-2
+00:05:14.685 --> 00:05:20.575
+<v L&#246;yt&#228;inen, Aleksandra>and whatever I can imagine to ask out of
+it, I can actually get it to do that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/52-0
+00:05:21.695 --> 00:05:29.414
+<v L&#246;yt&#228;inen, Aleksandra>And now I'm limited by kind of, you know,
+the imagination of what kind of things I</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/52-1
+00:05:29.414 --> 00:05:34.343
+<v L&#246;yt&#228;inen, Aleksandra>could ask.
+If I wanted to ask of a thing of testing,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/52-2
+00:05:34.343 --> 00:05:36.575
+<v L&#246;yt&#228;inen, Aleksandra>it might look like this.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/56-0
+00:05:37.935 --> 00:05:41.361
+<v L&#246;yt&#228;inen, Aleksandra>There's a little exercise by James
+Lindsay, which is,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/56-1
+00:05:41.361 --> 00:05:45.484
+<v L&#246;yt&#228;inen, Aleksandra>it's called raster reveal.
+A raster reveal is this idea that you</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/56-2
+00:05:45.484 --> 00:05:49.671
+<v L&#246;yt&#228;inen, Aleksandra>start with a, you know,
+vague colour box and there's a picture in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/56-3
+00:05:49.671 --> 00:05:52.842
+<v L&#246;yt&#228;inen, Aleksandra>that box.
+And you're supposed to reveal what's in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/56-4
+00:05:52.842 --> 00:05:55.760
+<v L&#246;yt&#228;inen, Aleksandra>that picture.
+And the way that it's revealed,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/56-5
+00:05:55.760 --> 00:05:58.615
+<v L&#246;yt&#228;inen, Aleksandra>it reminds me of testing a lot in a way
+that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/57-0
+00:05:58.695 --> 00:06:01.487
+<v L&#246;yt&#228;inen, Aleksandra>kind of like, you know,
+if you move your mouse,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/57-1
+00:06:01.487 --> 00:06:05.327
+<v L&#246;yt&#228;inen, Aleksandra>the picture gets clearer and clearer.
+And the longer you scratch,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/57-2
+00:06:05.327 --> 00:06:09.224
+<v L&#246;yt&#228;inen, Aleksandra>the longer you move your mouse,
+like you go crazy with your mouse,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/57-3
+00:06:09.224 --> 00:06:14.110
+<v L&#246;yt&#228;inen, Aleksandra>the picture really becomes clear that way.
+And now that I know that I would want to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/57-4
+00:06:14.110 --> 00:06:18.415
+<v L&#246;yt&#228;inen, Aleksandra>do that, I would want to go and, you know,
+move my mouse, I can go to AI.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/58-0
+00:06:18.975 --> 00:06:22.277
+<v L&#246;yt&#228;inen, Aleksandra>and just ask for it.
+I might need to know to ask it in a</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/58-1
+00:06:22.277 --> 00:06:25.058
+<v L&#246;yt&#228;inen, Aleksandra>particular way so that it does the right
+thing.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/58-2
+00:06:25.058 --> 00:06:29.287
+<v L&#246;yt&#228;inen, Aleksandra>Like if I don't ask it to use playwright
+CLI, for example, in this case,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/58-3
+00:06:29.287 --> 00:06:33.168
+<v L&#246;yt&#228;inen, Aleksandra>it tries to take, you know,
+a screenshot or it tries to go kind of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/58-4
+00:06:33.168 --> 00:06:36.239
+<v L&#246;yt&#228;inen, Aleksandra>under the hood and doesn't do exactly
+what I wanted.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/58-5
+00:06:36.239 --> 00:06:39.135
+<v L&#246;yt&#228;inen, Aleksandra>So kind of like I need to figure out how
+do I ask</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/61-0
+00:06:39.535 --> 00:06:43.541
+<v L&#246;yt&#228;inen, Aleksandra>How do I hope for the thing?
+And then I can get that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/61-1
+00:06:43.541 --> 00:06:48.733
+<v L&#246;yt&#228;inen, Aleksandra>But this reveals things about coverage.
+So I sent AI over to do this.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/61-2
+00:06:48.733 --> 00:06:52.961
+<v L&#246;yt&#228;inen, Aleksandra>I have enjoyed this exercise as a manual
+exercise A lot.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/61-3
+00:06:52.961 --> 00:06:58.524
+<v L&#246;yt&#228;inen, Aleksandra>It's kind of fun to move your mouse in
+that one corner and say like, well,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/61-4
+00:06:58.524 --> 00:07:02.455
+<v L&#246;yt&#228;inen, Aleksandra>you would believe me,
+there's a dog in this picture.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/62-0
+00:07:02.615 --> 00:07:07.089
+<v L&#246;yt&#228;inen, Aleksandra>and you can't make any sense of it.
+I have spent an hour testing this now.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/62-1
+00:07:07.089 --> 00:07:10.608
+<v L&#246;yt&#228;inen, Aleksandra>You know, believe me,
+there must be a dog in this picture.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/62-2
+00:07:10.608 --> 00:07:15.380
+<v L&#246;yt&#228;inen, Aleksandra>And you still can't see things because
+you have spent all of your testing time,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/62-3
+00:07:15.380 --> 00:07:18.123
+<v L&#246;yt&#228;inen, Aleksandra>so-called.
+You have spent it on a corner that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/62-4
+00:07:18.123 --> 00:07:22.895
+<v L&#246;yt&#228;inen, Aleksandra>doesn't actually reveal any of the shapes
+or the relevance in that information.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/63-0
+00:07:23.255 --> 00:07:27.987
+<v L&#246;yt&#228;inen, Aleksandra>But you can't say that you weren't
+testing, because you were spending time,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/63-1
+00:07:27.987 --> 00:07:31.847
+<v L&#246;yt&#228;inen, Aleksandra>you were doing testing.
+And the only way you can improve this</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/63-2
+00:07:31.847 --> 00:07:36.641
+<v L&#246;yt&#228;inen, Aleksandra>communication is by starting to talk
+about coverage, kind of like, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/63-3
+00:07:36.641 --> 00:07:40.501
+<v L&#246;yt&#228;inen, Aleksandra>where in this two-dimensional picture
+you're actually moving.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/63-4
+00:07:40.501 --> 00:07:44.735
+<v L&#246;yt&#228;inen, Aleksandra>And when things are more complicated than
+a raster reveal exercise,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/64-0
+00:07:44.815 --> 00:07:51.188
+<v L&#246;yt&#228;inen, Aleksandra>it gets obviously even more harder to
+talk about what does it mean when we ask</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/64-1
+00:07:51.188 --> 00:07:54.818
+<v L&#246;yt&#228;inen, Aleksandra>something to do testing, something,
+someone.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/64-2
+00:07:54.818 --> 00:08:01.352
+<v L&#246;yt&#228;inen, Aleksandra>So I asked this out of AI and I asked it
+to also leave behind the time frames in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/64-3
+00:08:01.352 --> 00:08:04.175
+<v L&#246;yt&#228;inen, Aleksandra>when is it able to do these things.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/65-0
+00:08:04.655 --> 00:08:08.463
+<v L&#246;yt&#228;inen, Aleksandra>And I can now compare how long would it
+have taken. Actually,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/65-1
+00:08:08.463 --> 00:08:13.254
+<v L&#246;yt&#228;inen, Aleksandra>it took me this time to sit next to the
+computer and do something else in the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/65-2
+00:08:13.254 --> 00:08:16.387
+<v L&#246;yt&#228;inen, Aleksandra>meanwhile.
+I expected it to be short enough that I</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/65-3
+00:08:16.387 --> 00:08:20.564
+<v L&#246;yt&#228;inen, Aleksandra>didn't actually go and do anything other
+useful in that time frame.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/65-4
+00:08:20.564 --> 00:08:24.495
+<v L&#246;yt&#228;inen, Aleksandra>So I didn't save any time by doing this
+with automation and AI.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/66-0
+00:08:24.975 --> 00:08:31.548
+<v L&#246;yt&#228;inen, Aleksandra>But I was curious on how long is it going
+to take, you know, comparing, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/66-1
+00:08:31.548 --> 00:08:37.880
+<v L&#246;yt&#228;inen, Aleksandra>the me time on the scratch and reveal
+versus comparing this AI-assisted way of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/66-2
+00:08:37.880 --> 00:08:43.090
+<v L&#246;yt&#228;inen, Aleksandra>doing it. So at 46 seconds,
+it started to be very convinced that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/66-3
+00:08:43.090 --> 00:08:45.655
+<v L&#246;yt&#228;inen, Aleksandra>there's a dark animal-like shape</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/67-0
+00:08:46.175 --> 00:08:52.243
+<v L&#246;yt&#228;inen, Aleksandra>in that picture. And because the pattern,
+the strategy of how it had scratched the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/67-1
+00:08:52.243 --> 00:08:56.629
+<v L&#246;yt&#228;inen, Aleksandra>image, and again,
+I didn't say what I wanted my strategy to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/67-2
+00:08:56.629 --> 00:09:01.308
+<v L&#246;yt&#228;inen, Aleksandra>be, so it decided that for me.
+At 46 seconds, it was, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/67-3
+00:09:01.308 --> 00:09:06.790
+<v L&#246;yt&#228;inen, Aleksandra>giving me kind of like a vague thing,
+and it didn't call out what's in the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/67-4
+00:09:06.790 --> 00:09:07.375
+<v L&#246;yt&#228;inen, Aleksandra>picture.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/68-0
+00:09:08.255 --> 00:09:14.517
+<v L&#246;yt&#228;inen, Aleksandra>At 3 minutes, 12 seconds,
+it called out that it is unmistakably,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/68-1
+00:09:14.517 --> 00:09:19.912
+<v L&#246;yt&#228;inen, Aleksandra>very AI thing to say,
+unmistakably it is a rubber duck.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/68-2
+00:09:19.912 --> 00:09:26.655
+<v L&#246;yt&#228;inen, Aleksandra>And it still took me 13 minutes,
+26 seconds before it said, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/69-0
+00:09:27.375 --> 00:09:31.022
+<v L&#246;yt&#228;inen, Aleksandra>It's all revealed now.
+And I would have never, as a human,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/69-1
+00:09:31.022 --> 00:09:34.174
+<v L&#246;yt&#228;inen, Aleksandra>like I would have probably been able to,
+you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/69-2
+00:09:34.174 --> 00:09:38.933
+<v L&#246;yt&#228;inen, Aleksandra>figure out the right parts of this
+picture in less than 46 seconds so that I</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/69-3
+00:09:38.933 --> 00:09:41.900
+<v L&#246;yt&#228;inen, Aleksandra>would have already known what's in the
+picture.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/69-4
+00:09:41.900 --> 00:09:45.855
+<v L&#246;yt&#228;inen, Aleksandra>It would have saved me time rather than
+automating all of this.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/70-0
+00:09:46.895 --> 00:09:50.226
+<v L&#246;yt&#228;inen, Aleksandra>And most likely,
+in 13 minutes and 26 seconds,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/70-1
+00:09:50.226 --> 00:09:55.897
+<v L&#246;yt&#228;inen, Aleksandra>I would have already had a couple of cups
+of coffee rather than doing the work,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/70-2
+00:09:55.897 --> 00:09:59.015
+<v L&#246;yt&#228;inen, Aleksandra>because I would have given up by that
+time.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/70-3
+00:09:59.015 --> 00:10:02.559
+<v L&#246;yt&#228;inen, Aleksandra>So we have always this kind of like a
+framing of,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/70-4
+00:10:02.559 --> 00:10:05.465
+<v L&#246;yt&#228;inen, Aleksandra>we are not actually trying to go to 100%.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/71-0
+00:10:05.705 --> 00:10:10.227
+<v L&#246;yt&#228;inen, Aleksandra>We're trying to go to what is useful
+level of information,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/71-1
+00:10:10.227 --> 00:10:16.128
+<v L&#246;yt&#228;inen, Aleksandra>and we need to be able to ask something
+other than, please test this for me.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/71-2
+00:10:16.128 --> 00:10:22.566
+<v L&#246;yt&#228;inen, Aleksandra>So that's kind of the foundation of what
+we are talking about today. And obviously,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/71-3
+00:10:22.566 --> 00:10:24.865
+<v L&#246;yt&#228;inen, Aleksandra>in the end, when given a hint,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/73-0
+00:10:24.905 --> 00:10:29.713
+<v L&#246;yt&#228;inen, Aleksandra>that you can find it on Unsplash.
+It also found the original source,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/73-1
+00:10:29.713 --> 00:10:33.058
+<v L&#246;yt&#228;inen, Aleksandra>which is named,
+and that's how you are certain.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/73-2
+00:10:33.058 --> 00:10:37.378
+<v L&#246;yt&#228;inen, Aleksandra>So until that time,
+it might still be a confidently incorrect</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/73-3
+00:10:37.378 --> 00:10:40.932
+<v L&#246;yt&#228;inen, Aleksandra>judgment,
+because maybe you don't know what Batman</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/73-4
+00:10:40.932 --> 00:10:43.928
+<v L&#246;yt&#228;inen, Aleksandra>is.
+Maybe you never got into that space of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/73-5
+00:10:43.928 --> 00:10:44.625
+<v L&#246;yt&#228;inen, Aleksandra>movies. So</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/76-0
+00:10:46.305 --> 00:10:52.450
+<v L&#246;yt&#228;inen, Aleksandra>The first message that I wanted to show
+you with this example really is the idea</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/76-1
+00:10:52.450 --> 00:10:56.926
+<v L&#246;yt&#228;inen, Aleksandra>that 100% is not the target.
+More than zero is the target.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/76-2
+00:10:56.926 --> 00:11:02.464
+<v L&#246;yt&#228;inen, Aleksandra>So whenever we are having these
+conversations on how fast or how long or</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/76-3
+00:11:02.464 --> 00:11:03.905
+<v L&#246;yt&#228;inen, Aleksandra>with or without AI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/77-0
+00:11:04.865 --> 00:11:13.576
+<v L&#246;yt&#228;inen, Aleksandra>We need to have the conversation of how
+far are we supposed to get in that time.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/77-1
+00:11:13.576 --> 00:11:20.243
+<v L&#246;yt&#228;inen, Aleksandra>100% cannot be done.
+There are compliance areas where we need</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/77-2
+00:11:20.243 --> 00:11:24.545
+<v L&#246;yt&#228;inen, Aleksandra>to pretend we got to some level of 100%.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/78-0
+00:11:25.025 --> 00:11:29.520
+<v L&#246;yt&#228;inen, Aleksandra>but it's 100% from a particular angle
+that is being defined.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/78-1
+00:11:29.520 --> 00:11:34.679
+<v L&#246;yt&#228;inen, Aleksandra>And hopefully we take a second
+perspective and also make sure that we</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/78-2
+00:11:34.679 --> 00:11:40.648
+<v L&#246;yt&#228;inen, Aleksandra>have the results that we needed that are
+kind of maybe missed by that particular</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/78-3
+00:11:40.648 --> 00:11:41.385
+<v L&#246;yt&#228;inen, Aleksandra>technique.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/79-0
+00:11:42.305 --> 00:11:47.828
+<v L&#246;yt&#228;inen, Aleksandra>So, if 100% is not the goal,
+but the goal is to actually do something</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/79-1
+00:11:47.828 --> 00:11:52.956
+<v L&#246;yt&#228;inen, Aleksandra>that is useful to, you know,
+know how to ask those right kind of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/79-2
+00:11:52.956 --> 00:11:53.745
+<v L&#246;yt&#228;inen, Aleksandra>questions.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/82-0
+00:11:55.985 --> 00:12:01.871
+<v L&#246;yt&#228;inen, Aleksandra>The second lesson that we get into then
+is the idea that we really need to pay</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/82-1
+00:12:01.871 --> 00:12:05.745
+<v L&#246;yt&#228;inen, Aleksandra>attention to the experiences we have had
+around AI.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/83-0
+00:12:06.905 --> 00:12:10.444
+<v L&#246;yt&#228;inen, Aleksandra>Because if we don't have versatile
+experiences,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/83-1
+00:12:10.444 --> 00:12:14.278
+<v L&#246;yt&#228;inen, Aleksandra>we won't have great ideas of what we
+could ask for.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/83-2
+00:12:14.278 --> 00:12:18.407
+<v L&#246;yt&#228;inen, Aleksandra>Our imagination of asking things would be
+very limited.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/83-3
+00:12:18.407 --> 00:12:24.305
+<v L&#246;yt&#228;inen, Aleksandra>So having that experience coverage is
+really the foundation for any innovation.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/86-0
+00:12:26.065 --> 00:12:34.404
+<v L&#246;yt&#228;inen, Aleksandra>I created a coverage metric in the last
+year. This includes 30, I think 30, 18,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/86-1
+00:12:34.404 --> 00:12:42.014
+<v L&#246;yt&#228;inen, Aleksandra>20, 30, yes, I can count, 12 + 18,
+30 different categories of AI related</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/86-2
+00:12:42.014 --> 00:12:43.265
+<v L&#246;yt&#228;inen, Aleksandra>experiences.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/87-0
+00:12:44.465 --> 00:12:49.035
+<v L&#246;yt&#228;inen, Aleksandra>Then I talked to about 50 of my
+colleagues here at CGI.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/87-1
+00:12:49.035 --> 00:12:54.176
+<v L&#246;yt&#228;inen, Aleksandra>Then in the last week,
+I made about 10 people who were seeking</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/87-2
+00:12:54.176 --> 00:13:00.459
+<v L&#246;yt&#228;inen, Aleksandra>employment to do an essay on their
+experiences. And I got some of, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/87-3
+00:13:00.459 --> 00:13:04.865
+<v L&#246;yt&#228;inen, Aleksandra>like whatever profile of the kinds of
+experience that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/88-0
+00:13:04.905 --> 00:13:09.912
+<v L&#246;yt&#228;inen, Aleksandra>people talk about.
+It seems that on our organization,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/88-1
+00:13:09.912 --> 00:13:15.291
+<v L&#246;yt&#228;inen, Aleksandra>in the test category,
+people that I categorized as tests,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/88-2
+00:13:15.291 --> 00:13:21.874
+<v L&#246;yt&#228;inen, Aleksandra>the current level of AI coverage that we
+ended up measuring with this,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/88-3
+00:13:21.874 --> 00:13:25.305
+<v L&#246;yt&#228;inen, Aleksandra>it is someone has an experience, like</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/89-0
+00:13:25.425 --> 00:13:26.265
+<v L&#246;yt&#228;inen, Aleksandra>Is 90%.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/91-0
+00:13:28.305 --> 00:13:33.898
+<v L&#246;yt&#228;inen, Aleksandra>So someone out of the group,
+there are still some categories where</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/91-1
+00:13:33.898 --> 00:13:40.910
+<v L&#246;yt&#228;inen, Aleksandra>none of us in the testing group had done.
+And then everyone having that experience,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/91-2
+00:13:40.910 --> 00:13:45.585
+<v L&#246;yt&#228;inen, Aleksandra>it goes lower.
+So against that list of 40 or 30 things,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/92-0
+00:13:47.185 --> 00:13:50.171
+<v L&#246;yt&#228;inen, Aleksandra>In the most recent analysis of the 10
+people,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/92-1
+00:13:50.171 --> 00:13:54.779
+<v L&#246;yt&#228;inen, Aleksandra>I found two new categories that I
+couldn't anymore fit into my slides.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/92-2
+00:13:54.779 --> 00:13:58.544
+<v L&#246;yt&#228;inen, Aleksandra>So in the last week,
+I've still been growing this. Again,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/92-3
+00:13:58.544 --> 00:14:01.465
+<v L&#246;yt&#228;inen, Aleksandra>100 is not the goal,
+but growth is the goal.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/93-0
+00:14:02.505 --> 00:14:06.661
+<v L&#246;yt&#228;inen, Aleksandra>So how can we turn something that is,
+you know, we think of it as an AI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/93-1
+00:14:06.661 --> 00:14:10.874
+<v L&#246;yt&#228;inen, Aleksandra>yes or no, like a binary thing,
+how can we turn it into a little bit more</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/93-2
+00:14:10.874 --> 00:14:13.265
+<v L&#246;yt&#228;inen, Aleksandra>fine grain? Definitely a thing of testers.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/94-0
+00:14:14.465 --> 00:14:20.168
+<v L&#246;yt&#228;inen, Aleksandra>So in terms of experiences that are quite
+rare, we can't go through all of these,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/94-1
+00:14:20.168 --> 00:14:25.175
+<v L&#246;yt&#228;inen, Aleksandra>is a thing called second brain.
+You probably heard Renata mention this.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/94-2
+00:14:25.175 --> 00:14:28.305
+<v L&#246;yt&#228;inen, Aleksandra>How many of you know what is a second
+brain?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/95-0
+00:14:29.425 --> 00:14:31.825
+<v L&#246;yt&#228;inen, Aleksandra>Two, three, 4 people, five people.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/96-0
+00:14:32.705 --> 00:14:36.300
+<v L&#246;yt&#228;inen, Aleksandra>So again, you know,
+it's a very typical thing.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/96-1
+00:14:36.300 --> 00:14:40.813
+<v L&#246;yt&#228;inen, Aleksandra>It's one of the lowest hanging bars in a
+way in use of AI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/96-2
+00:14:40.813 --> 00:14:45.096
+<v L&#246;yt&#228;inen, Aleksandra>and yet most of us actually don't have
+that experience.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/96-3
+00:14:45.096 --> 00:14:48.462
+<v L&#246;yt&#228;inen, Aleksandra>Second brain is the idea by Andrei
+Karpati,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/96-4
+00:14:48.462 --> 00:14:52.745
+<v L&#246;yt&#228;inen, Aleksandra>who is one of the great names in AI,
+that you could use</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/97-0
+00:14:52.945 --> 00:14:56.003
+<v L&#246;yt&#228;inen, Aleksandra>AI to curate from a vast source of
+materials,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/97-1
+00:14:56.003 --> 00:15:01.322
+<v L&#246;yt&#228;inen, Aleksandra>you could use that vast source and AI in
+combination to curate a smaller set of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/97-2
+00:15:01.322 --> 00:15:04.580
+<v L&#246;yt&#228;inen, Aleksandra>things that are really the things that
+you want.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/97-3
+00:15:04.580 --> 00:15:09.233
+<v L&#246;yt&#228;inen, Aleksandra>And then when you are able to curate with
+AI, you can find that core,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/97-4
+00:15:09.233 --> 00:15:12.225
+<v L&#246;yt&#228;inen, Aleksandra>kind of like you can find those kind of
+like</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/98-0
+00:15:12.745 --> 00:15:15.365
+<v L&#246;yt&#228;inen, Aleksandra>Well,
+clearly there was a conversation I had</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/98-1
+00:15:15.365 --> 00:15:18.742
+<v L&#246;yt&#228;inen, Aleksandra>with Taika and there was a conversation I
+had with Zihan,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/98-2
+00:15:18.742 --> 00:15:22.527
+<v L&#246;yt&#228;inen, Aleksandra>and we talked about two different things.
+We actually, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/98-3
+00:15:22.527 --> 00:15:25.962
+<v L&#246;yt&#228;inen, Aleksandra>made agreements that are completely
+opposite. For example,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/98-4
+00:15:25.962 --> 00:15:29.573
+<v L&#246;yt&#228;inen, Aleksandra>AI would notice this,
+and it would notice it from just having</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/98-5
+00:15:29.573 --> 00:15:31.785
+<v L&#246;yt&#228;inen, Aleksandra>those conversations as text available.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/99-0
+00:15:32.545 --> 00:15:37.172
+<v L&#246;yt&#228;inen, Aleksandra>And it feels like that is like a
+foundation of so many things we are doing</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/99-1
+00:15:37.172 --> 00:15:40.997
+<v L&#246;yt&#228;inen, Aleksandra>actually in testing.
+We're trying to figure out the conflicts</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/99-2
+00:15:40.997 --> 00:15:44.391
+<v L&#246;yt&#228;inen, Aleksandra>between the requirements and the actual
+conversations,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/99-3
+00:15:44.391 --> 00:15:47.105
+<v L&#246;yt&#228;inen, Aleksandra>the examples that we share on the
+hallways.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/100-0
+00:15:48.145 --> 00:15:51.793
+<v L&#246;yt&#228;inen, Aleksandra>And again,
+figure out kind of how to enrich that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/100-1
+00:15:51.793 --> 00:15:55.075
+<v L&#246;yt&#228;inen, Aleksandra>Some people want to turn it into test
+cases.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/100-2
+00:15:55.075 --> 00:15:59.890
+<v L&#246;yt&#228;inen, Aleksandra>I would like to believe we want to turn
+that into actual results.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/100-3
+00:15:59.890 --> 00:16:03.319
+<v L&#246;yt&#228;inen, Aleksandra>I don't care about the test cases
+necessarily.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/100-4
+00:16:03.319 --> 00:16:07.185
+<v L&#246;yt&#228;inen, Aleksandra>I care about finding the things we need
+to react on.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/101-0
+00:16:07.465 --> 00:16:12.387
+<v L&#246;yt&#228;inen, Aleksandra>whether there's test cases or not.
+So second brains is definitely something,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/101-1
+00:16:12.387 --> 00:16:15.967
+<v L&#246;yt&#228;inen, Aleksandra>but to use that,
+the reason why we don't maybe all know</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/101-2
+00:16:15.967 --> 00:16:19.739
+<v L&#246;yt&#228;inen, Aleksandra>that is, you know,
+following all of the good advice in the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/101-3
+00:16:19.739 --> 00:16:23.575
+<v L&#246;yt&#228;inen, Aleksandra>world is not possible.
+But the other one is that most of us</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/101-4
+00:16:23.575 --> 00:16:28.305
+<v L&#246;yt&#228;inen, Aleksandra>actually are equipped with what I would
+call knowledge workers, AI tools.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/102-0
+00:16:28.465 --> 00:16:32.470
+<v L&#246;yt&#228;inen, Aleksandra>rather than builders AI tools.
+The difference is how many of you are</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/102-1
+00:16:32.470 --> 00:16:36.417
+<v L&#246;yt&#228;inen, Aleksandra>using ChatGPT, for example,
+or similar chat based kind of like this</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/102-2
+00:16:36.417 --> 00:16:39.377
+<v L&#246;yt&#228;inen, Aleksandra>is my AI, any of the, you know,
+different vendors.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/102-3
+00:16:39.377 --> 00:16:43.905
+<v L&#246;yt&#228;inen, Aleksandra>How many of you then are using Codex,
+which you also get out of the same box?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/102-4
+00:16:43.905 --> 00:16:46.865
+<v L&#246;yt&#228;inen, Aleksandra>This is the reason why we don't have
+Second Brain.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/103-0
+00:16:47.585 --> 00:16:52.517
+<v L&#246;yt&#228;inen, Aleksandra>So the higher level sandboxed versions of
+these tools,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/103-1
+00:16:52.517 --> 00:16:58.705
+<v L&#246;yt&#228;inen, Aleksandra>they tell you that you can only handle 40
+input documents at a time.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/105-0
+00:16:59.665 --> 00:17:03.686
+<v L&#246;yt&#228;inen, Aleksandra>And second brain can deal with something
+like 40 documents.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/105-1
+00:17:03.686 --> 00:17:09.048
+<v L&#246;yt&#228;inen, Aleksandra>It shines when you give it, for example,
+16 years of your public note taking in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/105-2
+00:17:09.048 --> 00:17:14.007
+<v L&#246;yt&#228;inen, Aleksandra>Twitter, LinkedIn, and Mastodon.
+And it tells you all of the things where</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/105-3
+00:17:14.007 --> 00:17:19.235
+<v L&#246;yt&#228;inen, Aleksandra>you didn't know that you have changed
+your mind and you should be apologizing</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/105-4
+00:17:19.235 --> 00:17:19.905
+<v L&#246;yt&#228;inen, Aleksandra>to people.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/106-0
+00:17:20.065 --> 00:17:24.516
+<v L&#246;yt&#228;inen, Aleksandra>on all of the years that you've been
+teaching. So, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/106-1
+00:17:24.516 --> 00:17:30.062
+<v L&#246;yt&#228;inen, Aleksandra>you can learn things in conversation with
+AI when every single one of those</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/106-2
+00:17:30.062 --> 00:17:33.345
+<v L&#246;yt&#228;inen, Aleksandra>questions is actually directing you
+forward.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/107-0
+00:17:35.185 --> 00:17:41.083
+<v L&#246;yt&#228;inen, Aleksandra>There's also, you know, many other things,
+particularly here on the builder side of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/107-1
+00:17:41.083 --> 00:17:46.910
+<v L&#246;yt&#228;inen, Aleksandra>things. So it still says developer role.
+I should have been changing it to builder</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/107-2
+00:17:46.910 --> 00:17:50.280
+<v L&#246;yt&#228;inen, Aleksandra>role.
+I've been slowly trying to find the right</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/107-3
+00:17:50.280 --> 00:17:54.633
+<v L&#246;yt&#228;inen, Aleksandra>vocabulary for this.
+But like things like using local models.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/107-4
+00:17:54.633 --> 00:17:55.265
+<v L&#246;yt&#228;inen, Aleksandra>Nowadays,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/108-0
+00:17:55.425 --> 00:18:00.097
+<v L&#246;yt&#228;inen, Aleksandra>Usually my computer is listening to me
+talk with a local model so that not all</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/108-1
+00:18:00.097 --> 00:18:03.291
+<v L&#246;yt&#228;inen, Aleksandra>of my conversations have to go anywhere
+in the cloud,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/108-2
+00:18:03.291 --> 00:18:08.022
+<v L&#246;yt&#228;inen, Aleksandra>but I can make notes of all of the things
+that I'm speaking either to people in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/108-3
+00:18:08.022 --> 00:18:12.694
+<v L&#246;yt&#228;inen, Aleksandra>calls without them even seeing that I'm
+recording. That's not a good practice,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/108-4
+00:18:12.694 --> 00:18:15.769
+<v L&#246;yt&#228;inen, Aleksandra>by the way.
+Usually you say that you are recording,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/108-5
+00:18:15.769 --> 00:18:18.785
+<v L&#246;yt&#228;inen, Aleksandra>so usually better tools on our other
+visible ones.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/109-0
+00:18:19.185 --> 00:18:23.913
+<v L&#246;yt&#228;inen, Aleksandra>But, you know, me talking sometimes,
+it's a better way for me to track some of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/109-1
+00:18:23.913 --> 00:18:28.221
+<v L&#246;yt&#228;inen, Aleksandra>my ideas, kind of just, you know,
+explain them and then have AI kind of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/109-2
+00:18:28.221 --> 00:18:30.854
+<v L&#246;yt&#228;inen, Aleksandra>process them,
+then through in a better way.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/109-3
+00:18:30.854 --> 00:18:34.923
+<v L&#246;yt&#228;inen, Aleksandra>So if you have, you know,
+secrets that you can't share because they</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/109-4
+00:18:34.923 --> 00:18:39.411
+<v L&#246;yt&#228;inen, Aleksandra>are your customers' client secrets,
+you can still talk about them with the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/109-5
+00:18:39.411 --> 00:18:41.745
+<v L&#246;yt&#228;inen, Aleksandra>local AI when they never go to a cloud.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/110-0
+00:18:42.305 --> 00:18:46.870
+<v L&#246;yt&#228;inen, Aleksandra>And these are all tools that are already
+available to us.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/110-1
+00:18:46.870 --> 00:18:52.064
+<v L&#246;yt&#228;inen, Aleksandra>I can't go through all 30 different ones
+in this particular talk,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/110-2
+00:18:52.064 --> 00:18:58.203
+<v L&#246;yt&#228;inen, Aleksandra>but what I'm planning on doing is a
+social media series on an example of each</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/110-3
+00:18:58.203 --> 00:19:01.745
+<v L&#246;yt&#228;inen, Aleksandra>of these, because out of 50 people,
+you have</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/111-0
+00:19:01.905 --> 00:19:05.983
+<v L&#246;yt&#228;inen, Aleksandra>quite many great stories on how people
+are actually using these.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/111-1
+00:19:05.983 --> 00:19:10.625
+<v L&#246;yt&#228;inen, Aleksandra>And you get more as you go through the
+conversations. So again, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/111-2
+00:19:10.625 --> 00:19:15.456
+<v L&#246;yt&#228;inen, Aleksandra>like there's a link to the app that kind
+of like explains what's the kind of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/111-3
+00:19:15.456 --> 00:19:20.224
+<v L&#246;yt&#228;inen, Aleksandra>experience. Maybe you even found,
+find some ideas of how you could do that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/111-4
+00:19:20.224 --> 00:19:22.545
+<v L&#246;yt&#228;inen, Aleksandra>All of that is available at the CGIs.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/113-0
+00:19:23.905 --> 00:19:29.232
+<v L&#246;yt&#228;inen, Aleksandra>open source QA repo.
+So even the agent that does the analysis</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/113-1
+00:19:29.232 --> 00:19:35.933
+<v L&#246;yt&#228;inen, Aleksandra>of your CV and tells you what your score
+is when you have written that essay,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/113-2
+00:19:35.933 --> 00:19:41.345
+<v L&#246;yt&#228;inen, Aleksandra>it is all available.
+You need either GitHub co-filot codecs or</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/114-0
+00:19:41.825 --> 00:19:44.620
+<v L&#246;yt&#228;inen, Aleksandra>code,
+any of the programming oriented tools,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/114-1
+00:19:44.620 --> 00:19:49.404
+<v L&#246;yt&#228;inen, Aleksandra>and it's able to give you the same
+feedback that it could give me in various</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/114-2
+00:19:49.404 --> 00:19:52.634
+<v L&#246;yt&#228;inen, Aleksandra>settings.
+So a lot of the stuff that we actually do</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/114-3
+00:19:52.634 --> 00:19:56.982
+<v L&#246;yt&#228;inen, Aleksandra>is kind of like, you know,
+you have an idea of coverage in your head.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/114-4
+00:19:56.982 --> 00:20:00.585
+<v L&#246;yt&#228;inen, Aleksandra>Maybe this is not the coverage that you
+were looking for.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/115-0
+00:20:01.105 --> 00:20:05.860
+<v L&#246;yt&#228;inen, Aleksandra>But you have an idea of what would you
+like to track. Maybe it's tasks,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/115-1
+00:20:05.860 --> 00:20:09.757
+<v L&#246;yt&#228;inen, Aleksandra>maybe it's your learning,
+maybe it is something completely</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/115-2
+00:20:09.757 --> 00:20:13.653
+<v L&#246;yt&#228;inen, Aleksandra>different. And now,
+kind of like building these vibe-coded</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/115-3
+00:20:13.653 --> 00:20:17.352
+<v L&#246;yt&#228;inen, Aleksandra>personal apps,
+you can create things that enable you to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/115-4
+00:20:17.352 --> 00:20:19.465
+<v L&#246;yt&#228;inen, Aleksandra>get some of the stuff from here.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/116-0
+00:20:19.705 --> 00:20:23.977
+<v L&#246;yt&#228;inen, Aleksandra>into something that others can use a lot
+more easily.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/116-1
+00:20:23.977 --> 00:20:26.825
+<v L&#246;yt&#228;inen, Aleksandra>So that's a big step in our journey.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/121-0
+00:20:28.505 --> 00:20:33.068
+<v L&#246;yt&#228;inen, Aleksandra>So when I was creating this whole kind of
+like, you know, list of 30 things,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/121-1
+00:20:33.068 --> 00:20:36.387
+<v L&#246;yt&#228;inen, Aleksandra>it wasn't 30 things in the beginning.
+In the beginning,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/121-2
+00:20:36.387 --> 00:20:41.306
+<v L&#246;yt&#228;inen, Aleksandra>it was just this idea that I can kind of
+like see that there's this road where one</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/121-3
+00:20:41.306 --> 00:20:45.869
+<v L&#246;yt&#228;inen, Aleksandra>side has people who are, you know,
+able to just move forward and go anywhere</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/121-4
+00:20:45.869 --> 00:20:47.825
+<v L&#246;yt&#228;inen, Aleksandra>they want. And the other side had</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/122-0
+00:20:47.905 --> 00:20:52.606
+<v L&#246;yt&#228;inen, Aleksandra>people who were kind of like explaining
+that they have all these roadblocks,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/122-1
+00:20:52.606 --> 00:20:57.246
+<v L&#246;yt&#228;inen, Aleksandra>these things that get in the way.
+Like the clients don't give us permission</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/122-2
+00:20:57.246 --> 00:21:00.970
+<v L&#246;yt&#228;inen, Aleksandra>to use any AI tools,
+but you can use local tools. And again,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/122-3
+00:21:00.970 --> 00:21:05.916
+<v L&#246;yt&#228;inen, Aleksandra>not all of your work is client secrets.
+Some of your work is actually, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/122-4
+00:21:05.916 --> 00:21:07.625
+<v L&#246;yt&#228;inen, Aleksandra>like trying to make sense of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/123-0
+00:21:07.905 --> 00:21:13.989
+<v L&#246;yt&#228;inen, Aleksandra>What is testing and why are we doing it?
+And again, data and the application,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/123-1
+00:21:13.989 --> 00:21:15.705
+<v L&#246;yt&#228;inen, Aleksandra>you can separate them.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/124-0
+00:21:17.145 --> 00:21:20.422
+<v L&#246;yt&#228;inen, Aleksandra>Then, well,
+no tools on that particular case,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/124-1
+00:21:20.422 --> 00:21:24.412
+<v L&#246;yt&#228;inen, Aleksandra>then no artifacts,
+not allowed to use anything in Jira,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/124-2
+00:21:24.412 --> 00:21:29.968
+<v L&#246;yt&#228;inen, Aleksandra>not allowed to show any of the code.
+That became kind of like a second hurdle</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/124-3
+00:21:29.968 --> 00:21:35.312
+<v L&#246;yt&#228;inen, Aleksandra>to get over. And again, one by one,
+we've been going through these hurdles</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/124-4
+00:21:35.312 --> 00:21:36.665
+<v L&#246;yt&#228;inen, Aleksandra>for the last years.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/125-0
+00:21:38.185 --> 00:21:42.459
+<v L&#246;yt&#228;inen, Aleksandra>And then the third one,
+it still feels like the biggest one of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/125-1
+00:21:42.459 --> 00:21:46.936
+<v L&#246;yt&#228;inen, Aleksandra>these hurdles on the road,
+which is test data and the application</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/125-2
+00:21:46.936 --> 00:21:49.989
+<v L&#246;yt&#228;inen, Aleksandra>that you can't actually allow AI to
+operate.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/125-3
+00:21:49.989 --> 00:21:55.416
+<v L&#246;yt&#228;inen, Aleksandra>Because a lot of my best experiences are
+basically, you know, I said, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/125-4
+00:21:55.416 --> 00:21:58.265
+<v L&#246;yt&#228;inen, Aleksandra>if you can imagine it, you can ask for it.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/126-0
+00:21:59.225 --> 00:22:03.134
+<v L&#246;yt&#228;inen, Aleksandra>You can ask for it if you have a
+permission to operate the data.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/126-1
+00:22:03.134 --> 00:22:06.261
+<v L&#246;yt&#228;inen, Aleksandra>And if you don't,
+you actually have to know how to,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/126-2
+00:22:06.261 --> 00:22:11.372
+<v L&#246;yt&#228;inen, Aleksandra>you know, not go around those limitations,
+but to do parts of that work that you can</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/126-3
+00:22:11.372 --> 00:22:15.822
+<v L&#246;yt&#228;inen, Aleksandra>do still with the help of the AI.
+So you have to be even more creative in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/126-4
+00:22:15.822 --> 00:22:17.265
+<v L&#246;yt&#228;inen, Aleksandra>the things you're doing.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/127-0
+00:22:17.385 --> 00:22:18.025
+<v L&#246;yt&#228;inen, Aleksandra>You're asking?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/128-0
+00:22:19.225 --> 00:22:22.852
+<v L&#246;yt&#228;inen, Aleksandra>test data,
+even if it was masked so that it doesn't</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/128-1
+00:22:22.852 --> 00:22:27.594
+<v L&#246;yt&#228;inen, Aleksandra>have any more personal names.
+If it is masked from production data,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/128-2
+00:22:27.594 --> 00:22:32.825
+<v L&#246;yt&#228;inen, Aleksandra>it actually tells about, you know,
+whoever organization's business related</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/128-3
+00:22:32.825 --> 00:22:36.033
+<v L&#246;yt&#228;inen, Aleksandra>rules.
+And I'm not sure if all of the Finnish</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/128-4
+00:22:36.033 --> 00:22:38.265
+<v L&#246;yt&#228;inen, Aleksandra>companies would be ever ready to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/129-0
+00:22:38.665 --> 00:22:45.072
+<v L&#246;yt&#228;inen, Aleksandra>allow OpenAI or Anthropic to have full
+access even to the pseudonymized data.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/129-1
+00:22:45.072 --> 00:22:49.343
+<v L&#246;yt&#228;inen, Aleksandra>So before we can actually completely fake
+the data,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/129-2
+00:22:49.343 --> 00:22:53.368
+<v L&#246;yt&#228;inen, Aleksandra>these limitations on the testing side
+will hold,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/129-3
+00:22:53.368 --> 00:22:56.982
+<v L&#246;yt&#228;inen, Aleksandra>and we know that we need to make them
+hold.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/129-4
+00:22:56.982 --> 00:23:00.185
+<v L&#246;yt&#228;inen, Aleksandra>We need to stick to those and keep that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/130-0
+00:23:00.585 --> 00:23:05.379
+<v L&#246;yt&#228;inen, Aleksandra>that limitation in mind. So on the road,
+some of the roadblocks are real.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/130-1
+00:23:05.379 --> 00:23:09.785
+<v L&#246;yt&#228;inen, Aleksandra>Some of them are really relevant.
+And I love the fact that Renata's</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/130-2
+00:23:09.785 --> 00:23:14.903
+<v L&#246;yt&#228;inen, Aleksandra>experience and also her talk was on the
+idea that if you can remove all of the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/130-3
+00:23:14.903 --> 00:23:18.013
+<v L&#246;yt&#228;inen, Aleksandra>roadblocks,
+you can pretend they never existed,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/130-4
+00:23:18.013 --> 00:23:18.985
+<v L&#246;yt&#228;inen, Aleksandra>work in a world</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/131-0
+00:23:19.265 --> 00:23:22.909
+<v L&#246;yt&#228;inen, Aleksandra>where you're actually not working with
+the real data.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/131-1
+00:23:22.909 --> 00:23:26.756
+<v L&#246;yt&#228;inen, Aleksandra>This is how far you can get from being a
+non-programmer,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/131-2
+00:23:26.756 --> 00:23:31.614
+<v L&#246;yt&#228;inen, Aleksandra>having not done any of these systems,
+to creating basically open source</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/131-3
+00:23:31.614 --> 00:23:35.123
+<v L&#246;yt&#228;inen, Aleksandra>memories,
+entire armies of agents that take care of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/131-4
+00:23:35.123 --> 00:23:38.025
+<v L&#246;yt&#228;inen, Aleksandra>things for you,
+and then some kind of like</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/132-0
+00:23:38.545 --> 00:23:43.167
+<v L&#246;yt&#228;inen, Aleksandra>a system that makes sure that the humans
+have to be kind of like,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/132-1
+00:23:43.167 --> 00:23:46.599
+<v L&#246;yt&#228;inen, Aleksandra>like they have a mechanism of being
+responsible.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/132-2
+00:23:46.599 --> 00:23:52.272
+<v L&#246;yt&#228;inen, Aleksandra>So we can only get to these kind of like
+dark factories, kind of like, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/132-3
+00:23:52.272 --> 00:23:57.034
+<v L&#246;yt&#228;inen, Aleksandra>being away for the night and still having
+something in the morning,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/132-4
+00:23:57.034 --> 00:23:58.505
+<v L&#246;yt&#228;inen, Aleksandra>only if we're able to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/134-0
+00:23:58.825 --> 00:24:02.953
+<v L&#246;yt&#228;inen, Aleksandra>allow more access.
+So kind of like the road top or the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/134-1
+00:24:02.953 --> 00:24:07.305
+<v L&#246;yt&#228;inen, Aleksandra>brighter future.
+It might be that we need to stay kind of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/134-2
+00:24:07.305 --> 00:24:12.259
+<v L&#246;yt&#228;inen, Aleksandra>like slower on the road,
+but there are so many different kinds of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/134-3
+00:24:12.259 --> 00:24:14.585
+<v L&#246;yt&#228;inen, Aleksandra>things we can try and learn on.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/137-0
+00:24:16.745 --> 00:24:20.747
+<v L&#246;yt&#228;inen, Aleksandra>So for me,
+all of this kind of like the main things</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/137-1
+00:24:20.747 --> 00:24:25.211
+<v L&#246;yt&#228;inen, Aleksandra>that I've ended up doing right now on
+with AI in testing,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/137-2
+00:24:25.211 --> 00:24:30.598
+<v L&#246;yt&#228;inen, Aleksandra>it seems to be going into two main kind
+of like practical directions.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/137-3
+00:24:30.598 --> 00:24:34.985
+<v L&#246;yt&#228;inen, Aleksandra>One of the practical directions is the
+requirements end.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/138-0
+00:24:35.705 --> 00:24:42.040
+<v L&#246;yt&#228;inen, Aleksandra>I did a project from April up until this
+point, and I learned in two stages,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/138-1
+00:24:42.040 --> 00:24:47.635
+<v L&#246;yt&#228;inen, Aleksandra>or three stages. In the first stage,
+we created with AI assistance,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/138-2
+00:24:47.635 --> 00:24:53.065
+<v L&#246;yt&#228;inen, Aleksandra>a requirement specification,
+60% of the effort, 80 pages of text.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/139-0
+00:24:54.505 --> 00:24:58.005
+<v L&#246;yt&#228;inen, Aleksandra>felt successful until the rubber meets
+the road.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/139-1
+00:24:58.005 --> 00:25:03.147
+<v L&#246;yt&#228;inen, Aleksandra>And it turns out that when the
+development started at 60% of the effort</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/139-2
+00:25:03.147 --> 00:25:06.146
+<v L&#246;yt&#228;inen, Aleksandra>used,
+there was very few things that were</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/139-3
+00:25:06.146 --> 00:25:09.432
+<v L&#246;yt&#228;inen, Aleksandra>useful for development in that
+documentation.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/139-4
+00:25:09.432 --> 00:25:15.145
+<v L&#246;yt&#228;inen, Aleksandra>Development on the second stage created a
+context that Taika was talking about.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/140-0
+00:25:15.225 --> 00:25:18.957
+<v L&#246;yt&#228;inen, Aleksandra>in a way,
+a context that was basically like 2 pages,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/140-1
+00:25:18.957 --> 00:25:24.942
+<v L&#246;yt&#228;inen, Aleksandra>the architectural kind of like, you know,
+guidelines on things that we want to have,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/140-2
+00:25:24.942 --> 00:25:30.293
+<v L&#246;yt&#228;inen, Aleksandra>and threw away most of the stuff that was
+in the so-called requirements and</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/140-3
+00:25:30.293 --> 00:25:34.025
+<v L&#246;yt&#228;inen, Aleksandra>technical specification that we had
+already written.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/141-0
+00:25:34.505 --> 00:25:40.745
+<v L&#246;yt&#228;inen, Aleksandra>We were able to generate a kind of,
+you know, in increments and doing things.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/141-1
+00:25:40.745 --> 00:25:46.665
+<v L&#246;yt&#228;inen, Aleksandra>We were able to generate quite a lovely
+system, a UI, two different APIs,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/141-2
+00:25:46.665 --> 00:25:49.065
+<v L&#246;yt&#228;inen, Aleksandra>all of that deployed in cloud.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/142-0
+00:25:50.225 --> 00:25:54.946
+<v L&#246;yt&#228;inen, Aleksandra>So it felt like a success until a third
+stage where we needed to put the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/142-1
+00:25:54.946 --> 00:25:59.666
+<v L&#246;yt&#228;inen, Aleksandra>beginning and the end together.
+And we needed to figure out how we would</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/142-2
+00:25:59.666 --> 00:26:04.581
+<v L&#246;yt&#228;inen, Aleksandra>actually want to drive it so that we
+don't kind of like create too isolated</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/142-3
+00:26:04.581 --> 00:26:07.879
+<v L&#246;yt&#228;inen, Aleksandra>bubbles.
+And that's where the second brain type of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/142-4
+00:26:07.879 --> 00:26:09.625
+<v L&#246;yt&#228;inen, Aleksandra>an approach went into this.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/143-0
+00:26:10.065 --> 00:26:14.045
+<v L&#246;yt&#228;inen, Aleksandra>living common ground.
+So every single conversation is actually</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/143-1
+00:26:14.045 --> 00:26:18.657
+<v L&#246;yt&#228;inen, Aleksandra>feeding a wiki that is then feeding
+whatever is going into that context.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/143-2
+00:26:18.657 --> 00:26:23.080
+<v L&#246;yt&#228;inen, Aleksandra>And it is a small part of all of the
+conversations that we're having,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/143-3
+00:26:23.080 --> 00:26:28.134
+<v L&#246;yt&#228;inen, Aleksandra>but there are reasons why we're having
+the other conversations and they usually</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/143-4
+00:26:28.134 --> 00:26:30.345
+<v L&#246;yt&#228;inen, Aleksandra>look back to development at latest.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/144-0
+00:26:30.465 --> 00:26:34.471
+<v L&#246;yt&#228;inen, Aleksandra>At the testing stage,
+so you know it's a very practical side of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/144-1
+00:26:34.471 --> 00:26:35.785
+<v L&#246;yt&#228;inen, Aleksandra>how you would use AI.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/145-0
+00:26:37.185 --> 00:26:41.073
+<v L&#246;yt&#228;inen, Aleksandra>And the other side,
+I feel like this is the stuff that I'm</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/145-1
+00:26:41.073 --> 00:26:46.148
+<v L&#246;yt&#228;inen, Aleksandra>most interested or most excited about,
+the ideas of quality feedback slices.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/145-2
+00:26:46.148 --> 00:26:50.761
+<v L&#246;yt&#228;inen, Aleksandra>Like you can have an agent that, you know,
+knows to do certain moves.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/145-3
+00:26:50.761 --> 00:26:55.573
+<v L&#246;yt&#228;inen, Aleksandra>How many of you are acceptability, sorry,
+accessibility testing experts?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/145-4
+00:26:55.573 --> 00:26:57.945
+<v L&#246;yt&#228;inen, Aleksandra>Anyone who has tested accessibility?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/146-0
+00:26:59.145 --> 00:27:03.497
+<v L&#246;yt&#228;inen, Aleksandra>Few people, expert is too much,
+but have tested accessibility,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/146-1
+00:27:03.497 --> 00:27:06.951
+<v L&#246;yt&#228;inen, Aleksandra>maybe like less than 10 people out of
+this crowd.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/146-2
+00:27:06.951 --> 00:27:11.579
+<v L&#246;yt&#228;inen, Aleksandra>The idea that we could have an agent that
+actually does, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/146-3
+00:27:11.579 --> 00:27:16.138
+<v L&#246;yt&#228;inen, Aleksandra>better job than not doing it at all,
+again, 100% is not the goal.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/146-4
+00:27:16.138 --> 00:27:17.865
+<v L&#246;yt&#228;inen, Aleksandra>More than 0% is our goal.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/147-0
+00:27:18.745 --> 00:27:23.576
+<v L&#246;yt&#228;inen, Aleksandra>So the accessibility agent that is able
+to tell what are the problems,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/147-1
+00:27:23.576 --> 00:27:28.747
+<v L&#246;yt&#228;inen, Aleksandra>why are they problems, explain it,
+give us kind of like nice and an agentic</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/147-2
+00:27:28.747 --> 00:27:34.259
+<v L&#246;yt&#228;inen, Aleksandra>summarized views into our actual system
+by using the source code and the running</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/147-3
+00:27:34.259 --> 00:27:37.865
+<v L&#246;yt&#228;inen, Aleksandra>applications source.
+They are very practical things.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/148-0
+00:27:38.425 --> 00:27:42.139
+<v L&#246;yt&#228;inen, Aleksandra>And again,
+they might not be things that we have</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/148-1
+00:27:42.139 --> 00:27:47.292
+<v L&#246;yt&#228;inen, Aleksandra>here at CGI kind of like generated,
+like I found them in the world.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/148-2
+00:27:47.292 --> 00:27:53.431
+<v L&#246;yt&#228;inen, Aleksandra>The community in the world is quite a
+nice one in this. But to curate the world,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/148-3
+00:27:53.431 --> 00:27:57.145
+<v L&#246;yt&#228;inen, Aleksandra>that's usually what I find myself using
+time on.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/149-0
+00:27:57.705 --> 00:28:01.225
+<v L&#246;yt&#228;inen, Aleksandra>Accessibility agent is definitely one of
+those quality slices.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/150-0
+00:28:02.505 --> 00:28:07.806
+<v L&#246;yt&#228;inen, Aleksandra>But even more interesting one in the last
+couple of weeks has been property-based</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/150-1
+00:28:07.806 --> 00:28:10.973
+<v L&#246;yt&#228;inen, Aleksandra>testing.
+And anyone who sees me in socials knows</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/150-2
+00:28:10.973 --> 00:28:15.434
+<v L&#246;yt&#228;inen, Aleksandra>that I'm excited about this to a level of
+obsession now, apparently.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/150-3
+00:28:15.434 --> 00:28:20.670
+<v L&#246;yt&#228;inen, Aleksandra>So in the last couple of conferences and
+last couple of customer meetings that I</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/150-4
+00:28:20.670 --> 00:28:23.385
+<v L&#246;yt&#228;inen, Aleksandra>have gone to, where we talk about testing,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/151-0
+00:28:23.785 --> 00:28:28.967
+<v L&#246;yt&#228;inen, Aleksandra>I have gone with a 5 minutes of asking to
+find problems on the website or the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/151-1
+00:28:28.967 --> 00:28:31.956
+<v L&#246;yt&#228;inen, Aleksandra>service of that customer or that
+conference.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/151-2
+00:28:31.956 --> 00:28:37.404
+<v L&#246;yt&#228;inen, Aleksandra>And I have been able to go with a list of
+real production problems where at least</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/151-3
+00:28:37.404 --> 00:28:42.785
+<v L&#246;yt&#228;inen, Aleksandra>one is something that they would never
+wanted to know that their production has.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/152-0
+00:28:43.145 --> 00:28:46.675
+<v L&#246;yt&#228;inen, Aleksandra>and it's been real.
+And being able to do this by basically</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/152-1
+00:28:46.675 --> 00:28:49.487
+<v L&#246;yt&#228;inen, Aleksandra>having,
+it's called antithesis research skill,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/152-2
+00:28:49.487 --> 00:28:52.418
+<v L&#246;yt&#228;inen, Aleksandra>it identifies properties,
+and then saying to AI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/152-3
+00:28:52.418 --> 00:28:57.204
+<v L&#246;yt&#228;inen, Aleksandra>I wish you would put these properties
+together with our test automation so that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/152-4
+00:28:57.204 --> 00:29:01.512
+<v L&#246;yt&#228;inen, Aleksandra>our test automation looks for things that
+it wasn't looking for before,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/152-5
+00:29:01.512 --> 00:29:03.785
+<v L&#246;yt&#228;inen, Aleksandra>the things that should always be true.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/154-0
+00:29:04.105 --> 00:29:08.892
+<v L&#246;yt&#228;inen, Aleksandra>It's been really, really,
+really powerful way of using AI. So again,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/154-1
+00:29:08.892 --> 00:29:14.650
+<v L&#246;yt&#228;inen, Aleksandra>the technique, different aspects of it,
+way too much for putting in a single talk.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/154-2
+00:29:14.650 --> 00:29:18.465
+<v L&#246;yt&#228;inen, Aleksandra>But I find that looking into both of
+these directions,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/154-3
+00:29:18.465 --> 00:29:22.905
+<v L&#246;yt&#228;inen, Aleksandra>kind of quality assurance perspective,
+it is having that intent</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/155-0
+00:29:23.785 --> 00:29:29.366
+<v L&#246;yt&#228;inen, Aleksandra>But having that intent kind of like
+framed in this doubtful way,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/155-1
+00:29:29.366 --> 00:29:36.235
+<v L&#246;yt&#228;inen, Aleksandra>I think this might work or might not work,
+but remembering that more than 0% is</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/155-2
+00:29:36.235 --> 00:29:41.215
+<v L&#246;yt&#228;inen, Aleksandra>actually our goal rather than having 100%
+full certainty.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/155-3
+00:29:41.215 --> 00:29:43.705
+<v L&#246;yt&#228;inen, Aleksandra>And this is kind of like a...</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/156-0
+00:29:44.745 --> 00:29:48.219
+<v L&#246;yt&#228;inen, Aleksandra>partial,
+better improvement type of perspective.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/156-1
+00:29:48.219 --> 00:29:53.465
+<v L&#246;yt&#228;inen, Aleksandra>It's an essential one for all of us to
+have. Does this make sense to you?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/157-0
+00:29:56.105 --> 00:30:01.880
+<v L&#246;yt&#228;inen, Aleksandra>So I'm pretty sure that in a year I will
+have a different list,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/157-1
+00:30:01.880 --> 00:30:09.280
+<v L&#246;yt&#228;inen, Aleksandra>but these are very likely things to stay
+on my list a year later on things that I</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/157-2
+00:30:09.280 --> 00:30:14.333
+<v L&#246;yt&#228;inen, Aleksandra>would call useful.
+I also use these things in then real</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/157-3
+00:30:14.333 --> 00:30:15.145
+<v L&#246;yt&#228;inen, Aleksandra>projects.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/160-0
+00:30:15.785 --> 00:30:20.085
+<v L&#246;yt&#228;inen, Aleksandra>And we had this week's Monday,
+we had a conversation where we talked</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/160-1
+00:30:20.085 --> 00:30:24.634
+<v L&#246;yt&#228;inen, Aleksandra>about the idea that now that developers
+can do things four times faster.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/160-2
+00:30:24.634 --> 00:30:27.625
+<v L&#246;yt&#228;inen, Aleksandra>That's a random number that somebody
+generated.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/161-0
+00:30:28.985 --> 00:30:32.769
+<v L&#246;yt&#228;inen, Aleksandra>How are we in testing?
+Are we also going to be four times faster?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/161-1
+00:30:32.769 --> 00:30:37.070
+<v L&#246;yt&#228;inen, Aleksandra>And then we started having this
+conversation about kind of like, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/161-2
+00:30:37.070 --> 00:30:41.542
+<v L&#246;yt&#228;inen, Aleksandra>we are already faster in generating our
+scenarios. Like we can now, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/161-3
+00:30:41.542 --> 00:30:45.900
+<v L&#246;yt&#228;inen, Aleksandra>ask AI to generate those scenarios,
+but then we still need the people to go</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/161-4
+00:30:45.900 --> 00:30:49.225
+<v L&#246;yt&#228;inen, Aleksandra>through those scenarios.
+So that's actually not giving us</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/162-0
+00:30:49.305 --> 00:30:53.884
+<v L&#246;yt&#228;inen, Aleksandra>overall a four times faster thing.
+So what does it look like if you're</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/162-1
+00:30:53.884 --> 00:30:59.173
+<v L&#246;yt&#228;inen, Aleksandra>actually trying to make testing faster?
+What did it look like in the project I've</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/162-2
+00:30:59.173 --> 00:31:04.591
+<v L&#246;yt&#228;inen, Aleksandra>been doing in the last six months is that
+you start your testing with the idea that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/162-3
+00:31:04.591 --> 00:31:05.945
+<v L&#246;yt&#228;inen, Aleksandra>you're collaborating.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/163-0
+00:31:07.705 --> 00:31:11.270
+<v L&#246;yt&#228;inen, Aleksandra>You didn't do too well today on questions,
+by the way.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/163-1
+00:31:11.270 --> 00:31:15.872
+<v L&#246;yt&#228;inen, Aleksandra>My coverage metric on questions is,
+I would like a few more next time.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/163-2
+00:31:15.872 --> 00:31:21.122
+<v L&#246;yt&#228;inen, Aleksandra>You know, 100% is not necessary, again,
+but the questions coverage metric today,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/163-3
+00:31:21.122 --> 00:31:24.363
+<v L&#246;yt&#228;inen, Aleksandra>you know,
+we could do some work on that with this</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/163-4
+00:31:24.363 --> 00:31:27.927
+<v L&#246;yt&#228;inen, Aleksandra>crowd, right?
+So collaboration means you actually have</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/163-5
+00:31:27.927 --> 00:31:28.705
+<v L&#246;yt&#228;inen, Aleksandra>to speak up.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/164-0
+00:31:29.625 --> 00:31:33.201
+<v L&#246;yt&#228;inen, Aleksandra>You might not have to speak up in a crowd
+this size,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/164-1
+00:31:33.201 --> 00:31:38.598
+<v L&#246;yt&#228;inen, Aleksandra>but you have to find that whisper network
+where you go and talk about the thing</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/164-2
+00:31:38.598 --> 00:31:43.726
+<v L&#246;yt&#228;inen, Aleksandra>that you notice outside the meeting and
+protect people's ego and, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/164-3
+00:31:43.726 --> 00:31:47.571
+<v L&#246;yt&#228;inen, Aleksandra>presence if they have, you know,
+some people have those.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/164-4
+00:31:47.571 --> 00:31:49.865
+<v L&#246;yt&#228;inen, Aleksandra>I've never met anyone with an ego.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/165-0
+00:31:49.985 --> 00:31:54.350
+<v L&#246;yt&#228;inen, Aleksandra>of course. But, you know,
+collaboration is an important thing.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/165-1
+00:31:54.350 --> 00:31:59.546
+<v L&#246;yt&#228;inen, Aleksandra>So starting with making sure you have
+that time for testing, kind of like,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/165-2
+00:31:59.546 --> 00:32:03.080
+<v L&#246;yt&#228;inen, Aleksandra>you know,
+we used to call it master test planning.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/165-3
+00:32:03.080 --> 00:32:07.999
+<v L&#246;yt&#228;inen, Aleksandra>I would prefer to just call it
+identifying the things that are slow to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/165-4
+00:32:07.999 --> 00:32:08.345
+<v L&#246;yt&#228;inen, Aleksandra>move.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/166-0
+00:32:09.625 --> 00:32:14.102
+<v L&#246;yt&#228;inen, Aleksandra>Then participating in creation by
+sampling in reviews,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/166-1
+00:32:14.102 --> 00:32:19.636
+<v L&#246;yt&#228;inen, Aleksandra>you have unique perspectives that you
+might want to ask through AI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/166-2
+00:32:19.636 --> 00:32:24.520
+<v L&#246;yt&#228;inen, Aleksandra>if not directly from the people,
+start those conversations,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/166-3
+00:32:24.520 --> 00:32:28.345
+<v L&#246;yt&#228;inen, Aleksandra>and then start building up that common
+ground.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/167-0
+00:32:28.905 --> 00:32:34.427
+<v L&#246;yt&#228;inen, Aleksandra>In the project that I did this year,
+in the first stage where we were mostly</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/167-1
+00:32:34.427 --> 00:32:38.227
+<v L&#246;yt&#228;inen, Aleksandra>doing this one,
+I already found two problems for the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/167-2
+00:32:38.227 --> 00:32:40.665
+<v L&#246;yt&#228;inen, Aleksandra>client that were worth 25,000 EUR.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/168-0
+00:32:42.265 --> 00:32:46.174
+<v L&#246;yt&#228;inen, Aleksandra>So, you know, like some of your questions,
+not all of them,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/168-1
+00:32:46.174 --> 00:32:51.582
+<v L&#246;yt&#228;inen, Aleksandra>but some of them actually create a change
+that is quite relevant. One of those 25,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/168-2
+00:32:51.582 --> 00:32:56.599
+<v L&#246;yt&#228;inen, Aleksandra>000 euro things was a change that we knew
+that needed to be in that project.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/168-3
+00:32:56.599 --> 00:33:01.225
+<v L&#246;yt&#228;inen, Aleksandra>So starting that conversation early made
+it a less painful experience.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/169-0
+00:33:01.705 --> 00:33:04.665
+<v L&#246;yt&#228;inen, Aleksandra>And one of them was that we oversized the.
+..</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/170-0
+00:33:06.425 --> 00:33:12.495
+<v L&#246;yt&#228;inen, Aleksandra>architecture on cloud so that instead of
+it being like 100 a month in production,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/170-1
+00:33:12.495 --> 00:33:16.937
+<v L&#246;yt&#228;inen, Aleksandra>it would have been 25,
+000 EUR a year to run that system in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/170-2
+00:33:16.937 --> 00:33:19.972
+<v L&#246;yt&#228;inen, Aleksandra>production.
+Someone needs to start these</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/170-3
+00:33:19.972 --> 00:33:24.265
+<v L&#246;yt&#228;inen, Aleksandra>conversations on what is it going to cost
+us to run this.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/172-0
+00:33:25.145 --> 00:33:28.904
+<v L&#246;yt&#228;inen, Aleksandra>So right after that, the second stage,
+what I do,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/172-1
+00:33:28.904 --> 00:33:34.317
+<v L&#246;yt&#228;inen, Aleksandra>I don't ask for the scenarios of,
+you know, what would I test manually.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/172-2
+00:33:34.317 --> 00:33:37.625
+<v L&#246;yt&#228;inen, Aleksandra>I don't create those.
+I ask first for bugs.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/174-0
+00:33:39.065 --> 00:33:44.765
+<v L&#246;yt&#228;inen, Aleksandra>And I don't ask the thing to test it for
+me. I ask to test it from a perspective.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/174-1
+00:33:44.765 --> 00:33:48.658
+<v L&#246;yt&#228;inen, Aleksandra>Tell me about the problems in context.
+Tell me content.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/174-2
+00:33:48.658 --> 00:33:54.427
+<v L&#246;yt&#228;inen, Aleksandra>Tell me problems about the architecture.
+Tell me problems about the most important</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/174-3
+00:33:54.427 --> 00:33:57.625
+<v L&#246;yt&#228;inen, Aleksandra>risks. I name risks,
+so slicing the question.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/175-0
+00:33:58.105 --> 00:34:02.814
+<v L&#246;yt&#228;inen, Aleksandra>you get a lot better results.
+The benchmark currently says that if you</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/175-1
+00:34:02.814 --> 00:34:07.655
+<v L&#246;yt&#228;inen, Aleksandra>ask AI to test the thing for you,
+it's about 5% that it can find from my</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/175-2
+00:34:07.655 --> 00:34:11.900
+<v L&#246;yt&#228;inen, Aleksandra>benchmark applications.
+But if you ask three questions that are</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/175-3
+00:34:11.900 --> 00:34:13.425
+<v L&#246;yt&#228;inen, Aleksandra>sliced, it gets to 65%.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/177-0
+00:34:14.425 --> 00:34:19.341
+<v L&#246;yt&#228;inen, Aleksandra>The difference is very huge. And again,
+these are simple test targets where</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/177-1
+00:34:19.341 --> 00:34:23.545
+<v L&#246;yt&#228;inen, Aleksandra>humans don't do too well.
+AI already does better than us people.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/178-0
+00:34:25.305 --> 00:34:29.602
+<v L&#246;yt&#228;inen, Aleksandra>So then you would fix the bugs,
+you would pair maybe, you know, with AI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/178-1
+00:34:29.602 --> 00:34:33.076
+<v L&#246;yt&#228;inen, Aleksandra>with real people.
+If your skills make you feel like you're</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/178-2
+00:34:33.076 --> 00:34:37.785
+<v L&#246;yt&#228;inen, Aleksandra>uncomfortable with fixing things yourself,
+great opportunity for collaboration.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/179-0
+00:34:39.465 --> 00:34:43.774
+<v L&#246;yt&#228;inen, Aleksandra>But also make sure that you're leaving
+behind in test automation on the lowest</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/179-1
+00:34:43.774 --> 00:34:45.465
+<v L&#246;yt&#228;inen, Aleksandra>possible level of architecture.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/180-0
+00:34:46.665 --> 00:34:52.835
+<v L&#246;yt&#228;inen, Aleksandra>So if you can capture that behavior and
+the problem that was found on a unit test,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/180-1
+00:34:52.835 --> 00:34:56.105
+<v L&#246;yt&#228;inen, Aleksandra>you don't need an end-to-end test for
+that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/180-2
+00:34:56.105 --> 00:35:02.126
+<v L&#246;yt&#228;inen, Aleksandra>End-to-end tests are expensive time-wise.
+Running them, waiting for them to run,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/180-3
+00:35:02.126 --> 00:35:05.545
+<v L&#246;yt&#228;inen, Aleksandra>that is very expensive.
+But being able to map</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/181-0
+00:35:05.625 --> 00:35:10.185
+<v L&#246;yt&#228;inen, Aleksandra>That to a unit test that fails quickly in
+seconds.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/182-0
+00:35:11.305 --> 00:35:12.025
+<v L&#246;yt&#228;inen, Aleksandra>Very valuable.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/183-0
+00:35:13.065 --> 00:35:17.192
+<v L&#246;yt&#228;inen, Aleksandra>Then you would model the APIs and UIs to,
+you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/183-1
+00:35:17.192 --> 00:35:21.716
+<v L&#246;yt&#228;inen, Aleksandra>add tests that you didn't get from the
+bugs perspective.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/183-2
+00:35:21.716 --> 00:35:27.590
+<v L&#246;yt&#228;inen, Aleksandra>And then you would make sure with all
+kinds of ways that whatever was the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/183-3
+00:35:27.590 --> 00:35:33.225
+<v L&#246;yt&#228;inen, Aleksandra>conversation that you captured earlier
+with that living documentation.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/184-0
+00:35:33.625 --> 00:35:38.337
+<v L&#246;yt&#228;inen, Aleksandra>that it ends up being run,
+and that green that you show from there,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/184-1
+00:35:38.337 --> 00:35:43.811
+<v L&#246;yt&#228;inen, Aleksandra>that it's actually meaningful for the
+clients. But not just you and your team,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/184-2
+00:35:43.811 --> 00:35:49.216
+<v L&#246;yt&#228;inen, Aleksandra>but also for whoever was asking for it.
+You notice how there's no manual test</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/184-3
+00:35:49.216 --> 00:35:52.265
+<v L&#246;yt&#228;inen, Aleksandra>case writing anywhere in this second
+stage.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/186-0
+00:35:53.305 --> 00:35:57.176
+<v L&#246;yt&#228;inen, Aleksandra>The third stage, again,
+you can do kind of like an incremental</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/186-1
+00:35:57.176 --> 00:36:01.662
+<v L&#246;yt&#228;inen, Aleksandra>way of between 2:00 and 3:00.
+You would spend time with the application.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/186-2
+00:36:01.662 --> 00:36:06.025
+<v L&#246;yt&#228;inen, Aleksandra>Because if your automation was wrong,
+if it captured the wrong things,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/187-0
+00:36:07.105 --> 00:36:12.495
+<v L&#246;yt&#228;inen, Aleksandra>when you were using AI to do that as fast
+as possible without caring about all</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/187-1
+00:36:12.495 --> 00:36:15.770
+<v L&#246;yt&#228;inen, Aleksandra>those requirements and the correctness of
+them.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/187-2
+00:36:15.770 --> 00:36:20.068
+<v L&#246;yt&#228;inen, Aleksandra>Maybe you could do some of the correction
+from kind of saying,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/187-3
+00:36:20.068 --> 00:36:24.776
+<v L&#246;yt&#228;inen, Aleksandra>I see this in the user interface.
+You might actually want to already</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/187-4
+00:36:24.776 --> 00:36:26.345
+<v L&#246;yt&#228;inen, Aleksandra>explore whenever you're</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/188-0
+00:36:26.505 --> 00:36:32.202
+<v L&#246;yt&#228;inen, Aleksandra>you know, talking about the requirements,
+the things and expectations that people</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/188-1
+00:36:32.202 --> 00:36:35.259
+<v L&#246;yt&#228;inen, Aleksandra>have,
+because nothing is more powerful than</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/188-2
+00:36:35.259 --> 00:36:38.871
+<v L&#246;yt&#228;inen, Aleksandra>showing this is what you get if you are
+doing this.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/188-3
+00:36:38.871 --> 00:36:42.206
+<v L&#246;yt&#228;inen, Aleksandra>Are you sure this is what you wanted?
+So again,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/188-4
+00:36:42.206 --> 00:36:44.985
+<v L&#246;yt&#228;inen, Aleksandra>all the time having these conversations.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/189-0
+00:36:45.545 --> 00:36:49.790
+<v L&#246;yt&#228;inen, Aleksandra>And then finally,
+I've been talking about this now for 20</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/189-1
+00:36:49.790 --> 00:36:53.377
+<v L&#246;yt&#228;inen, Aleksandra>years,
+we should understand as testers that test</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/189-2
+00:36:53.377 --> 00:36:55.865
+<v L&#246;yt&#228;inen, Aleksandra>cases can be an output of testing.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/190-0
+00:36:56.985 --> 00:37:02.620
+<v L&#246;yt&#228;inen, Aleksandra>It's the thing we leave as good people
+for the people who come after us,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/190-1
+00:37:02.620 --> 00:37:08.640
+<v L&#246;yt&#228;inen, Aleksandra>rather than that it's the thing that we
+need to build when we know the least.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/190-2
+00:37:08.640 --> 00:37:14.970
+<v L&#246;yt&#228;inen, Aleksandra>And we need to change the way we think.
+So this is how I think of a test process.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/190-3
+00:37:14.970 --> 00:37:16.745
+<v L&#246;yt&#228;inen, Aleksandra>I know that it includes</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/193-0
+00:37:17.385 --> 00:37:23.138
+<v L&#246;yt&#228;inen, Aleksandra>various ideas that are very unusual,
+but this is how you make testing actually</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/193-1
+00:37:23.138 --> 00:37:28.017
+<v L&#246;yt&#228;inen, Aleksandra>more effective in age of AI.
+You change it from what we thought we</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/193-2
+00:37:28.017 --> 00:37:31.367
+<v L&#246;yt&#228;inen, Aleksandra>knew.
+So that kind of sums it to the lesson 2</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/193-3
+00:37:31.367 --> 00:37:37.265
+<v L&#246;yt&#228;inen, Aleksandra>on coverage. The experiences you have had,
+whether it's on the process you have,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/194-0
+00:37:37.785 --> 00:37:43.132
+<v L&#246;yt&#228;inen, Aleksandra>or on the use of the tools that you have
+used or the ways of tools,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/194-1
+00:37:43.132 --> 00:37:48.007
+<v L&#246;yt&#228;inen, Aleksandra>ways of using the tools,
+it actually matters on you proposing</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/194-2
+00:37:48.007 --> 00:37:51.781
+<v L&#246;yt&#228;inen, Aleksandra>those changes.
+So I think we need to need to do</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/194-3
+00:37:51.781 --> 00:37:56.105
+<v L&#246;yt&#228;inen, Aleksandra>something on that and it's kind of an
+exciting future.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/195-0
+00:37:57.625 --> 00:38:01.865
+<v L&#246;yt&#228;inen, Aleksandra>So then, to conclude,
+we have the third lesson.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/198-0
+00:38:03.785 --> 00:38:08.012
+<v L&#246;yt&#228;inen, Aleksandra>This year,
+I feel like every single conversation</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/198-1
+00:38:08.012 --> 00:38:13.705
+<v L&#246;yt&#228;inen, Aleksandra>that I'm having is taking us back to this
+idea that we want to...</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/199-0
+00:38:14.905 --> 00:38:15.865
+<v L&#246;yt&#228;inen, Aleksandra>Automate fully.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/200-0
+00:38:17.945 --> 00:38:23.129
+<v L&#246;yt&#228;inen, Aleksandra>But we also want to connect humanly in a
+way that is kind of like an exceptional</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/200-1
+00:38:23.129 --> 00:38:23.385
+<v L&#246;yt&#228;inen, Aleksandra>one.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/201-0
+00:38:24.785 --> 00:38:28.662
+<v L&#246;yt&#228;inen, Aleksandra>When I talk to business people in client
+organizations,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/201-1
+00:38:28.662 --> 00:38:34.131
+<v L&#246;yt&#228;inen, Aleksandra>which I have needed to end up doing in a
+particular role that I nowadays hold,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/201-2
+00:38:34.131 --> 00:38:38.908
+<v L&#246;yt&#228;inen, Aleksandra>and I think we all have accesses to those
+conversations to a degree,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/201-3
+00:38:38.908 --> 00:38:44.239
+<v L&#246;yt&#228;inen, Aleksandra>I started to realize that the story on
+the business side is that they have a</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/201-4
+00:38:44.239 --> 00:38:46.385
+<v L&#246;yt&#228;inen, Aleksandra>business improvement backlog of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/203-0
+00:38:46.465 --> 00:38:50.502
+<v L&#246;yt&#228;inen, Aleksandra>219 items,
+and they know that they can go through 13</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/203-1
+00:38:50.502 --> 00:38:54.386
+<v L&#246;yt&#228;inen, Aleksandra>of them a year.
+And 4 times faster would mean that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/203-2
+00:38:54.386 --> 00:38:58.194
+<v L&#246;yt&#228;inen, Aleksandra>there's still work,
+even in the existing backlog,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/203-3
+00:38:58.194 --> 00:39:01.545
+<v L&#246;yt&#228;inen, Aleksandra>there's still work for the next five
+years.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/204-0
+00:39:02.425 --> 00:39:06.505
+<v L&#246;yt&#228;inen, Aleksandra>So, us being able to, you know,
+speed it up.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/205-0
+00:39:07.665 --> 00:39:11.522
+<v L&#246;yt&#228;inen, Aleksandra>isn't going to be taking away the work of
+the future.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/205-1
+00:39:11.522 --> 00:39:16.235
+<v L&#246;yt&#228;inen, Aleksandra>That is actually enabling new ideas.
+And some of those new ideas,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/205-2
+00:39:16.235 --> 00:39:21.520
+<v L&#246;yt&#228;inen, Aleksandra>they come from human to human connections
+and conversations that we have.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/205-3
+00:39:21.520 --> 00:39:27.091
+<v L&#246;yt&#228;inen, Aleksandra>That's how we discover all the cool
+things we wanted to build that would help</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/205-4
+00:39:27.091 --> 00:39:27.305
+<v L&#246;yt&#228;inen, Aleksandra>us.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/206-0
+00:39:27.545 --> 00:39:31.291
+<v L&#246;yt&#228;inen, Aleksandra>in the world.
+Because we're actually all in this big</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/206-1
+00:39:31.291 --> 00:39:35.603
+<v L&#246;yt&#228;inen, Aleksandra>kind of churn of,
+we don't know where our business is going,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/206-2
+00:39:35.603 --> 00:39:41.045
+<v L&#246;yt&#228;inen, Aleksandra>and it's how we're going to be pressing a
+button on a user interface to say,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/206-3
+00:39:41.045 --> 00:39:44.579
+<v L&#246;yt&#228;inen, Aleksandra>I approve,
+and having a cryptographic evidence of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/206-4
+00:39:44.579 --> 00:39:47.265
+<v L&#246;yt&#228;inen, Aleksandra>that. So people really, really matter.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/209-0
+00:39:48.585 --> 00:39:55.100
+<v L&#246;yt&#228;inen, Aleksandra>So when we accept that people matter,
+we first have to understand that one of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/209-1
+00:39:55.100 --> 00:40:01.699
+<v L&#246;yt&#228;inen, Aleksandra>the things that enables that efficiency
+with AI is that we find ways of having</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/209-2
+00:40:01.699 --> 00:40:08.465
+<v L&#246;yt&#228;inen, Aleksandra>less people on the same collaborative
+problem. Like if we have a 10-person team,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/210-0
+00:40:08.985 --> 00:40:12.337
+<v L&#246;yt&#228;inen, Aleksandra>it means we would need to have 45
+connections,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/210-1
+00:40:12.337 --> 00:40:15.546
+<v L&#246;yt&#228;inen, Aleksandra>one-on-one connections between those
+people.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/210-2
+00:40:15.546 --> 00:40:19.183
+<v L&#246;yt&#228;inen, Aleksandra>And when we find ourselves using maybe,
+let's say,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/210-3
+00:40:19.183 --> 00:40:23.247
+<v L&#246;yt&#228;inen, Aleksandra>third of our time talking to a bot,
+basically an AI bot,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/210-4
+00:40:23.247 --> 00:40:28.025
+<v L&#246;yt&#228;inen, Aleksandra>it means that we have less time for those
+truly human connections.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/211-0
+00:40:28.665 --> 00:40:32.318
+<v L&#246;yt&#228;inen, Aleksandra>because we spend so much of the time
+talking to the bot.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/211-1
+00:40:32.318 --> 00:40:36.355
+<v L&#246;yt&#228;inen, Aleksandra>We need to pay attention to really having
+those conversations,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/211-2
+00:40:36.355 --> 00:40:40.263
+<v L&#246;yt&#228;inen, Aleksandra>build some kind of knowledge base that is
+shared amongst us,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/211-3
+00:40:40.263 --> 00:40:45.326
+<v L&#246;yt&#228;inen, Aleksandra>because otherwise we are kind of losing
+the human aspect and just replacing it</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/211-4
+00:40:45.326 --> 00:40:48.145
+<v L&#246;yt&#228;inen, Aleksandra>with one-sided conversation with a
+machine.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/212-0
+00:40:48.305 --> 00:40:52.762
+<v L&#246;yt&#228;inen, Aleksandra>And that's not what we wanted.
+So we need like a learning mechanism</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/212-1
+00:40:52.762 --> 00:40:57.613
+<v L&#246;yt&#228;inen, Aleksandra>where all of our conversations are
+actually feeding into the same source.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/212-2
+00:40:57.613 --> 00:41:00.890
+<v L&#246;yt&#228;inen, Aleksandra>That's one of the first things we need to
+set up.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/212-3
+00:41:00.890 --> 00:41:05.413
+<v L&#246;yt&#228;inen, Aleksandra>But also we need to start paying
+attention to who are we talking to?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/212-4
+00:41:05.413 --> 00:41:08.625
+<v L&#246;yt&#228;inen, Aleksandra>What are we spending time talking to them
+about?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/213-0
+00:41:09.145 --> 00:41:13.249
+<v L&#246;yt&#228;inen, Aleksandra>Is it therapy,
+which we usually do in interesting</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/213-1
+00:41:13.249 --> 00:41:17.271
+<v L&#246;yt&#228;inen, Aleksandra>communities?
+Is it being allowed to express that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/213-2
+00:41:17.271 --> 00:41:22.113
+<v L&#246;yt&#228;inen, Aleksandra>you're frustrated?
+Or do you have a balance on the builder</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/213-3
+00:41:22.113 --> 00:41:28.105
+<v L&#246;yt&#228;inen, Aleksandra>forward driving conversations?
+Do you talk only upwards to your manager?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/214-0
+00:41:28.145 --> 00:41:30.185
+<v L&#246;yt&#228;inen, Aleksandra>That's kind of the color coding there.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/215-0
+00:41:31.225 --> 00:41:36.947
+<v L&#246;yt&#228;inen, Aleksandra>that you might sometimes need that?
+Or are you actually paying attention to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/215-1
+00:41:36.947 --> 00:41:42.745
+<v L&#246;yt&#228;inen, Aleksandra>really having your peers also as equal
+participants in the conversations you</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/215-2
+00:41:42.745 --> 00:41:45.983
+<v L&#246;yt&#228;inen, Aleksandra>have?
+So you really need this deeply human</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/215-3
+00:41:45.983 --> 00:41:49.823
+<v L&#246;yt&#228;inen, Aleksandra>coverage.
+So we need a new metric around who do we</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/215-4
+00:41:49.823 --> 00:41:50.425
+<v L&#246;yt&#228;inen, Aleksandra>talk to?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/218-0
+00:41:51.785 --> 00:41:55.158
+<v L&#246;yt&#228;inen, Aleksandra>Obviously,
+I vibe coded an application that helps me</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/218-1
+00:41:55.158 --> 00:41:59.803
+<v L&#246;yt&#228;inen, Aleksandra>track my connections with people.
+And I collected data for three months,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/218-2
+00:41:59.803 --> 00:42:04.129
+<v L&#246;yt&#228;inen, Aleksandra>and then I realized that I don't want to
+collect this type of data.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/218-3
+00:42:04.129 --> 00:42:09.093
+<v L&#246;yt&#228;inen, Aleksandra>I just want to pay attention to this.
+So you don't need an actual number that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/218-4
+00:42:09.093 --> 00:42:11.065
+<v L&#246;yt&#228;inen, Aleksandra>somebody tracks, even yourself.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/219-0
+00:42:11.225 --> 00:42:12.105
+<v L&#246;yt&#228;inen, Aleksandra>For all of that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/220-0
+00:42:13.265 --> 00:42:19.705
+<v L&#246;yt&#228;inen, Aleksandra>But for human connections, the framing is,
+you might not be a tester in a year.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/221-0
+00:42:20.905 --> 00:42:24.889
+<v L&#246;yt&#228;inen, Aleksandra>You might be a QA person,
+you might be a developer,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/221-1
+00:42:24.889 --> 00:42:30.404
+<v L&#246;yt&#228;inen, Aleksandra>you might be a project manager,
+or you might get one of these this kind</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/221-2
+00:42:30.404 --> 00:42:35.460
+<v L&#246;yt&#228;inen, Aleksandra>of cutesy little names that we have on
+the cutesy little picture,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/221-3
+00:42:35.460 --> 00:42:39.827
+<v L&#246;yt&#228;inen, Aleksandra>where we took the whole alignment
+engineer or alignment,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/221-4
+00:42:39.827 --> 00:42:41.665
+<v L&#246;yt&#228;inen, Aleksandra>CGI alignment as a term.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/222-0
+00:42:42.185 --> 00:42:47.096
+<v L&#246;yt&#228;inen, Aleksandra>that maybe we need to just, you know,
+like change the roles completely</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/222-1
+00:42:47.096 --> 00:42:51.385
+<v L&#246;yt&#228;inen, Aleksandra>differently so that we need to discover
+our identities again.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/223-0
+00:42:52.745 --> 00:42:56.448
+<v L&#246;yt&#228;inen, Aleksandra>A context engineer would do what Taika
+was talking about,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/223-1
+00:42:56.448 --> 00:43:00.726
+<v L&#246;yt&#228;inen, Aleksandra>kind of like figuring out, you know,
+what is worth keeping around.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/223-2
+00:43:00.726 --> 00:43:05.961
+<v L&#246;yt&#228;inen, Aleksandra>How do we talk across the organization so
+that we have exactly the right bits and</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/223-3
+00:43:05.961 --> 00:43:09.919
+<v L&#246;yt&#228;inen, Aleksandra>pieces for building the things,
+for the really human aspects,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/223-4
+00:43:09.919 --> 00:43:12.345
+<v L&#246;yt&#228;inen, Aleksandra>but also the machine-oriented aspects?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/224-0
+00:43:12.905 --> 00:43:17.045
+<v L&#246;yt&#228;inen, Aleksandra>an alignment engineer would maybe focus
+on the ways we can be wrong.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/224-1
+00:43:17.045 --> 00:43:21.545
+<v L&#246;yt&#228;inen, Aleksandra>And it might be a really, you know,
+at least we talked amongst some of the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/224-2
+00:43:21.545 --> 00:43:25.685
+<v L&#246;yt&#228;inen, Aleksandra>CGI members or partners here.
+It might be the one where most testers</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/224-3
+00:43:25.685 --> 00:43:29.045
+<v L&#246;yt&#228;inen, Aleksandra>identify that this is kind of like,
+this is me already.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/224-4
+00:43:29.045 --> 00:43:33.545
+<v L&#246;yt&#228;inen, Aleksandra>And that's why the alignment was a strong
+word, kind of like finding those</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/225-0
+00:43:34.185 --> 00:43:38.315
+<v L&#246;yt&#228;inen, Aleksandra>critical perspectives.
+It might be that you would be focused on</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/225-1
+00:43:38.315 --> 00:43:42.638
+<v L&#246;yt&#228;inen, Aleksandra>the users and their experience,
+actually not just user experience.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/225-2
+00:43:42.638 --> 00:43:46.574
+<v L&#246;yt&#228;inen, Aleksandra>There's a developer experience,
+there's an agent experience,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/225-3
+00:43:46.574 --> 00:43:50.768
+<v L&#246;yt&#228;inen, Aleksandra>and there's a client experience that is
+separate from the users.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/225-4
+00:43:50.768 --> 00:43:53.865
+<v L&#246;yt&#228;inen, Aleksandra>So there's plenty of experience
+perspectives to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/226-0
+00:43:53.985 --> 00:43:57.481
+<v L&#246;yt&#228;inen, Aleksandra>to bring to that team.
+Maybe even legal compliance,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/226-1
+00:43:57.481 --> 00:44:02.389
+<v L&#246;yt&#228;inen, Aleksandra>all of that stuff is coming in.
+And usually we know that when we work in</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/226-2
+00:44:02.389 --> 00:44:05.616
+<v L&#246;yt&#228;inen, Aleksandra>groups,
+it's usually good if someone reminds us</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/226-3
+00:44:05.616 --> 00:44:09.784
+<v L&#246;yt&#228;inen, Aleksandra>that, hey, we have a box,
+we have an agreement. Let's try to,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/226-4
+00:44:09.784 --> 00:44:13.145
+<v L&#246;yt&#228;inen, Aleksandra>you know,
+paint a little bit outside the borders.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/227-0
+00:44:13.385 --> 00:44:16.627
+<v L&#246;yt&#228;inen, Aleksandra>But not too much,
+because when you are on somebody else's</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/227-1
+00:44:16.627 --> 00:44:21.266
+<v L&#246;yt&#228;inen, Aleksandra>sandbox all day, nobody's in your sandbox,
+so you have to have to pay attention to</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/227-2
+00:44:21.266 --> 00:44:21.545
+<v L&#246;yt&#228;inen, Aleksandra>that.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/231-0
+00:44:22.625 --> 00:44:28.716
+<v L&#246;yt&#228;inen, Aleksandra>So I put in a kind of like a slide,
+an AI generated one with what does it</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/231-1
+00:44:28.716 --> 00:44:32.584
+<v L&#246;yt&#228;inen, Aleksandra>mean?
+So if you have these kind of like roles,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/231-2
+00:44:32.584 --> 00:44:37.028
+<v L&#246;yt&#228;inen, Aleksandra>basic roles,
+a tester automatically by AI gets mapped</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/231-3
+00:44:37.028 --> 00:44:42.625
+<v L&#246;yt&#228;inen, Aleksandra>into three different boxes.
+I'm pretty sure that with a little bit.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/232-0
+00:44:42.705 --> 00:44:48.223
+<v L&#246;yt&#228;inen, Aleksandra>prompting, I would make it more honest,
+and we can fit in every single one of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/232-1
+00:44:48.223 --> 00:44:51.335
+<v L&#246;yt&#228;inen, Aleksandra>these boxes.
+I think context in particular,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/232-2
+00:44:51.335 --> 00:44:56.004
+<v L&#246;yt&#228;inen, Aleksandra>listening to Taika, I was like, yep,
+we're talking about testing.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/232-3
+00:44:56.004 --> 00:44:59.612
+<v L&#246;yt&#228;inen, Aleksandra>This is particularly testing skills. So,
+you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/232-4
+00:44:59.612 --> 00:45:03.785
+<v L&#246;yt&#228;inen, Aleksandra>finding those aspects where we find our
+value and use. So,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/235-0
+00:45:04.345 --> 00:45:10.146
+<v L&#246;yt&#228;inen, Aleksandra>less thinking about the current role and
+more in what is the value that I can</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/235-1
+00:45:10.146 --> 00:45:14.162
+<v L&#246;yt&#228;inen, Aleksandra>contribute.
+So the third lesson really is that people</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/235-2
+00:45:14.162 --> 00:45:18.104
+<v L&#246;yt&#228;inen, Aleksandra>coverage matters.
+Us taking everyone on the journey,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/235-3
+00:45:18.104 --> 00:45:24.202
+<v L&#246;yt&#228;inen, Aleksandra>pretty much in the world, is what matters.
+And that's also a reflection on why we</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/235-4
+00:45:24.202 --> 00:45:24.425
+<v L&#246;yt&#228;inen, Aleksandra>had</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/236-0
+00:45:24.465 --> 00:45:28.098
+<v L&#246;yt&#228;inen, Aleksandra>people who are not CGI partners, but,
+you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/236-1
+00:45:28.098 --> 00:45:33.851
+<v L&#246;yt&#228;inen, Aleksandra>somehow outside in a closed community,
+we need to have a little bit less of</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/236-2
+00:45:33.851 --> 00:45:38.090
+<v L&#246;yt&#228;inen, Aleksandra>those borders,
+a little bit more of that collaboration.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/236-3
+00:45:38.090 --> 00:45:39.225
+<v L&#246;yt&#228;inen, Aleksandra>So to conclude,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/237-0
+00:45:40.505 --> 00:45:45.124
+<v L&#246;yt&#228;inen, Aleksandra>We started with the idea that we can now
+do things by asking for it.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/237-1
+00:45:45.124 --> 00:45:47.065
+<v L&#246;yt&#228;inen, Aleksandra>Go and ask for it. Thank you.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/240-0
+00:45:52.265 --> 00:45:56.219
+<v L&#246;yt&#228;inen, Aleksandra>And now we have a chance of asking
+questions, a few of them,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/240-1
+00:45:56.219 --> 00:46:01.145
+<v L&#246;yt&#228;inen, Aleksandra>so that we do better than on the previous
+rounds with this coverage metric.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/241-0
+00:46:09.625 --> 00:46:11.385
+<v L&#246;yt&#228;inen, Aleksandra>Okay, so it's...</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/242-0
+00:46:14.465 --> 00:46:21.326
+<v L&#246;yt&#228;inen, Aleksandra>When you are talking that not 100%
+coverage and actually you are talking not</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/242-1
+00:46:21.326 --> 00:46:28.544
+<v L&#246;yt&#228;inen, Aleksandra>only about testing or how many of us can
+do all of the different AI skills or if</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/242-2
+00:46:28.544 --> 00:46:32.465
+<v L&#246;yt&#228;inen, Aleksandra>all of the different systems are
+automated.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/243-0
+00:46:33.225 --> 00:46:37.545
+<v L&#246;yt&#228;inen, Aleksandra>fully 100% because no one actually knows
+what that means.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/244-0
+00:46:38.825 --> 00:46:47.578
+<v L&#246;yt&#228;inen, Aleksandra>The interesting question to me that comes
+from this presentation is how do those</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/244-1
+00:46:47.578 --> 00:46:56.332
+<v L&#246;yt&#228;inen, Aleksandra>that kind of fall outside of the 80% or
+something fit in and raise into the back</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/244-2
+00:46:56.332 --> 00:46:58.385
+<v L&#246;yt&#228;inen, Aleksandra>so that we actually</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/245-0
+00:46:58.585 --> 00:47:05.812
+<v L&#246;yt&#228;inen, Aleksandra>increase the percentage of coverage with
+people who can actually use the tools and</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/245-1
+00:47:05.812 --> 00:47:11.907
+<v L&#246;yt&#228;inen, Aleksandra>use the use the AI for testing or
+development or context engineering.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/245-2
+00:47:11.907 --> 00:47:17.305
+<v L&#246;yt&#228;inen, Aleksandra>So the question if I kind of like
+summarize how I hear it is.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/246-0
+00:47:17.865 --> 00:47:22.900
+<v L&#246;yt&#228;inen, Aleksandra>We want to keep everyone on board and the
+journey is longer for some of us.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/246-1
+00:47:22.900 --> 00:47:27.868
+<v L&#246;yt&#228;inen, Aleksandra>How do we make the journey possible for
+those where the journey is longer?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/246-2
+00:47:27.868 --> 00:47:31.512
+<v L&#246;yt&#228;inen, Aleksandra>I think that's what we need the community
+support for.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/246-3
+00:47:31.512 --> 00:47:36.745
+<v L&#246;yt&#228;inen, Aleksandra>It might mean that not everything gets
+trained to you as part of the work that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/246-4
+00:47:36.745 --> 00:47:38.865
+<v L&#246;yt&#228;inen, Aleksandra>you're currently doing. It might</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/247-0
+00:47:38.945 --> 00:47:45.226
+<v L&#246;yt&#228;inen, Aleksandra>be that some of it means that you go to a
+cool finished testing meetup group</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/247-1
+00:47:45.226 --> 00:47:48.814
+<v L&#246;yt&#228;inen, Aleksandra>meeting. This will be one at CGI's,
+in CGI,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/247-2
+00:47:48.814 --> 00:47:53.464
+<v L&#246;yt&#228;inen, Aleksandra>well in this particular room actually in
+early December.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/247-3
+00:47:53.464 --> 00:47:57.705
+<v L&#246;yt&#228;inen, Aleksandra>So maybe you know going into places in
+the evening.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/248-0
+00:47:58.185 --> 00:48:01.766
+<v L&#246;yt&#228;inen, Aleksandra>But it's not usually passively listening
+to talks.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/248-1
+00:48:01.766 --> 00:48:05.557
+<v L&#246;yt&#228;inen, Aleksandra>It's about you trying things out.
+So make some space,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/248-2
+00:48:05.557 --> 00:48:08.716
+<v L&#246;yt&#228;inen, Aleksandra>some space in the way you do work right
+now,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/248-3
+00:48:08.716 --> 00:48:12.788
+<v L&#246;yt&#228;inen, Aleksandra>where you can do it a little bit slower
+by experimenting,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/248-4
+00:48:12.788 --> 00:48:18.263
+<v L&#246;yt&#228;inen, Aleksandra>but also maybe make a space where not
+somebody else structurally is making it</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/248-5
+00:48:18.263 --> 00:48:18.825
+<v L&#246;yt&#228;inen, Aleksandra>for you.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/249-0
+00:48:19.225 --> 00:48:20.025
+<v L&#246;yt&#228;inen, Aleksandra>And, and...</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/250-0
+00:48:21.945 --> 00:48:26.834
+<v L&#246;yt&#228;inen, Aleksandra>There are lots of people in the community
+who help anyone who is seeking that kind</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/250-1
+00:48:26.834 --> 00:48:27.305
+<v L&#246;yt&#228;inen, Aleksandra>of help.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/252-0
+00:48:34.505 --> 00:48:37.050
+<v L&#246;yt&#228;inen, Aleksandra>See,
+we're already doing so much better on</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/252-1
+00:48:37.050 --> 00:48:38.825
+<v L&#246;yt&#228;inen, Aleksandra>this coverage. You're awesome.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/253-0
+00:48:40.865 --> 00:48:42.425
+<v L&#246;yt&#228;inen, Aleksandra>It's necessarily not.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/254-0
+00:48:43.225 --> 00:48:43.865
+<v L&#246;yt&#228;inen, Aleksandra>Question?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/255-0
+00:48:46.185 --> 00:48:48.505
+<v L&#246;yt&#228;inen, Aleksandra>Okay, I'll repeat it.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/256-0
+00:48:49.465 --> 00:48:50.585
+<v L&#246;yt&#228;inen, Aleksandra>Yesterday, I meet up.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/258-0
+00:48:54.345 --> 00:48:57.807
+<v L&#246;yt&#228;inen, Aleksandra>basically said that they don't have these
+limitations,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/258-1
+00:48:57.807 --> 00:49:02.466
+<v L&#246;yt&#228;inen, Aleksandra>so they can actually experiment.
+So do you have any like insights of like</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/258-2
+00:49:02.466 --> 00:49:07.313
+<v L&#246;yt&#228;inen, Aleksandra>how the people like in those areas,
+how we can learn from them and what they</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/258-3
+00:49:07.313 --> 00:49:10.775
+<v L&#246;yt&#228;inen, Aleksandra>learn from us?
+Because they can like explain much more</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/258-4
+00:49:10.775 --> 00:49:13.545
+<v L&#246;yt&#228;inen, Aleksandra>clearly, for example,
+than in like banking.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/259-0
+00:49:15.105 --> 00:49:20.282
+<v L&#246;yt&#228;inen, Aleksandra>So have you seen any beneficial hearing
+their side to the client side?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/259-1
+00:49:20.282 --> 00:49:24.730
+<v L&#246;yt&#228;inen, Aleksandra>So the question is,
+there was someone without limitations on</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/259-2
+00:49:24.730 --> 00:49:30.344
+<v L&#246;yt&#228;inen, Aleksandra>experimenting in a meetup yesterday.
+Could we bring some of that inspiration</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/259-3
+00:49:30.344 --> 00:49:33.625
+<v L&#246;yt&#228;inen, Aleksandra>to the more constrained worlds like
+banking?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/260-0
+00:49:34.665 --> 00:49:38.792
+<v L&#246;yt&#228;inen, Aleksandra>We should probably organize some
+hackathons. Again,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/260-1
+00:49:38.792 --> 00:49:45.300
+<v L&#246;yt&#228;inen, Aleksandra>you can have time-boxed moments where you
+break out of some of those limitations.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/260-2
+00:49:45.300 --> 00:49:50.301
+<v L&#246;yt&#228;inen, Aleksandra>But also to a degree,
+we really need to just identify what are</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/260-3
+00:49:50.301 --> 00:49:54.745
+<v L&#246;yt&#228;inen, Aleksandra>the things we are protecting and start
+separating data.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/261-0
+00:49:54.985 --> 00:49:57.858
+<v L&#246;yt&#228;inen, Aleksandra>and the application.
+We can do a lot of things on the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/261-1
+00:49:57.858 --> 00:50:00.465
+<v L&#246;yt&#228;inen, Aleksandra>application,
+whereas we can't do it on the data.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/262-0
+00:50:01.625 --> 00:50:06.306
+<v L&#246;yt&#228;inen, Aleksandra>And I need to remind you,
+data is also the fact that you are doing</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/262-1
+00:50:06.306 --> 00:50:11.686
+<v L&#246;yt&#228;inen, Aleksandra>an action on a data. That's also data.
+So especially in a consulting company</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/262-2
+00:50:11.686 --> 00:50:15.109
+<v L&#246;yt&#228;inen, Aleksandra>like CGI,
+the idea that you are asking questions</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/262-3
+00:50:15.109 --> 00:50:21.048
+<v L&#246;yt&#228;inen, Aleksandra>about a thing, it is data for competition.
+So we need to think about data as in kind</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/262-4
+00:50:21.048 --> 00:50:22.585
+<v L&#246;yt&#228;inen, Aleksandra>of like our behaviors.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/263-0
+00:50:22.665 --> 00:50:23.625
+<v L&#246;yt&#228;inen, Aleksandra>on data as well.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/264-0
+00:50:27.225 --> 00:50:33.060
+<v L&#246;yt&#228;inen, Aleksandra>I was actually answering pretty much your
+question yesterday because someone at</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/264-1
+00:50:33.060 --> 00:50:38.311
+<v L&#246;yt&#228;inen, Aleksandra>banking and finances and insurance asked
+me the same question that why,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/264-2
+00:50:38.311 --> 00:50:44.218
+<v L&#246;yt&#228;inen, Aleksandra>how can they actually automate things?
+And I said that if you are aiming for the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/264-3
+00:50:44.218 --> 00:50:45.385
+<v L&#246;yt&#228;inen, Aleksandra>full automation,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/265-0
+00:50:45.705 --> 00:50:52.459
+<v L&#246;yt&#228;inen, Aleksandra>You are never going to even start because
+the goal is so high that you cannot even</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/265-1
+00:50:52.459 --> 00:50:58.154
+<v L&#246;yt&#228;inen, Aleksandra>imagine what's the first step.
+So you don't always have to start high</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/265-2
+00:50:58.154 --> 00:51:04.501
+<v L&#246;yt&#228;inen, Aleksandra>and do something fancy and do full
+automation. Did you have a question there?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/265-3
+00:51:04.501 --> 00:51:04.745
+<v L&#246;yt&#228;inen, Aleksandra>No.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/266-0
+00:51:04.905 --> 00:51:06.425
+<v L&#246;yt&#228;inen, Aleksandra>Okay, thank you for the statement.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/267-0
+00:51:09.865 --> 00:51:13.231
+<v L&#246;yt&#228;inen, Aleksandra>We have a question here,
+so I'm trying to make sure we have space</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/267-1
+00:51:13.231 --> 00:51:13.945
+<v L&#246;yt&#228;inen, Aleksandra>for questions.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/268-0
+00:51:20.105 --> 00:51:24.130
+<v L&#246;yt&#228;inen, Aleksandra>also developers. We actually together.
+We did invite developers.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/268-1
+00:51:24.130 --> 00:51:29.023
+<v L&#246;yt&#228;inen, Aleksandra>We still have a bit of marketing to do on
+the fact that developers are in fact</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/268-2
+00:51:29.023 --> 00:51:31.933
+<v L&#246;yt&#228;inen, Aleksandra>welcome.
+And I think we're doing better on the</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/268-3
+00:51:31.933 --> 00:51:37.135
+<v L&#246;yt&#228;inen, Aleksandra>channel where we have a number of people
+with test titles and then we have lurkers.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/268-4
+00:51:37.135 --> 00:51:42.337
+<v L&#246;yt&#228;inen, Aleksandra>There's plenty of developers based on the
+private messages that I get on the things</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/268-5
+00:51:42.337 --> 00:51:42.585
+<v L&#246;yt&#228;inen, Aleksandra>that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/269-0
+00:51:42.625 --> 00:51:46.020
+<v L&#246;yt&#228;inen, Aleksandra>they want to comment on,
+but we are a little shy as a community,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/269-1
+00:51:46.020 --> 00:51:48.841
+<v L&#246;yt&#228;inen, Aleksandra>so feeling like, you know,
+showing up here. Actually,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/269-2
+00:51:48.841 --> 00:51:52.654
+<v L&#246;yt&#228;inen, Aleksandra>is there any developers in the room?
+I know that there's some, at least,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/269-3
+00:51:52.654 --> 00:51:53.385
+<v L&#246;yt&#228;inen, Aleksandra>you know, one.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/270-0
+00:51:57.225 --> 00:51:58.825
+<v L&#246;yt&#228;inen, Aleksandra>Spice are welcome as well.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/271-0
+00:52:00.185 --> 00:52:05.772
+<v L&#246;yt&#228;inen, Aleksandra>Awesome. But again, you know,
+like we need a lot of encouragement that</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/271-1
+00:52:05.772 --> 00:52:10.099
+<v L&#246;yt&#228;inen, Aleksandra>human touch,
+the paying attention of how uncomfortable</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/271-2
+00:52:10.099 --> 00:52:12.145
+<v L&#246;yt&#228;inen, Aleksandra>some of us might feel. And</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/272-0
+00:52:14.025 --> 00:52:18.710
+<v L&#246;yt&#228;inen, Aleksandra>Even if I've done this for 30 years,
+I have the same feelings that, you know,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/272-1
+00:52:18.710 --> 00:52:22.794
+<v L&#246;yt&#228;inen, Aleksandra>were talked about here earlier by Yamina,
+that I'm nothing special.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/272-2
+00:52:22.794 --> 00:52:26.758
+<v L&#246;yt&#228;inen, Aleksandra>I'm just doing my work.
+I've just chosen to talk about it because</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/272-3
+00:52:26.758 --> 00:52:30.481
+<v L&#246;yt&#228;inen, Aleksandra>when people correct me,
+it's a chance of me doing better next</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/272-4
+00:52:30.481 --> 00:52:34.505
+<v L&#246;yt&#228;inen, Aleksandra>time. So again, kind of like, you know,
+making yourself available,</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/273-0
+00:52:34.705 --> 00:52:39.068
+<v L&#246;yt&#228;inen, Aleksandra>maybe even vulnerable to things that you
+might not always want.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/273-1
+00:52:39.068 --> 00:52:42.545
+<v L&#246;yt&#228;inen, Aleksandra>It usually enables something better in
+the future.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/274-0
+00:52:43.705 --> 00:52:45.465
+<v L&#246;yt&#228;inen, Aleksandra>But I think we're at the time.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/275-0
+00:52:46.905 --> 00:52:47.625
+<v L&#246;yt&#228;inen, Aleksandra>So, thank you.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/278-0
+00:52:54.585 --> 00:52:57.147
+<v L&#246;yt&#228;inen, Aleksandra>Okay,
+it was relief to see that there was</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/278-1
+00:52:57.147 --> 00:53:00.745
+<v L&#246;yt&#228;inen, Aleksandra>humans in that boat still, not only AI.
+What do you think?</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/279-0
+00:53:03.345 --> 00:53:06.265
+<v L&#246;yt&#228;inen, Aleksandra>Yeah, we are still needed there,
+even though there is the AI.</v>
+
+c7ffcfe1-6377-4cec-bd02-1cdf189b42f7/280-0
+00:53:08.025 --> 00:53:08.825
+<v L&#246;yt&#228;inen, Aleksandra>Okay.</v>
