@@ -1,28 +1,31 @@
 # Sociotechnical guardrails for AI-driven application testing
 
-This talks-turned-articles post is part of *Maaret Pyhäjärvi Digital Legacy CGI Edition © 2024 by Maaret Pyhäjärvi*. It is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+*Presented: Agile Testing Alliance Global Testing Retreat (ATAGTR) 2024, keynote, November 2024*
+*Keywords: ai, testautomation, githubcopilot, rag, exploratorytesting*
+
+This talks-turned-articles post is part of *Maaret Pyhäjärvi Digital Legacy CGI Edition © 2024 by Maaret Pyhäjärvi*. It is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
 These days, everyone seems to be somewhat of an expert in the area of AI. To a degree, everyone is. We have been using these technologies without being able to recognize when we are using them, and conflating things is the go-to for marketing purposes. It does sound better to use AI than to automate, even if a lot of the things we are doing don't require something beyond a regular algorithm, not those with machine learning from data.
 
-In this talk, and talk-turned-article, I reflect on what guardrails that keep me focused, in hopes of some of that helping you on your journey.
+In this talk, and talk-turned-article, I reflect on what guardrails keep me focused, in hopes of some of that helping you on your journey.
 
 ![AI Practitioner](./AA/Slide2.png)
 
 In AI, we have two kinds of smart creatives:
 
-* *Builders* take the technologies and create new kinds of wrappers for those. Sometimes wrappers are as simple as adding a new name to someone else's technology. Sometimes wrappers take an idea and create an entirely diffent thing into the same category. We add names, user interfaces, tuning parameters, traditional logic, AI-based API calls, new ML-models, logic chains fit for purpose and we get to the variety of things the world now has to offer. I play with building, but I am not a builder.
+* *Builders* take the technologies and create new kinds of wrappers for those. Sometimes wrappers are as simple as adding a new name to someone else's technology. Sometimes wrappers take an idea and create an entirely different thing into the same category. We add names, user interfaces, tuning parameters, traditional logic, AI-based API calls, new ML-models, logic chains fit for purpose and we get to the variety of things the world now has to offer. I play with building, but I am not a builder.
 
 * *Practitioners* take the things built and make use of those in practice. Good practitioners tend to dabble in building to understand what is possible and make sense of things, and they explain what they do so that builders end up incorporating experiences into things being built. There's plenty of work in using technologies, without building them.
 
 So I am a practitioner. Most of us are. Why do I then get to share my practitioner advice from a stage? 
 
-I have been a practitioner for a few years now. I started, intentionally, in 2019 with a research project we set up at my work. In case you aren't aware, research projects are what we do in companies when there is a lot to learn, and we could together with others, and apply what we learn to know figure things out. So we got a few millions of a budget for learning with some lovely people. We were trying to figure out both *how to test systems with AI in them* and *how to use AI to test systems*. Being interviewed after the project, the summary suggested we essentially learned that there were two things making applying AI in testing hard: the data (we don't really collect high quality data systematically) and the payer for the AI work. If and when AI was to be used, testing was not considered the first area of excited business application.
+I have been a practitioner for a few years now. I started, intentionally, in 2019 with a research project we set up at my work. In case you aren't aware, research projects are what we do in companies when there is a lot to learn, and we could together with others, and apply what we learn to figure things out. So we got a few millions of a budget for learning with some lovely people. We were trying to figure out both *how to test systems with AI in them* and *how to use AI to test systems*. Being interviewed after the project, the summary suggested we essentially learned that there were two things making applying AI in testing hard: the data (we don't really collect high quality data systematically) and the payer for the AI work. If and when AI was to be used, testing was not considered the first area of excited business application.
 
 Out of the initial practitioner perspective, I picked up the idea that there is *machine learning* and that produces *models*. Models are like algorithms, created from data instead of human analyzed rules.
 
 In 2021, Github Copilot was published. Already following the model creation keenly, I was quick to get myself in line for access. And I was privileged to get access quite early on. Creating code with a model fit my interests nicely, and I even dragged the tool to a pair programming interview with me. At least that paired with me, when the developer I was assigned to pair with refused to pair because of needing to assess me. I quite enjoyed pairing with a model with *integration to IDE* so that the output was right at my fingertips. I learned that a bad pair serves as external imagination, bringing the best out of me, as I showed off how I would test something that AI writes. Made a talk out of that experience, showing the world how we know so little of roman numerals, and get fooled by the things we don't know.
 
-When ChatGPT was published, I worked with a group of aspiring testers I called Testing Dozen, and we played with that since its first week. Seeing how hard modeling probabilistic text generators was for other testers lead to an insight that we have a long way to go, but also into a routine of ChatGPT pair testing. With the written language, it was clear there was something that needed its own name, and we started talking about *large language models (LLM)*. The chat-like UI was an integration that added to its popularity. 
+When ChatGPT was published, I worked with a group of aspiring testers I called Testing Dozen, and we played with that since its first week. Seeing how hard modeling probabilistic text generators was for other testers led to an insight that we have a long way to go, but also into a routine of ChatGPT pair testing. With the written language, it was clear there was something that needed its own name, and we started talking about *large language models (LLM)*. The chat-like UI was an integration that added to its popularity. 
 
 More models and large language models emerged. More integrations emerged. Amount of tools with promises skyrocketed. We started learning to sum up API costs and license costs hiding API costs, and one of the tools I got to watch in action was a freebie given to Selenium open source project. Watching generated documentation and review comments was an interesting use case of a team member everyone dismisses until it says something worth reacting to. Again *integration to pull requests* made it particularly nice.
 
@@ -30,9 +33,9 @@ Right now I practice at a larger company, and while I get to try out tons of new
 
 I can't really mention all the tools, there are just too many of them. But today I mention two on top of the ones that have paved my way to insights:
 
-* CGI NAVI is a product some work colleagues are building, where the mix of open source large language models, self-hosted, allows us to keep data away from the other corporations. We've learned to put together RAG, models, large language models and test task analysis around artifacts to create something of our own for practitioners like me to consider.
+* CGI NAVI is a product some work colleagues are building, where the mix of open source large language models, self-hosted, allows us to keep data away from the other corporations. We've learned to put together RAG, models, large language models and test task analysis around artifacts to create something of our own for practitioners like me to consider. It is our CGI testing + AI product combo to learn on.
 
-* Hercules is an open source agentic AI tool, where one transforms Gherkin to test results. Demos suggest it might sometimes work for automating tests without automating them manually.
+* Hercules is an open source agentic AI tool, where one transforms Gherkin to test results. Demos suggest it might sometimes work for automating tests without automating them manually. It was one of the early available projects going from text to test execution, and impressive at its time.
 
 I am a practitioner, but I am a practitioner who follows the field of AI-driven application testing. I am also a director responsible for AI-driven application testing, and as such work to help pave the way to other practitioners.
 
@@ -44,7 +47,7 @@ Opportunity cost: **Time used on warning about test automation is time away from
 
 AI is automation. It's automating the things we did not know how to automate before, increasing the level of automation. And just like with other automation, we can warn about it. We can talk about how it does not do everything, how humans in the loop are valuable, and how time into it may actually make things worse because our focus becomes the new-shiny instead of the valuable.
 
-At the same time, we need smart hands on deck to figure out how to succeed with technologies that are limited. We need focus on what we can do (and how) even if as tester we tend to have an inclination to warn about the risks.
+At the same time, we need smart hands on deck to figure out how to succeed with technologies that are limited. We need focus on what we can do (and how) even if as testers we tend to have an inclination to warn about the risks.
 
 I used to have failing automation around me, and I used to have the right to say 'I told you so'. Until I realized my contribution FOR it is what separates failure from success. And that is the framing I work on AI with. With that, we look at successes and guardrails - positive framing of the directions we need to keep in mind to stay on route.
 
@@ -66,7 +69,7 @@ Being clear with your *intent* makes the predictive text more likely to do somet
 
 ![Guessing by](./AA/Slide7.png)
 
-The predictive text of one day may not be the predictive text of another day. I used to have a lot of fun collecting people's names, and finding it hilarous that it would never guess me as an author, and thus provide me regular reminders that the training material is open source, which means it's licensed in a way where these uses most likely break the license terms.
+The predictive text of one day may not be the predictive text of another day. I used to have a lot of fun collecting people's names, and finding it hilarious that it would never guess me as an author, and thus provide me regular reminders that the training material is open source, which means it's licensed in a way where these uses most likely break the license terms.
 
 Over time, it has become slightly harder to get names out of it. The tool creators make changes and anything specific one says - or even screenshots - can change. Continuous learning through exploring is necessary for these tools.
 
@@ -74,13 +77,13 @@ Over time, it has become slightly harder to get names out of it. The tool creato
 
 While Github Copilot guesses for you when you type ahead, you can also ask it to guess with CTRL+Enter. In this particular case, it guesses multiple options. It took me a bit of setup to get it to guess a fairly bad structure of an option as the first one - again, the context on the other open files matters.
 
-I originally saw this one much later in the lists, but since it reminded me of the first piece of code I wrote as teenager, I really wanted to keep this one around. In case you are not immediately recognizing what is wrong with this, let's be clear: it's never good approach to separately code each possible case when is an algorithm solving the problem in more generic fashion available.
+I originally saw this one much later in the lists, but since it reminded me of the first piece of code I wrote as teenager, I really wanted to keep this one around. In case you are not immediately recognizing what is wrong with this, let's be clear: it's never good approach to separately code each possible case when an algorithm solving the problem in more generic fashion is available.
 
 Seeing many options tends to bring out the reviewer in us, recognizing what we don't want; maybe even what we do want.
 
 ![Better alternatives](./AA/Slide9.png)
 
-Eventually, whatever we choose, we review. When Github Copilot then collects statistics of how much code it writes for people, it's most likely the accepted pieces they are counting. Not sure if they deduct the code we delete after first acceptance. But we don't work for the statistics, we work for getting out problems in code solved, with whatever flow and process of thinking that works for us.
+Eventually, whatever we choose, we review. When Github Copilot then collects statistics of how much code it writes for people, it's most likely the accepted pieces they are counting. Not sure if they deduct the code we delete after first acceptance. But we don't work for the statistics, we work for getting our problems in code solved, with whatever flow and process of thinking that works for us.
 
 ![Test too](./AA/Slide10.png)
 
@@ -92,7 +95,7 @@ The test examples on the slide are by human, not by AI. Everything AI creates ne
 
 While the autocomplete of code is not perfect, it is useful. And the /explain, /fix and other commands with context of your code make it even better. It's like search where you work when you work on code. The integration sharing pieces of what you have makes it helpful.
 
-It is good to remember though that writing code is a small part of programming, so while this helps and saves times in writing, it sometimes allows us to write things we don't understand that then cause more work for others, and may encourage generating duplication to maintain and adjust with future changes.
+It is good to remember though that writing code is a small part of programming, so while this helps and saves time in writing, it sometimes allows us to write things we don't understand that then cause more work for others, and may encourage generating duplication to maintain and adjust with future changes.
 
 It works on code and text, and writing a book with Github Copilot on in markdown is doing similar kind of guessing ahead.
 
@@ -100,7 +103,7 @@ It works on code and text, and writing a book with Github Copilot on in markdown
 
 The second static demo we look at is of ChatGPT, again to make sure we all have a shared basic understanding of what we can do with it for *testing purposes*.
 
-Any of the /fix, /explain, /create types of Github Copilot uses can be done within a general purpose large language model chat interface. There are multiple models available by different organizations. Look for name of organizations (e.f. OpenAI) and name of model (GPT 4o).
+Any of the /fix, /explain, /create types of Github Copilot uses can be done within a general purpose large language model chat interface. There are multiple models available by different organizations. Look for name of organizations (e.g. OpenAI) and name of model (GPT 4o).
 
 These models typically take an input (text, maybe also pictures) and generate text. They integrate more and more under the same interface so inputs and outputs may be text, pictures, videos, sound and the under-the-hood machinery does whatever format transformations necessary.  
 
@@ -108,7 +111,7 @@ These models typically take an input (text, maybe also pictures) and generate te
 
 For purposes of pair testing, you use these tools as your external imagination. While you may be shy on asking things from a human, when faced with a machine, you can ask even when your internal voice calls your questions unworthy. Also you don't have to mask with kindness, but you get to freely disagree, as blunt as you like. In addition to learning the things the tool 'knows', you learn what of it you know different.
 
-Describe a feature and ask how you'd test it. Ask what to include in a plan. Tell what you included, and ask for a second opinions. But only if what you are inserting as input is not confidential!
+Describe a feature and ask how you'd test it. Ask what to include in a plan. Tell what you included, and ask for a second opinion. But only if what you are inserting as input is not confidential!
 
 On the other end of the questions, there is an organization with access to what you input. Make sure you are always aware that there needs to be a contract in place between the organizations. Organization to organization contracts are different from organization to user.
 
@@ -120,7 +123,7 @@ From the screenshot here, you can see it is generated with Microsoft Copilot - c
 
 ![Know limitations](./AA/Slide15.png)
 
-Online world is full of fun examples of things these tools do wrong. Average text is not best text. It knows nothing but groups of words appearing together. For things where there is a rule and logic, other tools may be both cheaper and more effective. A good example is that is does not 'know' letters but tokens (parts of words) and thus calculating and logic aren't the tasks for it.
+Online world is full of fun examples of things these tools do wrong. Average text is not best text. It knows nothing but groups of words appearing together. For things where there is a rule and logic, other tools may be both cheaper and more effective. A good example is that it does not 'know' letters but tokens (parts of words) and thus calculating and logic aren't the tasks for it.
 
 ![RAGifying with General Purpose AI](./AA/Slide16.png)
 
@@ -151,15 +154,15 @@ What these demos really bring us practitioners is a model of a world that helps 
 
 * ML - Machine learning is when computers create models out of data. The first models were for classification, later we got models that generate.
 * LLM - Large language model is when machine learning is applied on a lot of text to teach what language looks like. These we know now as generative AI
-* RAG - Retrieval Augment Generation is when we don't teach a model but provide more input from authoritative sources
-* CoT - Chain of throught is when we amplify models with stages to increase level of automation. 
-* Agents is when we make models work through tasks that have multiple stages and more logic is required.
+* RAG - Retrieval Augmented Generation is when we don't teach a model but provide more input from authoritative sources
+* CoT - Chain of thought is when we amplify models with stages to increase level of automation. 
+* Agents is when we make models work through tasks that have multiple stages and more logic is required. Hercules taking Gherkin text all the way to test execution is an example of this.
 
 While it feels we get a lot of new things, we have builders combining basic elements to more advanced flows with these ideas.
 
 ![Sociotechnical guardrails](./AA/Slide20.png)
 
-With the static demos, we then summarize the core ideas we must know and work within.
+With the static demos, we then summarize the core ideas we must know and work within. I think of these as guardrails on a roof: they don't stop you from walking around, they let you walk closer to the edge with confidence. There are four levels of them. The *core* guardrail is the one you never cross. The *essential* guardrails are about how you work. The *boundary-seeking* guardrails help you find where the edges are. And the *practice-level* guardrails are the thinking habits that keep you on route.
 
 ![Core: Data ownership and confidentiality](./AA/Slide21.png)
 
@@ -172,6 +175,8 @@ But in particular, data we now generate when we use these models. We need to be 
 If we input trade secrets, those trade secrets will be available to others.
 The more integrated the AI tool is, the less we visibly see what data is being passed to the other party.
 
+Customer projects are a no-no, unless organization to organization agreements on how that data is handled are in place. As an individual, I would not trust a party that has taken open source code and removed attribution. As a corporation, a contract with relevant compensations if that trust is broken is something I can work with. The perspective of an individual and a corporation look different. If it is absolutely secret, don't share it to another party.
+
 Our test systems with logins and passwords have not been publicly available and we need to have conversations if we are to make them available through AI use.
 
 Data is the new oil. Knowing what we know. Knowing what we want to know. In scale.
@@ -180,27 +185,35 @@ Have contracts in place. And don't share secrets with parties the secrets should
 
 ![Essential: Human in loop](./AA/Slide22.png)
 
-Solid understanding of testing is the essential guardrail. Understand what you do and why you do it when testing. Balance artifacts and performance, attended and unattended. Recognize that feedback is best served fresh. Learning requires experimenting and you should not make a wasteful process more wasteful by automating it - improve it first.
+Solid understanding of testing is the essential guardrail. Understand what you do and why you do it when testing. Five things in particular:
+
+* *Task breakdown.* Split what you are trying to do into smaller tasks, and ask help for the next step. A specific locator to fix, a specific feature to test, rather than the entire system. Being clear with your intent was the lesson of the first demo too.
+* *Balancing attended and unattended.* Figure out what you want to leave behind in automation, and use automation as a way of documenting. Balance artifacts and performance.
+* *Timing test activities.* Feedback is best served fresh. Awareness of time, and the right time, matters more than the amount of things generated.
+* *Experimentation.* Sometimes you don't get what you wanted. Rejecting what the tool gives you is a learning experience too, and builds an idea of going forward rather than blind faith.
+* *Improve first.* Don't make a wasteful process more wasteful by automating it. Instead of generating all the test cases you currently write, maybe learn to write more concise test documentation.
 
 ![Boundary-seeking: Impact](./AA/Slide23.png)
 
-Recognize the box you work within. The things you can do with AI features and the things you shouldn't. The costs - direct costs of API calls but also indirect costs of energy consumption and changes in the value chain motivations. And the compensations you may need to make. Personally a major compensation that guides my practice is open source awareness. Removing attibution from code in machine learning changes motivations for open source community and other forms of recognition are needed to compensate. For me this has meant three personal promises: 1) sharing openly for research 2) donating money to open source 3) donating time to open source.
+Recognize the box you work within. The things you can do with AI features and the things you shouldn't. Every tool has a monthly fee, and every tool has a limit of how much you can use it. There are other tools than these per-use tools that solve the same problems. The costs - direct costs of API calls but also indirect costs of energy consumption and changes in the value chain motivations. And the compensations you may need to make. Personally a major compensation that guides my practice is open source awareness. Removing attribution from code in machine learning changes motivations for open source community and other forms of recognition are needed to compensate. For me this has meant three personal promises: 1) sharing openly for research 2) donating money to open source 3) donating time to open source.
 
-Find your ethical and financial boundaries. 
+And pay attention to the architecture. There is a technical implementation behind all of these: where the model runs, what goes over the network, what is RAG and what is a model. The acronym map is there for this, so that you can assess what a tool actually does before trusting it with your work.
+
+Find your ethical, financial and architectural boundaries.
 
 ![Practice: Thinking](./AA/Slide24.png)
 
 This sums up to three things in my practice of AI in application testing.
 
-1) Expected values are more important than ever. We are inclined to accept things that look good, and need to reflect on if they are true. Critical thinking and curiosity to model the world are essential.
+1) *Expected values.* Pay attention to the old testing wisdom of oracles and **how do we know**. We are inclined to accept things that look good, and need to reflect on if they are true. Critical thinking, built on curiosity to model the world, is essential.
 
-2) Tools are for fools, but enablers of features help you navigate. Stop looking for the one tool. Start looking for the one partner to learn with. In AI space copying ideas into features is something everyone is doing. Choose a tool where they collate thoughtfully and partner for more collation. Always looking does not build you a relationship.
+2) *Anti-toolist worldview.* Features in tools can be copied, and in AI space everyone is copying ideas into features. Looking for the one best tool makes little sense. Protect your time for a partner of choice, where they collate thoughtfully, and partner for more collation. Always looking does not build you a relationship.
 
-3) Taskwide learning suggests you should learn continuously, with everything you do. Lifelong learning suggests you could go take courses for new knowledge. Lifewide learning suggests you intertwine learning with your other activities. Taskwide learning suggests you think about the work you practice, as a practitioner, as learning.
+3) *Taskwide learning.* Not lifelong learning where you go take courses, or lifewide learning where you intertwine learning with your other activities, but taskwide learning: **everything we do is a learning activity**. Think about the work you practice, as a practitioner, as learning.
 
 ![Strategy of figuring this out ](./AA/Slide25.png)
 
-To conclude this all, there is an approach I am applying at my work. 
+To conclude this all, there is an approach I am applying at my work.
 
 I model the world, with metrics and stories.
 
@@ -212,6 +225,8 @@ I build habits and apply in day to day work.
 
 I teach what I have learned to solidify it.
 
-I propose features to tools we partner with. Maybe even build a tool of our own. 
+I propose features to tools we partner with. Maybe even build a tool of our own. CGI NAVI is that for us: testing and AI combined into a product we learn on. 
 
-It is a continuous, human-centric process. And we have plenty more things to learn. Even when we are already well on that journey for getting value out of AI in testing. 
+It is a continuous, human-centric process. And we have plenty more things to learn. Even when we are already well on that journey for getting value out of AI in testing.
+
+Sometimes I don't think I save time with these tools. I think I'm inspired to do better than I would do without them.
