@@ -123,3 +123,29 @@ activity (posts, comments, reactions) going forward, queryable for the **last 28
 days** only. Not needed for a one-time history pull, but it is the way to keep an
 archive current.
 <https://learn.microsoft.com/en-us/linkedin/dma/member-data-portability/shared/member-changelog-api?view=li-dma-data-portability-2026-05>
+
+### Script
+
+`fetch_changelog.py` (in this folder) uses the same token as the snapshot script.
+By default it continues from the newest event already saved in a
+`Shares_changelog_*.json` / `Changelog_*.json` here. Run it at least every four
+weeks, or the oldest events fall out of the 28-day window.
+
+```sh
+export LI_TOKEN="<access_token>"
+
+# everything since the last saved event
+python3 fetch_changelog.py
+
+# from a given UTC date (LinkedIn clamps to 28 days)
+python3 fetch_changelog.py --since 2026-10-20
+
+# is LinkedIn recording changelog events for me?
+python3 fetch_changelog.py --check-authorization
+```
+
+Writes `Changelog_<from>-<to>.json` (every event: posts, comments, reactions…)
+plus `Shares_changelog_<from>-<to>.json` and `.csv` for your posts. The CSV has
+the same columns as `Shares.csv` in the "Download your data" export, with one row
+per post (edits replace the earlier version). `--rebuild <json>` rewrites a CSV
+from a saved JSON without calling the API.

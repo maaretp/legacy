@@ -4,6 +4,17 @@ The legacy project - my collection of writings, slides and articles.
 
 Everything in this repo is licensed with **Creative Commons Attribution** to allow for reuse of the knowledge I have been collecting over three decades.
 
+## To the future me
+
+This is where I ingest my socials first, to ingest once. Processing is on other repos. That also means this is where talks_to_articles emerge first.
+
+### To Do
+
+Talks to articles in this repo but not yet published on [dev.to/maaretp](https://dev.to/maaretp/) (checked 2026-11-18):
+
+- [ ] Code or low-code - navigating test automation options (`talks_to_articles/code_or_lowcode_navigating_test_automation_options`)
+- [ ] Sociotechnical guardrails for AI-driven application testing (`talks_to_articles/sociotechnical_guardrails_for_aidriven_application_testing`)
+
 ## What Is This?
 
 I have been at this thing called testing a while and while in full health, processing the fact that I am in fact getting older. I have a life's work of learning about software and then showing up to talk about it, and for 20 years already, I have been publishing my materials with Creative Commons Attribution -license. Publishing in the sense that people would need to ask me for what is on my drive, and frankly that is not the mess I want to leave behind in case I was not around to deal with it myself.
