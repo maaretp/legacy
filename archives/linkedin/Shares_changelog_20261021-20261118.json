@@ -1,0 +1,2462 @@
+[
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7518885772511301632",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 128,
+                "length": 24,
+                "value": {
+                  "com.linkedin.common.HyperlinkAttributedEntity": {
+                    "url": "https://lnkd.in/dXcAxWhV"
+                  }
+                }
+              }
+            ],
+            "text": "I am #8 on category Global on luvo100 list. This is a new list (to me) and the description they had gathered up was thoughtful. https://lnkd.in/dXcAxWhV\nCem Kaner on this list, post-retirements as #2 delighted me in particular. In last two weeks I’ve re-read his work, delighted in how AI makes some of his research directions from 13 years ago practical today, and marveled at the amount of people at conferences who attribute his work as the platform we’ve built our testing on."
+          },
+          "media": [
+            {
+              "description": {
+                "attributes": [],
+                "text": "Maaret Pyhäjärvi is Director of Testing Services at CGI in Finland, combining practical testing, programming, consulting and teaching. A career in testing began while studying at Helsinki University of Technology, with work testing a Greek-language version of Microsoft Office. The focus on useful feedback now extends from software products to how organisations work, connecting hands-on work within teams with change at leadership level. Central to this work is exploratory testing: learning about software through investigation and using discoveries to guide what to test next. Maaret has written books on exploratory testing, ensemble programming, where a group works together on the same programming task, and strong-style pair programming. Hands-on courses, mentoring and conference design provide further ways to share practical knowledge. By the end of 2025, speaking and teaching had included 575 event sessions in 30 countries, including 55 keynotes. Recent teaching explores how testers can combine human judgement with AI tools. A PractiTest webinar covers involvement in code reviews, submitting fixes and using automated checks alongside exploration. This work helps testing and engineering audiences connect investigation, collaboration and automation with better feedback about software quality."
+              },
+              "media": "urn:li:article:8378291018047732906",
+              "originalUrl": "https://luvo100.com/people/maaret-pyhajarvi",
+              "title": {
+                "attributes": [],
+                "text": "Maaret Pyhäjärvi — #8 in The Luvo 100 Global"
+              },
+              "thumbnails": [
+                {
+                  "media": "urn:li:digitalmediaAsset:D4E27AQENDCfdhrStUw"
+                }
+              ],
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "ARTICLE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792642063001
+      },
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"dk\",\"modifiedAt\":1792642062984,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "ugcOrigin": "LITE",
+      "id": "urn:li:share:7518885772511301632",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792642063001
+      },
+      "firstPublishedAt": 1792642063001
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7518885772511301632",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "01b67d29-3533-43c6-a71c-20f4c272964b",
+    "processedAt": 1792642093527,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1792642063318,
+    "siblingActivities": [],
+    "id": 3293237593
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7519140885847040001",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Quality Beacon -conference experience was exceptional in a few ways. That is, all conferences tend to have good talks that drive both thinking and change - features and futures, as I happened to learn to frame things in days while there.\n\n1) they compensated the travel as soon as it incurred - months out of pocket to speak at conferences is a financial burden speakers carry, and the burden is a lot for us regular employed single-income heads of households. I appreciate the world of them for understanding and action. Needing that carries shame and shame impacts the voices we learn from. \n\n2) Gifting me new random people of the internet as friends. That is, speaker gift was chocolate that I’m allergic to, but that made me dare to go talk to two brilliant people from Aarhus university to gift them further, and learn about how great they are - now also connected here with a mutual story. That chocolate was fancy, and over the years I’ve acquired significant benefits through regifting chocolate (and alcohol) strategically. \n\n3) The conversation cards at the sofas. Even if I made an impression on arguing on architecture-aware testing when discussing a storyline of ‘AI gives you 7 as random number as not all AI, holding my ground on perspective on harness engineering to a degree that made bystanders take note, the hallway track facilitation through this cards approach was just brilliant.\n\nThe socials throughout the day were brilliant. Denmark can be proud of how their community of testing feels so inclusive even when half the talks are ciphered into Danish. People. 💜"
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792702886568
+      },
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1792702886567,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"9E21406655F002C882FACDDA86D1A8B2\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7519140885847040001\",\"configLastUpdatedAt\":1792702886566,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"0782FBDFE118F89A13A77EC3E7596D64\",\"lastModifiedAt\":1792702886566}}",
+      "ugcOrigin": "LITE",
+      "id": "urn:li:share:7519140885847040001",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792702886568
+      },
+      "firstPublishedAt": 1792702886568
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7519140885847040001",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "2bca5639-31e2-41e3-b393-1520beee94bc",
+    "processedAt": 1792702918159,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1792702887009,
+    "siblingActivities": [],
+    "id": 3295624137
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7519238243499012096",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Last week at PNSQC in social software testing class, we explored Christine Pinto's Enchanted Brew Shop in an ensemble. The session had a few outcomes surprising to me: \n\n1. With permission to \"fix bugs through reporting them with AI\", we ended up adding two features that weren't there: the light/dark UI mode (because the projector contrast made work impossible otherwise) and limit + multiple potions of the week. \n\n2. Feature around limit + number of potions took significant time to discover, as we did not stop to create the spec, but we discovered limitations of what we asked for with each separate ask at a time. \n\n3. Executable specification we generated around potion of the week left rest of the application without tests. The choice felt intentional, and controlled. The group took single test / single aspect to whole feature in building up the spec modeling the application really well. \n\nEvery time I work with this exercise, something new unfolds."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQF5nePYEvwM3A",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792726098680
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1792726098644,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7519238243499012096",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792726098680
+      },
+      "firstPublishedAt": 1792726098680
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7519238243499012096",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "a43cccad-6276-4611-b294-4fdfad7e4323",
+    "processedAt": 1792726130131,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1792726099138,
+    "siblingActivities": [],
+    "id": 3295703937
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7519396710226477056",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Testing insights for the agentic era, session 3 was today. This is fascinating to me as while the pairs of people I am teaching are working on their breakouts, I am doing the same solo in the main room, and me on same problems many times still manages to teach me where my options expire. \n\nThis session was about experiencing what change in applications while testing does to our abilities to test, and particularly how changing quality impacts our testing. \n\nIn my 40 minutes solo, I:\n- tested two versions of the same application\n- found more than 40 problems AND fixed them\n- researched how (c) notation works and if/when it matters\n- corrected two fixes that I did incorrectly\n- wrote 115 playwright tests, completing them by asking for things I had seen that should be areas with a spec from the fixes I had already worked on (locking tests)\n- explored three browsers with the playwright tests to find cross-browser problem (1)\n\nLearned one really cool thing from the people at my course: the domain of magic is really hard to research, while the domain of pricing can clearly be oversimplified to real-world requirements. What a cool crowd, and I keep summing up after every session: they know how to test, the question always comes down to *why aren't we taking the time* when AI makes us feel like we need to be fast to be able to say that \"development is so fast that testing is now the bottleneck\". Remember, there's a typo in that sentence and almost every time you feel like saying \"testing\", you should fix it to \"fixing\". Creating bad quality makes fixing quality a bottleneck and saying it like it is helps address the actions we agree on."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQE9HfT_UUjFRg",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792763880069
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1792763880034,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7519396710226477056",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792763880069
+      },
+      "firstPublishedAt": 1792763880069
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7519396710226477056",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "b393e29e-976c-4440-912e-53f7f70e7797",
+    "processedAt": 1792763910420,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1792763880273,
+    "siblingActivities": [],
+    "id": 3296907465
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7519692777480204288",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "“Women are judged on their performance, and men are judged on their potential.”\n\nI saw this run by my wall, just as I'm appreciating on being judged to exceed expectations second consecutive year in a row, and I'm nowhere near the potential. I feel lucky to reside in a bubble where I can mostly exist as I am, performance and potential and all, and no longer stick out like a sore thumb on every occasion for just having to be woman. \n\nWhat I still worry about though, is neither performance nor potential, but the effort for same performance. There still would seem to be a tax of expectations, including the punishment for bragging on our achievements."
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792834467430
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1792834467430,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"EC3B87D2E5B24A9DC2D3844D34E60AAC\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7519692777480204288\",\"configLastUpdatedAt\":1792834467429,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"862A81F8B918DCAB4D6FD5802FC6F5C0\",\"lastModifiedAt\":1792834467429}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7519692777480204288",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792834467430
+      },
+      "firstPublishedAt": 1792834467430
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7519692777480204288",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "7c2e2edf-e3a4-4bfb-a365-0e88913e2804",
+    "processedAt": 1792834498097,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1792834467783,
+    "siblingActivities": [],
+    "id": 3298048489
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7520360535989764096",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "I'm intimidated by the fixed price projects. I feel like this is a confession, but it comes from an experience of being on the suffering side of promising something is smaller than it should have been. So I played with AI-sketching, to think through the problem. \n\nIf at the start of the project it feels like the size of it was a third of what it should have been, what do you do as a developer/tester in the team? Assume it's someone else's problem? \n\nIf then we carefully specify, using a reasonable amount of time on specifying thinking in terms of the size of the real project, but a significant portion of the size of the project now, and only find a little that is outside scope - and also size those optimistically, we delay the conversation. \n\nWhen we then hit the mark where we're operating at a loss, a conversation is necessary. \n\nThese kinds of situations are lose-lose. I feel like I have seen this pattern a little too much in my life to feel comfortable with fixed prices where there isn't a significant buffer. And now that the fixed price conversations start with the \"AI makes this smaller\", I wonder if I will see this even more than before."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQHYCvsHZSBTug",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792993673669
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1792993673633,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"9EA26B42E21F26C5874C4E8BD9576CB5\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7520360535989764096\",\"configLastUpdatedAt\":1792993673631,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"71DC82218661735C636C3684289D9D49\",\"lastModifiedAt\":1792993673631}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7520360535989764096",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1792993673669
+      },
+      "firstPublishedAt": 1792993673669
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7520360535989764096",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "557afc75-796d-40d2-a0b7-b0f826fea86c",
+    "processedAt": 1792993704151,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1792993673874,
+    "siblingActivities": [],
+    "id": 3300055841
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7520539677506818048",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "My 1st AI First project hit production today, and I am deep in reflection mode. There are aspects to it that I consider absolutely successes:\n\n- the use of AI for quality purposes raised the quality and ease of achieving quality. Traditional approaches to risks to quality would have taken a lot more effort, and the risk-driven application of AI on answering quality concerns worked really well, raising the bar. \n\n- the split of one big delivery to two incremental deliveries. Again, managing of risks was deemed more important than betting on absolute efficiency in delivery. \n\n- the 3-5x effort without as estimated by developers. \n\n- learned about the phenomena of time being saved only if there is other work to do while time is being saved\n\nHowever, being the empiricist that I am, I go for opposing evidence: \n\n- reporting 3-5x effort savings in hindsight, while reporting 0.8x effort in estimation means I would not trust either\n\n- realistically I (and the boardrooms) was hoping for a clearer indicator of bottom line savings than I was able to deliver. \n\n- people change their ideas slowly, and having people in delivery who are changing their ideas as we are delivering may be a significant factor. \n\nThen again, I hear this in the experiences all around: we don't see impact of AI at large in the bottom lines. So while some work becomes easier, other work emerges that fills same amount of time, for now. \n\nI take this as a challenge to figure out what would need to be different to see truly different results - while retaining quality."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQESW0NfYsk5wQ",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793036384694
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793036384666,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7520539677506818048",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793036384694
+      },
+      "firstPublishedAt": 1793036384694
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7520539677506818048",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "a14479ba-823e-4437-927f-41499b4a8c12",
+    "processedAt": 1793036415561,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793036385085,
+    "siblingActivities": [],
+    "id": 3301317545
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7520728261275062272",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Remember Lean and types of Waste in Software Development. I got back to staring at the image being reminded on what they were, as I was thinking about the challenge of costs staying on same / similar levels even with AI in SDLC. \n\nNot sure how lean we want to trim teams into, because requirements emerge from inherently human connections rather than land ready and defined. There is a reason we see fastest movement now with people who aren't solving problems for others, but who are experts of their own problems."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQG4GUgmkrjjug",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793081346589
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793081346557,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7520728261275062272",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793081346589
+      },
+      "firstPublishedAt": 1793081346589
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7520728261275062272",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "4d4876e5-a4c3-4713-96e5-b1bc5e75a71e",
+    "processedAt": 1793081378119,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793081346984,
+    "siblingActivities": [],
+    "id": 3302417577
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7520729067093118978",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Join us on November 11th?"
+          },
+          "media": [],
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793081538083
+      },
+      "responseContext": {
+        "parent": "urn:li:share:7518248376971259905",
+        "root": "urn:li:share:7518248376971259905"
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793081538083,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"553860B2BA6DDAA5CB63B97147C54492\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7520729067093118978\",\"configLastUpdatedAt\":1793081538081,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"A86987C5EC22EBC323EB4BE648538768\",\"lastModifiedAt\":1793081538082}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "RESHARE",
+      "id": "urn:li:share:7520729067093118978",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793081538083
+      },
+      "firstPublishedAt": 1793081538083
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7520729067093118978",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "8cff473b-660a-419e-8a56-8be40b19cbcc",
+    "processedAt": 1793081569642,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793081538422,
+    "siblingActivities": [],
+    "id": 3302417617
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7521249592395530240",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "We (my business unit at work) have an open space event tomorrow on AI experience cross-pollination!  I am excited, for many things. The idea of a participant-build agenda mixed with fear of too many people hoping for someone else told hold the space. But also the three topics I have decided to hold space for: \n\nI will share about using LLM wikis and harness-based interviewing for a learning structure, with three cases: our steering group meeting practice AI-fication; what finally worked for AI-assisted specification to acceptance (\"Living common ground\"); and how to turn a conversation to client offer slides (\"Pursuit factory\"). \n\nI will share about AI-experience diversifying with 30 categories of experiences as coverage metric, and how our I have now sampled 40 people out of our business unit's crowd and know where we're at and how we should grow next. And I know this for a few clients too, similar sampling projects done, and can cross-pollinate the best of what we have learned to do. \n\nI will share about Software Intelligence Mesh Property-based Testing Slice, and how we repeatedly are finding problems in proofs of concept that projects missed, without burning tokens for AI testing continuously, turning this to repeatable deterministic tests with more power. \n\nSince we have only three time slots to schedule into, by tomorrow I will decide if I do all three or choose to join someone else's session(s). And I love the fact that I can overproduce and prioritize on how I feel *tomorrow*, without sticking to the plan of what I must prep for. \n\nOpen spaces are awesome. And organizations making space for open spaces are my kind of organizations."
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793205641057
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793205641057,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"04F7E9CBA3CD2C42BB1F6D88F0E1DE7B\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7521249592395530240\",\"configLastUpdatedAt\":1793205641054,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"BDA5606CE0B309E052C603BE775FDEFE\",\"lastModifiedAt\":1793205641055}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7521249592395530240",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793205641057
+      },
+      "firstPublishedAt": 1793205641057
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7521249592395530240",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "a4b60ee6-3002-44ff-b89f-67ef1bfaf0a8",
+    "processedAt": 1793205672023,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793205641426,
+    "siblingActivities": [],
+    "id": 3306610345
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7521683901799460864",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "I learned one thing in particular from the conversations I was a part of in the open space at work today: the tool-and-token-based sandbox between knowledge workers and builders is just as essential as I thought to change majority experiences with AI. Knowledge workers hit the sandbox on almost all of their aspirations of improvement. \n\nThis leaves organizations with a choice: going the route leaving people in that sandbox, or going the route of breaking out of that sandbox. On the first, we should build new processes and tools, where AI enhances work by predesigned integrations. On the latter, we enable people to build those new processes and tools. \n\nThe conversations in the builder box are on a whole different level. The gap between those who build and those who use is is wider."
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793309188514
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793309188514,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"2941D45C4C9B284C1B782F0DDF4C4E23\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7521683901799460864\",\"configLastUpdatedAt\":1793309188512,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"E624C470A36FF89ECADF88B940B353DE\",\"lastModifiedAt\":1793309188512}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7521683901799460864",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793309188514
+      },
+      "firstPublishedAt": 1793309188514
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7521683901799460864",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "94b8b684-1a74-4b00-9494-97305e495462",
+    "processedAt": 1793309229428,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793309188827,
+    "siblingActivities": [],
+    "id": 3309765681
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7522587951122341888",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 140,
+                "length": 30,
+                "value": {
+                  "com.linkedin.common.MemberAttributedEntity": {
+                    "member": "urn:li:person:8K_Ew3NxlE"
+                  }
+                }
+              }
+            ],
+            "text": "People can now do things by asking for it. But knowing what to ask for isn't a commonly available trait. We had a conversation on this with Aryadevi Neelakantabhattathiri in our preparation for our mutual talk at Testing Assembly next week. \n\nWe know know how to ask for :\n- bug fixes (and tests that reproduce the problem before the fix)\n- test automation that documents our testing intent (and replenishes the latest status on demand)\n- properties that get monitored for all of our tests\n- mutations that tests if our tests will notice when the application is intentionally, programmatically broken\n\nKnowing your test techniques by name has never been as important as it is now, to get a fuller picture of the quality we are building towards.\n\nFor illustration mutation tests (Stryker) of my single playwright with properties demo tests. This was part of a demo to show why we still want random walks with properties over a single example clicking through the application."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQGCCLJ-Cqt4lQ",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793524730766
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793524730733,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"DB838E6495AB2E51A4BC48CDAB897C0D\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7522587951122341888\",\"configLastUpdatedAt\":1793524730732,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"82E06A03DDB5B2C01939339FC8ECEEC0\",\"lastModifiedAt\":1793524730732}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7522587951122341888",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793524730766
+      },
+      "firstPublishedAt": 1793524730766
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7522587951122341888",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "78f751c1-1a4a-42c3-8851-77baa39742ce",
+    "processedAt": 1793524762237,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793524731090,
+    "siblingActivities": [],
+    "id": 3313478897
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7523087282229264384",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 50,
+                "length": 30,
+                "value": {
+                  "com.linkedin.common.MemberAttributedEntity": {
+                    "member": "urn:li:person:8K_Ew3NxlE"
+                  }
+                }
+              },
+              {
+                "start": 260,
+                "length": 24,
+                "value": {
+                  "com.linkedin.common.HyperlinkAttributedEntity": {
+                    "url": "https://lnkd.in/dhJKrwQb"
+                  }
+                }
+              }
+            ],
+            "text": "Talk on Wednesday: how teaching AI in testing for Aryadevi Neelakantabhattathiri lead to realizing that we have been taught about testing differently, and that good results with AI seem to be connected with an essential change in how we think about testing. \n\nhttps://lnkd.in/dhJKrwQb"
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:article:8065886506378421662",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "ARTICLE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793643780476
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793643780468,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"42611912DC979695549289BD2DD98885\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7523087282229264384\",\"configLastUpdatedAt\":1793643780467,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"B417AC939C595EAF205FC28FFF9A14E0\",\"lastModifiedAt\":1793643780467}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7523087282229264384",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793643780476
+      },
+      "firstPublishedAt": 1793643780476
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7523087282229264384",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "6407cc06-fc76-4331-9379-31cf74ca1bdc",
+    "processedAt": 1793643811109,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793643780827,
+    "siblingActivities": [],
+    "id": 3316235281
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7523281474586832896",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Collecting and comparing slide-making AI tools. I've been specializing in hearing about the developer-tool focused skills that people have created, collecting them and trying them out, usually to my great dissatisfaction. Last Thursday's open space added one more tool on my list of *not quite what I want for making my slides* as I tried out ChatGPT for powerpoint, and was underwhelmed. \n\nI made a note then to go back checking what did the one slide end up costing me, other than wait time and a poor result from poor inputs: 13 credits. If a usual monthly allowance is 300, this would allow me 23 attempts to a better slide. It did not save me time, it was slower than I would be on the usual style of creating slides from example illustrations overlaying my own messages. \n\nFor me, AI generated slides have lead me to the idea of going slideless. The experiments mostly drive through the point on how wasteful writing slides for work is, and how the value of slides goes down the less we think about them for their purpose of existence and content. \n\nI will still use the developer-tool focused tooling on whatever help I invite for slides. They all look awfully same, but that we can tweak in the skills when we have access to them, rather than have them packaged."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQFyJtQTVG9__A",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793690080080
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793690080051,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7523281474586832896",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793690080080
+      },
+      "firstPublishedAt": 1793690080080
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7523281474586832896",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "f9685bd4-3753-41de-86cd-4d9b250d1ced",
+    "processedAt": 1793690110732,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793690080482,
+    "siblingActivities": [],
+    "id": 3317083273
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7523625830552514560",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Today at Testing Assembly, you'll find me at track 2, 3rd floor. Will even speak for a short moment when Arya isn't, and listening intently throughout the day. :)"
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQGsnSK0ZnjuVw",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793772180452
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793772180409,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"1ECA7383613AE544FCB281C0B4798962\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7523625830552514560\",\"configLastUpdatedAt\":1793772180408,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"F62BDCB60B8F038C46F448C015919DBD\",\"lastModifiedAt\":1793772180408}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7523625830552514560",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793772180452
+      },
+      "firstPublishedAt": 1793772180452
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7523625830552514560",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "c5a8f6ec-d02b-4b53-a173-225837bd4862",
+    "processedAt": 1793772211886,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793772180856,
+    "siblingActivities": [],
+    "id": 3320080625
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7523837761439776768",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "One of the more sticky talks I listened to years ago was on what *attribution* did in research. When new set of dinosaur bones were found, you were lucky if they were essentially different, because you got written into history as someone who identified a species, and could name it. Until someone started wondering: why are there no baby dinosaurs?\n\nFrom that curiosity, we learned that 5/12 identified types of dinosaurs did not exist, they were merely the adolescent / aged variants of the same types.\n\nToday I am sharing on this since we are in a place of naming new dinosaurs with our agents. Comparing products is harder, and comparing skills within our common purpose AI harnesses is even harder. We all want to be identifying new dinosaurs, so that we could name them. We are working in isolation, in competition, for credit, rather than solving an industry challenge together as a community. \n\nThere's a shift needed from towards classifying, seeing similarities and differences, and differences that are results of comparing adolescent / mature versions of the same. Is it possible that the great-new-tool / great-new-skill you just packaged is one of those dinosaurs that just confuse the classification that would help us solve the problems these things are supposed to help us with?"
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQH25adRHENX9Q",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793822708845
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793822708806,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"D3CD3CC6551D3344B4C507545BC53DEE\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7523837761439776768\",\"configLastUpdatedAt\":1793822708805,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"155DA2A4895C50EC5A4DC965CEFF01B7\",\"lastModifiedAt\":1793822708805}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7523837761439776768",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793822708845
+      },
+      "firstPublishedAt": 1793822708845
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7523837761439776768",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "a8382094-a3de-4024-a837-c8225cdad424",
+    "processedAt": 1793822739622,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793822709322,
+    "siblingActivities": [],
+    "id": 3322511521
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7523977725494108161",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Realization from conference attendance yesterday was that too little has changed at large. The corners of better in testing are not wide spread. We report, sometimes year after year that:\n\n- regression testing can be made more efficient by planning it around what people consider key features and giving it less time comfortably with that sense of control\n- testers end up in their profession with little to none of training, and even the added training is on the importance / process, rather than the content of it\n- our engineering environments are in a bad shape as agreeing on the logistics of how things emerge need to be agreed with so many parties\n- AI can do a whole day of detailed test analysis *after we know to ask for the analysis* in matter of minutes, and we see ourselves as test task executors rather than coordinators, challengers, improves and builders of sociotechnical test systems\n\nInstead of solving any of these, we share the pain. We turn the pain to competition. We become a community for therapy, rather than solutions. \n\nI'm sure all the work did a dent somewhere. Yet we lack that sense of thematic, cross-cutting improvement. \n\nI discussed hopeful options of coming together again around research with one of the participants, and some hope like that feels necessary to me."
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793856078676
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793856078676,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"C14AB66C2EC2B041CFB9FC98E468895E\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7523977725494108161\",\"configLastUpdatedAt\":1793856078675,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"2BDD56712151ED80D65DC5BFBCD0BBD9\",\"lastModifiedAt\":1793856078675}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7523977725494108161",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793856078676
+      },
+      "firstPublishedAt": 1793856078676
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7523977725494108161",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "76eed46a-e615-46de-9dc4-3edc2685999f",
+    "processedAt": 1793856109498,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793856079018,
+    "siblingActivities": [],
+    "id": 3322839241
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7524040696560017409",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Eilisen konferenssin käytäväkeskusteluista poimittuna muutos siinä miten toimimme yhteisöllisesti oman työyhteisömme eteen ja monissa organisaatioissa näkyvä \"mihin piikkiin nää tunnit saa kirjata\" -keskustelu kun järjestetään yhteisöllistä oppimistoimintaa työajan ulkopuolelle. Joskus aikanaan nuorena tieteenharjoittajana oli ihan selvää että iso osa oppimisesta kuului omalle ajalle. Ja jossain kohtaa se ympäröivässä maailmassa muuttui, vaikka itse ei ehkä kasvanutkaan samaan suuntaan. \n\nKonferenssien parasta antia on käytäväkeskustelut, ja ne on vielä parempia jos niille on järjestelmätuki eli voi tehdä kaikille näkyväksi että tässä sohvaryhmällä *kaikki on tervetulleita mukaan* ja juuri nyt aiheena on se että miten järjestetään huippuhyviä osaamiseen jakamiseen erikoistuneita konferensseja. Nehän on vähän kuin nyyttikestit, eli osallistujien pitää tuoda osansa saadakseen osansa, eikä tulla katettuun pöytään (puheenvuorot). \n\nKäytäväkeskustelut muistuttivat myös että aikaan jolloin olin konferenssimuotoilija, kehitin merkittävässä määrin yhteisöllisen konferenssin rakenteita tutustuttamisen, yhdistämisen, ja löydettävyyden osalta. Sitä voisi olla kiva joskus tehdä uudelleenkin. Mutta koska tehtävät on usein interim, tänään ei ole sen aika. Tänään voi vain toivoa että meissä on vielä kaikissa riittävästi nyyttärihenkeä kun puitteet on tarjolla."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQHln61yu1vPhQ",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793871092209
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793871092176,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"6BCA6D496A20C3D106E72C22D6BCEAF7\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7524040696560017409\",\"configLastUpdatedAt\":1793871092175,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"A1F52FB0FD3D9D42723468D409E9BD5F\",\"lastModifiedAt\":1793871092175}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7524040696560017409",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793871092209
+      },
+      "firstPublishedAt": 1793871092209
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7524040696560017409",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "8e9e400e-4e18-4c02-9427-089f2857e14e",
+    "processedAt": 1793871123151,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793871092368,
+    "siblingActivities": [],
+    "id": 3323409633
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:ugcPost:7524349021419917312",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "I've been doing performance reviews for the last two weeks, and this one really hits the mark on how you should think about it. Your career is too important to be left just for your manager. Make that a conversation where you drive your career by understanding that looking back, it is indeed a return on investment review, and looking forward, it drives both better investment for both the company and you."
+          },
+          "media": [],
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793944602480
+      },
+      "responseContext": {
+        "parent": "urn:li:ugcPost:7523726566544265216",
+        "root": "urn:li:ugcPost:7523726566544265216"
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1793944602480,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"67A219C4891BBEFEB387AFA1FD4136B7\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:ugcPost:7524349021419917312\",\"configLastUpdatedAt\":1793944602478,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"7DBC57D0F60B87D2384C92B3E03C0FC0\",\"lastModifiedAt\":1793944602478}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "RESHARE",
+      "id": "urn:li:ugcPost:7524349021419917312",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1793944602480
+      },
+      "firstPublishedAt": 1793944602480
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:ugcPost:7524349021419917312",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "8cb43e32-5e71-460b-ba3c-6f2167e04760",
+    "processedAt": 1793944633136,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1793944602826,
+    "siblingActivities": [],
+    "id": 3325362985
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7525609881685643264",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "We have described this in exploratory testing for longer than I can remember: the most important outcome of a test performed is a better tester. Learning is at the center. The commodity testers chipping through someone else's test cases, without a strong sense of agency didn't do well with testing. Focus on artifacts created theater, rather than results. \n\nWe see this pattern now in scale with AI. We have people doing tasks without that sense of agency and learning, outsourcing the very thing we should invest in, *better people*, into a piece of software. We become operators, rather than builders of sociotechnical feedback systems where the right set of skills in people is most important output. \n\nWe are still very much figuring out what the skills we need to build and maintain are, and what aspects we can relearn at will, and where atrophy is temporary. I had one of those deeper conversations today, and drew up a silly little sketch to look at to think about it some more. \n\nWhat is the best way to support learning in people while using AI? Reading walls of text isn't. We can't digest something like that. Searching from wall of texts where everyone picks what they find useful leaves the reconciliation of everything that created an expectation to the end, and tends to be a route to disappointment."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQHo_jON3WdCJg",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794245215594
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"se\",\"modifiedAt\":1794245215559,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7525609881685643264",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794245215594
+      },
+      "firstPublishedAt": 1794245215594
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7525609881685643264",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "84444e8b-d347-4019-902b-ff3a1e79ab90",
+    "processedAt": 1794245246242,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794245216026,
+    "siblingActivities": [],
+    "id": 3331402753
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7525883511287836672",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Sitä olis taas testaushommia tarjolla, mutta pitäisi osata: \n- ryhmätyö ohjelmistokehitystiimissä\n- nähdä virheitä ilman että joku muu osoittaa missä ne ovat \n- automatisoida ilman että joku muu määrittelee ensin skenaariot\n- pyytää AI:lta apuja tuottavalla, tehostavalla ja tuotoksia parantavalla tavalla\n\nYllättävän haastava profiili että olisi kokemusta 5+ vuotta ja osaisi nämä kun laitetaan tekemään. Ehkä se johtuu siitä että tätä ei edelleenkään opeteta kouluissa eikä työpaikoilla, ja taidot oppii itsenäisesti tai puolivahingossa. \n\nJos meidän pitäisi jutella siitä että hommia vois tehdä, niin saapi laittaa viestiä."
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794310453364
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794310453364,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"DBEEB3789AC366ACA4659846C143A41D\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7525883511287836672\",\"configLastUpdatedAt\":1794310453362,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"92D5B071AF39C26D4F0A7736DB998E1B\",\"lastModifiedAt\":1794310453363}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7525883511287836672",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794310453364
+      },
+      "firstPublishedAt": 1794310453364
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7525883511287836672",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "2c129fe7-d8d5-410f-a521-7af37ea2ffad",
+    "processedAt": 1794310483765,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794310453495,
+    "siblingActivities": [],
+    "id": 3333031665
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7525887869840850945",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "\"Could you be faster with your testing, like X\". This is an experience that is already past by decided best-before date of sharing experiences from stage (5 years), but LinkedIn is not a stage, and something recent prompted me to share this one. \n\nBecause, we get asked now in age of AI if we can be 4 times or 10 times faster. And it's a hard question to respond. \n\nTesting is an investment into information. To be faster with investment that shows up as time on task, you are faster when you just use less time. To maintain same level of results while being faster, that one depends on what results would be need to produce, and that is hardly standardized.\n\nWhen that was asked of me back in the days, it was asked in comparison to another tester who was so fast. He completed tens of test cases in time when I couldn't finish one, and I was asked to be faster. We both tested installations. \n\nWe compared notes. His criteria on passing a test was *no visible error messages*. Mine was a lot more detailed, and I got to find the problems where whole parts of the application never got installed - silently. \n\nYou set the bar. Both are testing. Speed may not be the first dimension you seek. Great results are the foundation worth speeding up."
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794311493046
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794311493046,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentRelevanceClassifications\":[],\"spam\":false}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7525887869840850945",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794311493046
+      },
+      "firstPublishedAt": 1794311493046
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7525887869840850945",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "34b1781a-b7a5-4787-8cd2-9a8cb3411c23",
+    "processedAt": 1794311523576,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794311493254,
+    "siblingActivities": [],
+    "id": 3333031937
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7525979859999969281",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 272,
+                "length": 24,
+                "value": {
+                  "com.linkedin.common.HyperlinkAttributedEntity": {
+                    "url": "https://lnkd.in/dF7xDCfy"
+                  }
+                }
+              }
+            ],
+            "text": "Tomorrow is CGI Alignment, the event in which we figure out how we help AI essential projects deliver with quality through talks and hallway track conversations. My talk is titled 'Increase personal AI coverage', and seeks to diversify our ideas of experience coverage. \n\nhttps://lnkd.in/dF7xDCfy\n\nThis time we opened our community event for community at large and get to enjoy great company of our colleagues beyond company borders. The same is reflected in our program."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:article:9081751155509430796",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "ARTICLE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794333424713
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794333424703,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"070CB70E5F60C57DFD8ABFFF97360167\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7525979859999969281\",\"configLastUpdatedAt\":1794333424702,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"ED5FE93BCED0C8BA2585BDFA6ABDCD0B\",\"lastModifiedAt\":1794333424702}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7525979859999969281",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794333424713
+      },
+      "firstPublishedAt": 1794333424713
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7525979859999969281",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "c92104d0-a015-45b5-a2bb-dc9217dba745",
+    "processedAt": 1794333455243,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794333424914,
+    "siblingActivities": [],
+    "id": 3333871449
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7526023453016219649",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "2.5 years. 75 slide decks on CGI template that have seen an audience. The picture is what AI summarized as my thesis across all this material, and what are my core concepts that I work on. Sounds about right. \n\nDid a bit of cleanup on making sure all of my slides are setting an example for colleagues on sharing theirs, with AI doing work on identifying themes, agreements and disagreements. Disagreements are essential for context-driven testing, to note that there are only good practices in context and we are still, after all the years, figuring out what makes up that context other than people. \n\nThese 75 decks are all classified 'public' and a lot of them as pdfs are available at my speakerdeck profile."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQH2hIk2pDlHWA",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794343818399
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794343818355,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"E55CC795C625C67F40262A733CA7B01E\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7526023453016219649\",\"configLastUpdatedAt\":1794343818354,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"9EA755DC68D47F84AEF82F30B6F96E87\",\"lastModifiedAt\":1794343818354}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7526023453016219649",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794343818399
+      },
+      "firstPublishedAt": 1794343818399
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7526023453016219649",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "86f4d06a-0f07-4713-8320-aa83d20f4056",
+    "processedAt": 1794343848956,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794343818665,
+    "siblingActivities": [],
+    "id": 3334795057
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7526206245905764352",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 5,
+                "length": 14,
+                "value": {
+                  "com.linkedin.common.MemberAttributedEntity": {
+                    "member": "urn:li:person:OtyLRn9GnD"
+                  }
+                }
+              },
+              {
+                "start": 226,
+                "length": 13,
+                "value": {
+                  "com.linkedin.common.HashtagAttributedEntity": {
+                    "hashtag": "urn:li:hashtag:cgialignment"
+                  }
+                }
+              }
+            ],
+            "text": "When Taika Tamminen talks about context engineering, this bit here sounds so much like expected results in testing. Optimize the system and context sounds like a value add task a tester background would be very beneficial on. #CGIAlignment"
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQGURwMxdOhNTQ",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": [
+              "urn:li:hashtag:cgialignment"
+            ]
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794387399423
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794387399396,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"4BAC0454BFBB0E8B45073FD3A23EFCFC\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7526206245905764352\",\"configLastUpdatedAt\":1794387399395,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"E55A78BCF47BAD9F137B470D1C92CB4D\",\"lastModifiedAt\":1794387399395}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7526206245905764352",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794387399423
+      },
+      "firstPublishedAt": 1794387399423
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7526206245905764352",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "9268c453-a3fe-4f7b-862f-c691a92d261c",
+    "processedAt": 1794387430082,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794387399775,
+    "siblingActivities": [],
+    "id": 3335715233
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7526253112127500289",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 71,
+                "length": 15,
+                "value": {
+                  "com.linkedin.common.MemberAttributedEntity": {
+                    "member": "urn:li:person:YZuMZOBCEN"
+                  }
+                }
+              },
+              {
+                "start": 87,
+                "length": 13,
+                "value": {
+                  "com.linkedin.common.HashtagAttributedEntity": {
+                    "hashtag": "urn:li:hashtag:cgialignment"
+                  }
+                }
+              }
+            ],
+            "text": "‘You can’t make your impact visible before you understand it yourself’ Jamina Pöllänen #CGIAlignment"
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQEgV22hKW343g",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": [
+              "urn:li:hashtag:cgialignment"
+            ]
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794398573202
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794398573169,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"E875BCB8CA50BDA48467415C2F0CC5E4\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7526253112127500289\",\"configLastUpdatedAt\":1794398573167,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"D7BE928651EC647E2A8961EED08FE7DA\",\"lastModifiedAt\":1794398573167}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7526253112127500289",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794398573202
+      },
+      "firstPublishedAt": 1794398573202
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7526253112127500289",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "17236c97-bbb7-4c48-8957-f2e7a29d125f",
+    "processedAt": 1794398603836,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794398573621,
+    "siblingActivities": [],
+    "id": 3336682169
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7526337106839859201",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 16,
+                "length": 13,
+                "value": {
+                  "com.linkedin.common.HashtagAttributedEntity": {
+                    "hashtag": "urn:li:hashtag:cgialignment"
+                  }
+                }
+              }
+            ],
+            "text": "Highlight of my #CGIAlignment was the partner who I met when teaching vibe coding for women last spring, with questions about test automation. Less than three hours of us pairing after the course, she was writing Robot Framework tests. Today she has held a position in automation for three months. So proud of her. 💜"
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": [
+              "urn:li:hashtag:cgialignment"
+            ]
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794418599022
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794418599021,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"5CA2A340316C8EC1AD92E6BA3F3859E3\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7526337106839859201\",\"configLastUpdatedAt\":1794418599019,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"BC4BF50532D3995C88C32F4C19D2870C\",\"lastModifiedAt\":1794418599020}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7526337106839859201",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794418599022
+      },
+      "firstPublishedAt": 1794418599022
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7526337106839859201",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "f3ed5bb5-1b9d-417c-9ac4-a95a484836f4",
+    "processedAt": 1794418629688,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794418599406,
+    "siblingActivities": [],
+    "id": 3337382753
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7526619370748321792",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 23,
+                "length": 13,
+                "value": {
+                  "com.linkedin.common.HashtagAttributedEntity": {
+                    "hashtag": "urn:li:hashtag:cgialignment"
+                  }
+                }
+              },
+              {
+                "start": 62,
+                "length": 25,
+                "value": {
+                  "com.linkedin.common.MemberAttributedEntity": {
+                    "member": "urn:li:person:9D_-Z_Z9sW"
+                  }
+                }
+              }
+            ],
+            "text": "One of the sessions at #CGIAlignment was different, thanks to Renata Baldissara-Kunnela. For the talk, she had programmed us a tailored experience, that still keeps me thinking about the things that are now possible. \n\nShe started her talk with giving the audience a QR code to an app we all opened in our mobile. Or rather, 50 people in the room opened in our mobile, that means that there would be a few people in the room that didn't. The app was for the acceptance work in a simulated agentic workflow. \n\nThen we went through an agentic workflow, and related decision making. In a flock of 50 people, the fastest to approve, pause or decline wins, and creates a record. We assume we are all capable and skilled on distinguishing the right decision, and on first agent, I got to be the first of us with a decision of \"tests are green - everything passes\", something I would probably never say in real life. \n\nThen we simulated attempts to tamper the evidence, change our mind. And discussed the importance of locked, cryptographic evidence on who showed up on a manual step when human was invited to the loop. \n\nI found the presentation a particularly layered one: \n\n- It was a showcase of a product Renata has been building, one with visual logs, workflow modeling and cryptographic evidence of human decisions \n- It was an example of something a tester by trade builds from her domain knowledge with 2 years of full-in-AI learning. \n- it was a futuristic foundation for a conversation of what humans do in that loop to be in control when agents do more and more of the work\n\nI have followed Renata's work in AI and how she built Alma (memory), a group of test agents, and now a workflow-evidence -chain, with sheer insistence on starting on time at a time when employers weren't all in to allow testers these kinds of transformations. I consider her a small force of nature, and a real inspiration. I feel privileged to have had her share her expertise with us yesterday."
+          },
+          "media": [
+            {
+              "description": {
+                "attributes": [],
+                "text": ""
+              },
+              "media": "urn:li:digitalmediaAsset:D4D22AQGYzdMtzZpViA",
+              "thumbnails": [],
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": [
+              "urn:li:hashtag:cgialignment"
+            ]
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794485896469
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794485896431,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"5F3E645114EAACA78929FFDF0F5275B4\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7526619370748321792\",\"configLastUpdatedAt\":1794485896429,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"70EF1CD6005B3A0FF25A4C739B790319\",\"lastModifiedAt\":1794485896430}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7526619370748321792",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794485896469
+      },
+      "firstPublishedAt": 1794485896469
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7526619370748321792",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "96c668bd-f8d5-4c7f-8d34-e06aeae32357",
+    "processedAt": 1794485927121,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794485896830,
+    "siblingActivities": [],
+    "id": 3339302353
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7526997150413647872",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "There are very few *exceptional* test people, and James Thomas is one of them. He is the kind of person we need in age of AI and the only reason I am not silently knocking on his doorstep with own proposal is that I am geographically challenged. He is in UK."
+          },
+          "media": [],
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794575965614
+      },
+      "responseContext": {
+        "parent": "urn:li:share:7526942332181585921",
+        "root": "urn:li:share:7526930300619374592"
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794575965614,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"03B56C915F0D8E510F50989C1EA1151C\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7526997150413647872\",\"configLastUpdatedAt\":1794575965612,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"1B19990D2BAE7B8CCCD9B81F63EF99C6\",\"lastModifiedAt\":1794575965613}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "RESHARE",
+      "id": "urn:li:share:7526997150413647872",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794575965614
+      },
+      "firstPublishedAt": 1794575965614
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7526997150413647872",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "0025ca4d-7482-4192-ab93-3b45a063b364",
+    "processedAt": 1794575996091,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794575965813,
+    "siblingActivities": [],
+    "id": 3341570705
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7526999246248550401",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "\"Hei Maaret, meillä olis aika tiukan aikataulun suorituskykytestauksen tarve. Et sattuisi tietämään mistä löytäisimme tyypin. Työt tehtynä viikossa.\" \n\nIlokseni totean että päivää myöhemmin olen\n- opetellut uuden suorituskykytestauksen työkalun (k6)\n- saanut pääsyt ja profiilit järjestelmään\n- tunnistanut 10 arkkitehtuurillista riskikohtaa ja 5 tärkeintä käyttäjäflowta\n- testannut nämä smoke, baseline ja step -skenaarioilla tuettuihin käyttäjämääriin ja yli\n\nVielä pitäisi raporttia täydentää extrapolaatiotiedoilla valitsemastani setupista. \n\nNeljä päivää jäljellä kouluttaa toinen asiantuntija rinnalle, koska tilaisuuksia oppia oikean tekemisen kautta ei ole koskaan liikaa. \n\nUsein me suunnitellaan asioita liiankin kanssa. Tai no, mä olen suunnitellut tätä tekemistä vuosikymmeniä, jatkuvasti. Sen käsitemallin päälle voi rakentaa tarvittaessa nopeitakin liikkeitä."
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794576465293
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794576465293,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"0AF9D3B22087B70C89931AB6D46EDF63\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7526999246248550401\",\"configLastUpdatedAt\":1794576465291,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"C89D7E44B69E8A8F876FB05A7FA08C7A\",\"lastModifiedAt\":1794576465292}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7526999246248550401",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794576465293
+      },
+      "firstPublishedAt": 1794576465293
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7526999246248550401",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "9784e1cc-4e9c-4f76-b646-8c4588f976ac",
+    "processedAt": 1794576495924,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794576465656,
+    "siblingActivities": [],
+    "id": 3341841953
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7528120253709709313",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Tutkiva testausote yhdistettynä taidokkaaseen tekoälyn käyttöön, ja tässä on kahden päivän testauksen tulos *suorituskykytestausta pyydettäessä*. Jotta pystyy tutustumaan täysin tuntemattomaan järjestelmään hallitusti, tarvitsee mallintaa järjestelmä toiminnallisilla testeillä. Ja jotta pystyy testaamaan vakuuttavasti kuormaa, se järjestelmä nyt vaan pitää tuntea jollain tasolla. Havainnoista 17/56 koskee kuormaa ja luotettavuutta, mutta siinä sivussa tuli löydettyä muutamia muitakin. \n\nTämä ei ole ihan vakiintunein tekoälyn käyttö, vaan yhdistelen muutamaa oivallusta siitä miten oppimisesta pitää kirjaa, ja miten tarina pysyy kasassa ja kasvaa, vaikka opit tulevat vasta tehdessä. Järjestyksellä on merkitystä - ja kaikki tämä on ollut minulle tutkivaa testausta. \n\nLopputulos: \"Maaret, haluaisitko myydä meille lisääkin testausta.\" :D \n\nMä taidan kyllä haluta myydä korjaamista ja yhteistyötä, ja opetusta. Ehkä myös vähän sitä testausta. Sama se millä nimellä sitä kutsutaan ettei käyttäjillä ole ihan niin vaikeaa laadun kanssa."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQGxyu4JmtEjAQ",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794843734415
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794843734378,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"3F5AE94D1BF2815C2DF3E4E82B7BD527\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7528120253709709313\",\"configLastUpdatedAt\":1794843734377,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"57408718B1B2020C5DEC95F21554C785\",\"lastModifiedAt\":1794843734377}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7528120253709709313",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794843734415
+      },
+      "firstPublishedAt": 1794843734415
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7528120253709709313",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "7cb1ca31-86d3-489a-bdc0-3f95b800e498",
+    "processedAt": 1794843765178,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794843734832,
+    "siblingActivities": [],
+    "id": 3347580929
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7528419203612221441",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "Symptoms of vibe coded web applications: \n1) two numbers side by side and they don't match\n2) it looks awfully beige\n3) It fails on unusual browsers\n\nI ended up noticing this as someone wanted to ask what I have contributed. Apparently \"testing releases\", which I did at some point. \n\nAh yes, this is Robot Framework Browser, I tend to avoid it when an option is given. Which is not always."
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQE0BUTKonToPA",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794915009630
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794915009593,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"106B136D75157F1496EB381451EB1577\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7528419203612221441\",\"configLastUpdatedAt\":1794915009591,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"2709649E72A49952F47C635AC80257A2\",\"lastModifiedAt\":1794915009592}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7528419203612221441",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794915009630
+      },
+      "firstPublishedAt": 1794915009630
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7528419203612221441",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "289b86ee-828f-495f-86b9-e559350ddbef",
+    "processedAt": 1794915040379,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794915010003,
+    "siblingActivities": [],
+    "id": 3352038401
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7528539597941903360",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 7,
+                "length": 13,
+                "value": {
+                  "com.linkedin.common.HashtagAttributedEntity": {
+                    "hashtag": "urn:li:hashtag:mimmitkoodaa"
+                  }
+                }
+              }
+            ],
+            "text": "Tänään #MimmitKoodaa työpajaporukka CGI:llä teemalla 'Kasvatetaan kokemuskattavuutta tekoälyssä' ja kuvituskuvana 30% ryhmäkattavuudesta 48% ryhmäkattavuuteen meidät johdattanut rakentamamme sovellus. \n\nTänään kerättiin uutena opit kategorioissa: \n- personal application\n- 2nd brain (LLM wiki)\n- token awareness\n- using tools: playwright + drawio\n- reactive agentic development, max 4 concurrent tasks\n- skills\n- local models"
+          },
+          "media": [
+            {
+              "thumbnails": [],
+              "media": "urn:li:digitalmediaAsset:D4D22AQHO4LUznVDY5Q",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "IMAGE",
+          "shareFeatures": {
+            "hashtags": [
+              "urn:li:hashtag:mimmitkoodaa"
+            ]
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794943713868
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794943713833,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"90DC7144D38F7343EEE973FDEB2C6102\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7528539597941903360\",\"configLastUpdatedAt\":1794943713832,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"8D1E388375FF5CB5E92F242448DBC5C8\",\"lastModifiedAt\":1794943713832}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7528539597941903360",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794943713868
+      },
+      "firstPublishedAt": 1794943713868
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7528539597941903360",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "edb7534c-48f7-4a66-8c44-942a7782969b",
+    "processedAt": 1794943744535,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794943714249,
+    "siblingActivities": [],
+    "id": 3353838617
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:share:7528705193723555840",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [
+              {
+                "start": 153,
+                "length": 13,
+                "value": {
+                  "com.linkedin.common.HashtagAttributedEntity": {
+                    "hashtag": "urn:li:hashtag:mimmitkoodaa"
+                  }
+                }
+              }
+            ],
+            "text": "Jokunen viikko sitten huomasin että lempiasiani, jonka puolesta olla vapaaehtoinen toistuvasti tarvitsisi tukea, jonka laajuus ylittää vapaaehtoisuuden. #MimmitKoodaa-ohjelman työntekijä oli taloussyistä lomautettuna. Vapaaehtoisia ohjaamaan ja tukemaan tarvitaan palkkatyötä, ja koen itse vahvasti osallistavaa yhteisöllistä epäonnistumista kun emme rahoitusta ole saaneet järjestettyä. \n\nJoskus aikanaan määrittelin että mun uran seuraavia onnistumisen pisteitä olisi olla asemassa jossa mä voisin vaikuttaa siihen että tärkeimmät jutut saisi rahoitusta. En ole johtajana siihen pisteeseen päässyt, tai oikeastaan, summat joita pääsen tälläisen osalta päättämään ovat liian pieniä palkkaan. Tänään siis pohdinkin että seuraava vapaaehtoisuuden askel sisältöjen tarjoamisen suhteen (eilen tein neljännen eri kurssisisältöni ohjelmassa) on tehdä jotain rahoitukselle. Siinä missä teknologia jakaantuu useammalle, tukirakenteet yhteisölliselle tekemiselle vaativat useampien toimenpiteitä. \n\nOlemme päässeet nauttimaan ohjelman annista vuosia ja työ on ollut todella erityislaatuista, hyviä tekkisisältöjä ja paljon kasvua. Miten saataisiin vielä rahoituksella se tuki joka taustaan tarvitaan?"
+          },
+          "shareMediaCategory": "NONE",
+          "shareFeatures": {
+            "hashtags": [
+              "urn:li:hashtag:mimmitkoodaa"
+            ]
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794983194890
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1794983194890,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"057F0ADF146D9559FD4B8C65080D71CF\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:share:7528705193723555840\",\"configLastUpdatedAt\":1794983194888,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"1638C72F197DCFD945093D6133DAB3C3\",\"lastModifiedAt\":1794983194888}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:share:7528705193723555840",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1794983194890
+      },
+      "firstPublishedAt": 1794983194890
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:share:7528705193723555840",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "21dbc593-13e9-4e4a-99c3-dbeb8045dcf8",
+    "processedAt": 1794983225291,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1794983195088,
+    "siblingActivities": [],
+    "id": 3355074289
+  },
+  {
+    "owner": "urn:li:person:KaHQGBD_CN",
+    "resourceId": "urn:li:ugcPost:7528859054174187520",
+    "method": "CREATE",
+    "activity": {
+      "lifecycleState": "PUBLISHED",
+      "visibility": {
+        "com.linkedin.ugc.MemberNetworkVisibility": "PUBLIC"
+      },
+      "specificContent": {
+        "com.linkedin.ugc.ShareContent": {
+          "shareCommentary": {
+            "attributes": [],
+            "text": "As one of the authors of the syllabus, I am unreasonable by definition in that I expect. So I'd like to calibrate on other people's opinions. What do you think is the study time needed?"
+          },
+          "media": [
+            {
+              "media": "urn:li:poll:7528859052567863297",
+              "status": "READY"
+            }
+          ],
+          "shareMediaCategory": "URN_REFERENCE",
+          "shareFeatures": {
+            "hashtags": []
+          }
+        }
+      },
+      "firstPublishedActor": {
+        "member": "urn:li:person:KaHQGBD_CN"
+      },
+      "author": "urn:li:person:KaHQGBD_CN",
+      "created": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1795019878099
+      },
+      "hasCollaborators": false,
+      "reshareDisabledByAuthor": false,
+      "versionTag": "0",
+      "distribution": {
+        "distributedViaFollowFeed": true,
+        "feedDistribution": "MAIN_FEED",
+        "externalDistributionChannels": []
+      },
+      "contentCertificationRecord": "{\"originCountryCode\":\"fi\",\"modifiedAt\":1795019878088,\"spamRestriction\":{\"classifications\":[],\"contentQualityClassifications\":[],\"systemName\":\"MACHINE_SYNC\",\"lowQuality\":false,\"contentClassificationTrackingId\":\"1638A010783FA2E6DC303E3B7E78B182\",\"contentRelevanceClassifications\":[],\"spam\":false},\"contentCertificationRecordSourceConfig\":{\"contentUrn\":\"urn:li:ugcPost:7528859054174187520\",\"configLastUpdatedAt\":1795019878087,\"ccrEmpty\":true},\"contentHash\":{\"extractedContentMd5Hash\":\"ADDAFFFD9D1A0E8326EE3B23B285A41B\",\"lastModifiedAt\":1795019878087}}",
+      "paidEndorsementContext": {
+        "active": false
+      },
+      "ugcOrigin": "FEED",
+      "id": "urn:li:ugcPost:7528859054174187520",
+      "lastModified": {
+        "actor": "urn:li:person:KaHQGBD_CN",
+        "time": 1795019878099
+      },
+      "firstPublishedAt": 1795019878099
+    },
+    "configVersion": 88,
+    "parentSiblingActivities": [],
+    "resourceName": "ugcPosts",
+    "resourceUri": "/ugcPosts/urn:li:ugcPost:7528859054174187520",
+    "actor": "urn:li:person:KaHQGBD_CN",
+    "activityId": "af3fa704-8e6e-4834-b0e5-c618624545f6",
+    "processedAt": 1795019909399,
+    "activityStatus": "SUCCESS",
+    "capturedAt": 1795019878244,
+    "siblingActivities": [],
+    "id": 3357307713
+  }
+]

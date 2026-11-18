@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch new LinkedIn activity from the Member Changelog API (DMA).
+"""Fetch your new public LinkedIn posts from the Member Changelog API (DMA).
 
 The Member Snapshot API (fetch_member_snapshot.py) gives history up to the time
 you consented; the Changelog API gives everything since, but only for the last
@@ -14,14 +14,15 @@ Usage:
   python3 fetch_changelog.py --rebuild Shares_changelog_20260921-20261005.json
                                                       # rewrite the CSV from a saved JSON, no API call
 
-Output (dates are the first and last event captured, UTC):
-  Changelog_<from>-<to>.json         every raw event (posts, comments, reactions, ...)
-  Shares_changelog_<from>-<to>.json  raw events for your posts (resourceName ugcPosts)
+Output (dates are the first and last post captured, UTC):
+  Shares_changelog_<from>-<to>.json  raw events for your public posts (resourceName ugcPosts)
   Shares_changelog_<from>-<to>.csv   one row per post, latest version, same columns
                                      as Shares.csv in the "Download your data" export
 
 Notes:
   * The endpoint only accepts  Linkedin-Version: 202312 .
+  * The API returns everything (messages, invitations, likes, comments, ...)
+    and cannot filter; only public posts are kept, nothing else is written.
   * startTime is inclusive, so each page re-sends the last event; events are
     de-duplicated by id.
   * If the API returns nothing at all, check that changelog generation is on:
@@ -155,10 +156,19 @@ def write_json(path, records):
     print(f"  wrote {os.path.basename(path)} ({len(records)} events)")
 
 
+def is_public_post(event):
+    if event.get("resourceName") != "ugcPosts":
+        return False
+    if event.get("method") == "DELETE":
+        return True  # carries no content; lets an earlier saved post drop out of the CSV
+    visibility = (event.get("activity") or {}).get("visibility") or {}
+    return "PUBLIC" in visibility.values()
+
+
 def latest_saved_capture(folder):
-    """Newest capturedAt in any Shares_changelog_*/Changelog_*.json already in the folder."""
+    """Newest capturedAt in any Shares_changelog_*.json already in the folder."""
     newest = 0
-    for path in glob.glob(os.path.join(folder, "*hangelog_*.json")):
+    for path in glob.glob(os.path.join(folder, "Shares_changelog_*.json")):
         with open(path, encoding="utf-8") as f:
             for e in json.load(f):
                 newest = max(newest, e.get("capturedAt") or 0)
@@ -193,7 +203,7 @@ def main():
     if args.rebuild:
         with open(args.rebuild, encoding="utf-8") as f:
             events = json.load(f)
-        shares = [e for e in events if e.get("resourceName") == "ugcPosts"]
+        shares = [e for e in events if is_public_post(e)]
         write_shares_csv(os.path.splitext(args.rebuild)[0] + ".csv", shares)
         return
 
@@ -222,27 +232,18 @@ def main():
     print(f"== memberChangeLogs since {utc(start_time) if start_time else f'{WINDOW_DAYS} days ago'}")
 
     events = collect_events(token, start_time)
+    shares = [e for e in events if is_public_post(e)]
     if not args.since and start_time:
-        events = [e for e in events if (e.get("capturedAt") or 0) > start_time]  # already saved
-    if not events:
-        print("  no new events")
+        shares = [e for e in shares if (e.get("capturedAt") or 0) > start_time]  # already saved
+    print(f"  kept {len(shares)} public post events, skipped {len(events) - len(shares)} other events")
+    if not shares:
+        print("  no new posts")
         return
 
     os.makedirs(args.out, exist_ok=True)
-    span = f"{utc(events[0]['capturedAt'], '%Y%m%d')}-{utc(events[-1]['capturedAt'], '%Y%m%d')}"
-    write_json(os.path.join(args.out, f"Changelog_{span}.json"), events)
-    shares = [e for e in events if e.get("resourceName") == "ugcPosts"]
-    if shares:
-        write_json(os.path.join(args.out, f"Shares_changelog_{span}.json"), shares)
-        write_shares_csv(os.path.join(args.out, f"Shares_changelog_{span}.csv"), shares)
-
-    counts = {}
-    for e in events:
-        key = f"{e.get('resourceName')} {e.get('method')}"
-        counts[key] = counts.get(key, 0) + 1
-    print("\n== summary ==")
-    for key, n in sorted(counts.items()):
-        print(f"  {key}: {n}")
+    span = f"{utc(shares[0]['capturedAt'], '%Y%m%d')}-{utc(shares[-1]['capturedAt'], '%Y%m%d')}"
+    write_json(os.path.join(args.out, f"Shares_changelog_{span}.json"), shares)
+    write_shares_csv(os.path.join(args.out, f"Shares_changelog_{span}.csv"), shares)
 
 
 if __name__ == "__main__":

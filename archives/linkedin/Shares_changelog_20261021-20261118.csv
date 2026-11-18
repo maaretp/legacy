@@ -1,0 +1,236 @@
+Date,ShareLink,ShareCommentary,SharedUrl,MediaUrl,Visibility
+2026-11-18 16:37:58,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7528859054174187520,"As one of the authors of the syllabus, I am unreasonable by definition in that I expect. So I'd like to calibrate on other people's opinions. What do you think is the study time needed?",,urn:li:poll:7528859052567863297,PUBLIC
+2026-11-18 06:26:34,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7528705193723555840,"Jokunen viikko sitten huomasin että lempiasiani, jonka puolesta olla vapaaehtoinen toistuvasti tarvitsisi tukea, jonka laajuus ylittää vapaaehtoisuuden. #MimmitKoodaa-ohjelman työntekijä oli taloussyistä lomautettuna. Vapaaehtoisia ohjaamaan ja tukemaan tarvitaan palkkatyötä, ja koen itse vahvasti osallistavaa yhteisöllistä epäonnistumista kun emme rahoitusta ole saaneet järjestettyä. 
+
+Joskus aikanaan määrittelin että mun uran seuraavia onnistumisen pisteitä olisi olla asemassa jossa mä voisin vaikuttaa siihen että tärkeimmät jutut saisi rahoitusta. En ole johtajana siihen pisteeseen päässyt, tai oikeastaan, summat joita pääsen tälläisen osalta päättämään ovat liian pieniä palkkaan. Tänään siis pohdinkin että seuraava vapaaehtoisuuden askel sisältöjen tarjoamisen suhteen (eilen tein neljännen eri kurssisisältöni ohjelmassa) on tehdä jotain rahoitukselle. Siinä missä teknologia jakaantuu useammalle, tukirakenteet yhteisölliselle tekemiselle vaativat useampien toimenpiteitä. 
+
+Olemme päässeet nauttimaan ohjelman annista vuosia ja työ on ollut todella erityislaatuista, hyviä tekkisisältöjä ja paljon kasvua. Miten saataisiin vielä rahoituksella se tuki joka taustaan tarvitaan?",,,PUBLIC
+2026-11-17 19:28:33,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7528539597941903360,"Tänään #MimmitKoodaa työpajaporukka CGI:llä teemalla 'Kasvatetaan kokemuskattavuutta tekoälyssä' ja kuvituskuvana 30% ryhmäkattavuudesta 48% ryhmäkattavuuteen meidät johdattanut rakentamamme sovellus. 
+
+Tänään kerättiin uutena opit kategorioissa: 
+- personal application
+- 2nd brain (LLM wiki)
+- token awareness
+- using tools: playwright + drawio
+- reactive agentic development, max 4 concurrent tasks
+- skills
+- local models",,urn:li:digitalmediaAsset:D4D22AQHO4LUznVDY5Q,PUBLIC
+2026-11-17 11:30:09,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7528419203612221441,"Symptoms of vibe coded web applications: 
+1) two numbers side by side and they don't match
+2) it looks awfully beige
+3) It fails on unusual browsers
+
+I ended up noticing this as someone wanted to ask what I have contributed. Apparently ""testing releases"", which I did at some point. 
+
+Ah yes, this is Robot Framework Browser, I tend to avoid it when an option is given. Which is not always.",,urn:li:digitalmediaAsset:D4D22AQE0BUTKonToPA,PUBLIC
+2026-11-16 15:42:14,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7528120253709709313,"Tutkiva testausote yhdistettynä taidokkaaseen tekoälyn käyttöön, ja tässä on kahden päivän testauksen tulos *suorituskykytestausta pyydettäessä*. Jotta pystyy tutustumaan täysin tuntemattomaan järjestelmään hallitusti, tarvitsee mallintaa järjestelmä toiminnallisilla testeillä. Ja jotta pystyy testaamaan vakuuttavasti kuormaa, se järjestelmä nyt vaan pitää tuntea jollain tasolla. Havainnoista 17/56 koskee kuormaa ja luotettavuutta, mutta siinä sivussa tuli löydettyä muutamia muitakin. 
+
+Tämä ei ole ihan vakiintunein tekoälyn käyttö, vaan yhdistelen muutamaa oivallusta siitä miten oppimisesta pitää kirjaa, ja miten tarina pysyy kasassa ja kasvaa, vaikka opit tulevat vasta tehdessä. Järjestyksellä on merkitystä - ja kaikki tämä on ollut minulle tutkivaa testausta. 
+
+Lopputulos: ""Maaret, haluaisitko myydä meille lisääkin testausta."" :D 
+
+Mä taidan kyllä haluta myydä korjaamista ja yhteistyötä, ja opetusta. Ehkä myös vähän sitä testausta. Sama se millä nimellä sitä kutsutaan ettei käyttäjillä ole ihan niin vaikeaa laadun kanssa.",,urn:li:digitalmediaAsset:D4D22AQGxyu4JmtEjAQ,PUBLIC
+2026-11-13 13:27:45,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7526999246248550401,"""Hei Maaret, meillä olis aika tiukan aikataulun suorituskykytestauksen tarve. Et sattuisi tietämään mistä löytäisimme tyypin. Työt tehtynä viikossa."" 
+
+Ilokseni totean että päivää myöhemmin olen
+- opetellut uuden suorituskykytestauksen työkalun (k6)
+- saanut pääsyt ja profiilit järjestelmään
+- tunnistanut 10 arkkitehtuurillista riskikohtaa ja 5 tärkeintä käyttäjäflowta
+- testannut nämä smoke, baseline ja step -skenaarioilla tuettuihin käyttäjämääriin ja yli
+
+Vielä pitäisi raporttia täydentää extrapolaatiotiedoilla valitsemastani setupista. 
+
+Neljä päivää jäljellä kouluttaa toinen asiantuntija rinnalle, koska tilaisuuksia oppia oikean tekemisen kautta ei ole koskaan liikaa. 
+
+Usein me suunnitellaan asioita liiankin kanssa. Tai no, mä olen suunnitellut tätä tekemistä vuosikymmeniä, jatkuvasti. Sen käsitemallin päälle voi rakentaa tarvittaessa nopeitakin liikkeitä.",,,PUBLIC
+2026-11-13 13:19:25,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7526997150413647872,"There are very few *exceptional* test people, and James Thomas is one of them. He is the kind of person we need in age of AI and the only reason I am not silently knocking on his doorstep with own proposal is that I am geographically challenged. He is in UK.",,,PUBLIC
+2026-11-12 12:18:16,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7526619370748321792,"One of the sessions at #CGIAlignment was different, thanks to Renata Baldissara-Kunnela. For the talk, she had programmed us a tailored experience, that still keeps me thinking about the things that are now possible. 
+
+She started her talk with giving the audience a QR code to an app we all opened in our mobile. Or rather, 50 people in the room opened in our mobile, that means that there would be a few people in the room that didn't. The app was for the acceptance work in a simulated agentic workflow. 
+
+Then we went through an agentic workflow, and related decision making. In a flock of 50 people, the fastest to approve, pause or decline wins, and creates a record. We assume we are all capable and skilled on distinguishing the right decision, and on first agent, I got to be the first of us with a decision of ""tests are green - everything passes"", something I would probably never say in real life. 
+
+Then we simulated attempts to tamper the evidence, change our mind. And discussed the importance of locked, cryptographic evidence on who showed up on a manual step when human was invited to the loop. 
+
+I found the presentation a particularly layered one: 
+
+- It was a showcase of a product Renata has been building, one with visual logs, workflow modeling and cryptographic evidence of human decisions 
+- It was an example of something a tester by trade builds from her domain knowledge with 2 years of full-in-AI learning. 
+- it was a futuristic foundation for a conversation of what humans do in that loop to be in control when agents do more and more of the work
+
+I have followed Renata's work in AI and how she built Alma (memory), a group of test agents, and now a workflow-evidence -chain, with sheer insistence on starting on time at a time when employers weren't all in to allow testers these kinds of transformations. I consider her a small force of nature, and a real inspiration. I feel privileged to have had her share her expertise with us yesterday.",,urn:li:digitalmediaAsset:D4D22AQGYzdMtzZpViA,PUBLIC
+2026-11-11 17:36:39,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7526337106839859201,"Highlight of my #CGIAlignment was the partner who I met when teaching vibe coding for women last spring, with questions about test automation. Less than three hours of us pairing after the course, she was writing Robot Framework tests. Today she has held a position in automation for three months. So proud of her. 💜",,,PUBLIC
+2026-11-11 12:02:53,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7526253112127500289,‘You can’t make your impact visible before you understand it yourself’ Jamina Pöllänen #CGIAlignment,,urn:li:digitalmediaAsset:D4D22AQEgV22hKW343g,PUBLIC
+2026-11-11 08:56:39,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7526206245905764352,"When Taika Tamminen talks about context engineering, this bit here sounds so much like expected results in testing. Optimize the system and context sounds like a value add task a tester background would be very beneficial on. #CGIAlignment",,urn:li:digitalmediaAsset:D4D22AQGURwMxdOhNTQ,PUBLIC
+2026-11-10 20:50:18,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7526023453016219649,"2.5 years. 75 slide decks on CGI template that have seen an audience. The picture is what AI summarized as my thesis across all this material, and what are my core concepts that I work on. Sounds about right. 
+
+Did a bit of cleanup on making sure all of my slides are setting an example for colleagues on sharing theirs, with AI doing work on identifying themes, agreements and disagreements. Disagreements are essential for context-driven testing, to note that there are only good practices in context and we are still, after all the years, figuring out what makes up that context other than people. 
+
+These 75 decks are all classified 'public' and a lot of them as pdfs are available at my speakerdeck profile.",,urn:li:digitalmediaAsset:D4D22AQH2hIk2pDlHWA,PUBLIC
+2026-11-10 17:57:04,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7525979859999969281,"Tomorrow is CGI Alignment, the event in which we figure out how we help AI essential projects deliver with quality through talks and hallway track conversations. My talk is titled 'Increase personal AI coverage', and seeks to diversify our ideas of experience coverage. 
+
+https://lnkd.in/dF7xDCfy
+
+This time we opened our community event for community at large and get to enjoy great company of our colleagues beyond company borders. The same is reflected in our program.",,urn:li:article:9081751155509430796,PUBLIC
+2026-11-10 11:51:33,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7525887869840850945,"""Could you be faster with your testing, like X"". This is an experience that is already past by decided best-before date of sharing experiences from stage (5 years), but LinkedIn is not a stage, and something recent prompted me to share this one. 
+
+Because, we get asked now in age of AI if we can be 4 times or 10 times faster. And it's a hard question to respond. 
+
+Testing is an investment into information. To be faster with investment that shows up as time on task, you are faster when you just use less time. To maintain same level of results while being faster, that one depends on what results would be need to produce, and that is hardly standardized.
+
+When that was asked of me back in the days, it was asked in comparison to another tester who was so fast. He completed tens of test cases in time when I couldn't finish one, and I was asked to be faster. We both tested installations. 
+
+We compared notes. His criteria on passing a test was *no visible error messages*. Mine was a lot more detailed, and I got to find the problems where whole parts of the application never got installed - silently. 
+
+You set the bar. Both are testing. Speed may not be the first dimension you seek. Great results are the foundation worth speeding up.",,,PUBLIC
+2026-11-10 11:34:13,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7525883511287836672,"Sitä olis taas testaushommia tarjolla, mutta pitäisi osata: 
+- ryhmätyö ohjelmistokehitystiimissä
+- nähdä virheitä ilman että joku muu osoittaa missä ne ovat 
+- automatisoida ilman että joku muu määrittelee ensin skenaariot
+- pyytää AI:lta apuja tuottavalla, tehostavalla ja tuotoksia parantavalla tavalla
+
+Yllättävän haastava profiili että olisi kokemusta 5+ vuotta ja osaisi nämä kun laitetaan tekemään. Ehkä se johtuu siitä että tätä ei edelleenkään opeteta kouluissa eikä työpaikoilla, ja taidot oppii itsenäisesti tai puolivahingossa. 
+
+Jos meidän pitäisi jutella siitä että hommia vois tehdä, niin saapi laittaa viestiä.",,,PUBLIC
+2026-11-09 17:26:55,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7525609881685643264,"We have described this in exploratory testing for longer than I can remember: the most important outcome of a test performed is a better tester. Learning is at the center. The commodity testers chipping through someone else's test cases, without a strong sense of agency didn't do well with testing. Focus on artifacts created theater, rather than results. 
+
+We see this pattern now in scale with AI. We have people doing tasks without that sense of agency and learning, outsourcing the very thing we should invest in, *better people*, into a piece of software. We become operators, rather than builders of sociotechnical feedback systems where the right set of skills in people is most important output. 
+
+We are still very much figuring out what the skills we need to build and maintain are, and what aspects we can relearn at will, and where atrophy is temporary. I had one of those deeper conversations today, and drew up a silly little sketch to look at to think about it some more. 
+
+What is the best way to support learning in people while using AI? Reading walls of text isn't. We can't digest something like that. Searching from wall of texts where everyone picks what they find useful leaves the reconciliation of everything that created an expectation to the end, and tends to be a route to disappointment.",,urn:li:digitalmediaAsset:D4D22AQHo_jON3WdCJg,PUBLIC
+2026-11-06 05:56:42,https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A7524349021419917312,"I've been doing performance reviews for the last two weeks, and this one really hits the mark on how you should think about it. Your career is too important to be left just for your manager. Make that a conversation where you drive your career by understanding that looking back, it is indeed a return on investment review, and looking forward, it drives both better investment for both the company and you.",,,PUBLIC
+2026-11-05 09:31:32,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7524040696560017409,"Eilisen konferenssin käytäväkeskusteluista poimittuna muutos siinä miten toimimme yhteisöllisesti oman työyhteisömme eteen ja monissa organisaatioissa näkyvä ""mihin piikkiin nää tunnit saa kirjata"" -keskustelu kun järjestetään yhteisöllistä oppimistoimintaa työajan ulkopuolelle. Joskus aikanaan nuorena tieteenharjoittajana oli ihan selvää että iso osa oppimisesta kuului omalle ajalle. Ja jossain kohtaa se ympäröivässä maailmassa muuttui, vaikka itse ei ehkä kasvanutkaan samaan suuntaan. 
+
+Konferenssien parasta antia on käytäväkeskustelut, ja ne on vielä parempia jos niille on järjestelmätuki eli voi tehdä kaikille näkyväksi että tässä sohvaryhmällä *kaikki on tervetulleita mukaan* ja juuri nyt aiheena on se että miten järjestetään huippuhyviä osaamiseen jakamiseen erikoistuneita konferensseja. Nehän on vähän kuin nyyttikestit, eli osallistujien pitää tuoda osansa saadakseen osansa, eikä tulla katettuun pöytään (puheenvuorot). 
+
+Käytäväkeskustelut muistuttivat myös että aikaan jolloin olin konferenssimuotoilija, kehitin merkittävässä määrin yhteisöllisen konferenssin rakenteita tutustuttamisen, yhdistämisen, ja löydettävyyden osalta. Sitä voisi olla kiva joskus tehdä uudelleenkin. Mutta koska tehtävät on usein interim, tänään ei ole sen aika. Tänään voi vain toivoa että meissä on vielä kaikissa riittävästi nyyttärihenkeä kun puitteet on tarjolla.",,urn:li:digitalmediaAsset:D4D22AQHln61yu1vPhQ,PUBLIC
+2026-11-05 05:21:18,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7523977725494108161,"Realization from conference attendance yesterday was that too little has changed at large. The corners of better in testing are not wide spread. We report, sometimes year after year that:
+
+- regression testing can be made more efficient by planning it around what people consider key features and giving it less time comfortably with that sense of control
+- testers end up in their profession with little to none of training, and even the added training is on the importance / process, rather than the content of it
+- our engineering environments are in a bad shape as agreeing on the logistics of how things emerge need to be agreed with so many parties
+- AI can do a whole day of detailed test analysis *after we know to ask for the analysis* in matter of minutes, and we see ourselves as test task executors rather than coordinators, challengers, improves and builders of sociotechnical test systems
+
+Instead of solving any of these, we share the pain. We turn the pain to competition. We become a community for therapy, rather than solutions. 
+
+I'm sure all the work did a dent somewhere. Yet we lack that sense of thematic, cross-cutting improvement. 
+
+I discussed hopeful options of coming together again around research with one of the participants, and some hope like that feels necessary to me.",,,PUBLIC
+2026-11-04 20:05:08,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7523837761439776768,"One of the more sticky talks I listened to years ago was on what *attribution* did in research. When new set of dinosaur bones were found, you were lucky if they were essentially different, because you got written into history as someone who identified a species, and could name it. Until someone started wondering: why are there no baby dinosaurs?
+
+From that curiosity, we learned that 5/12 identified types of dinosaurs did not exist, they were merely the adolescent / aged variants of the same types.
+
+Today I am sharing on this since we are in a place of naming new dinosaurs with our agents. Comparing products is harder, and comparing skills within our common purpose AI harnesses is even harder. We all want to be identifying new dinosaurs, so that we could name them. We are working in isolation, in competition, for credit, rather than solving an industry challenge together as a community. 
+
+There's a shift needed from towards classifying, seeing similarities and differences, and differences that are results of comparing adolescent / mature versions of the same. Is it possible that the great-new-tool / great-new-skill you just packaged is one of those dinosaurs that just confuse the classification that would help us solve the problems these things are supposed to help us with?",,urn:li:digitalmediaAsset:D4D22AQH25adRHENX9Q,PUBLIC
+2026-11-04 06:03:00,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7523625830552514560,"Today at Testing Assembly, you'll find me at track 2, 3rd floor. Will even speak for a short moment when Arya isn't, and listening intently throughout the day. :)",,urn:li:digitalmediaAsset:D4D22AQGsnSK0ZnjuVw,PUBLIC
+2026-11-03 07:14:40,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7523281474586832896,"Collecting and comparing slide-making AI tools. I've been specializing in hearing about the developer-tool focused skills that people have created, collecting them and trying them out, usually to my great dissatisfaction. Last Thursday's open space added one more tool on my list of *not quite what I want for making my slides* as I tried out ChatGPT for powerpoint, and was underwhelmed. 
+
+I made a note then to go back checking what did the one slide end up costing me, other than wait time and a poor result from poor inputs: 13 credits. If a usual monthly allowance is 300, this would allow me 23 attempts to a better slide. It did not save me time, it was slower than I would be on the usual style of creating slides from example illustrations overlaying my own messages. 
+
+For me, AI generated slides have lead me to the idea of going slideless. The experiments mostly drive through the point on how wasteful writing slides for work is, and how the value of slides goes down the less we think about them for their purpose of existence and content. 
+
+I will still use the developer-tool focused tooling on whatever help I invite for slides. They all look awfully same, but that we can tweak in the skills when we have access to them, rather than have them packaged.",,urn:li:digitalmediaAsset:D4D22AQFyJtQTVG9__A,PUBLIC
+2026-11-02 18:23:00,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7523087282229264384,"Talk on Wednesday: how teaching AI in testing for Aryadevi Neelakantabhattathiri lead to realizing that we have been taught about testing differently, and that good results with AI seem to be connected with an essential change in how we think about testing. 
+
+https://lnkd.in/dhJKrwQb",,urn:li:article:8065886506378421662,PUBLIC
+2026-11-01 09:18:50,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7522587951122341888,"People can now do things by asking for it. But knowing what to ask for isn't a commonly available trait. We had a conversation on this with Aryadevi Neelakantabhattathiri in our preparation for our mutual talk at Testing Assembly next week. 
+
+We know know how to ask for :
+- bug fixes (and tests that reproduce the problem before the fix)
+- test automation that documents our testing intent (and replenishes the latest status on demand)
+- properties that get monitored for all of our tests
+- mutations that tests if our tests will notice when the application is intentionally, programmatically broken
+
+Knowing your test techniques by name has never been as important as it is now, to get a fuller picture of the quality we are building towards.
+
+For illustration mutation tests (Stryker) of my single playwright with properties demo tests. This was part of a demo to show why we still want random walks with properties over a single example clicking through the application.",,urn:li:digitalmediaAsset:D4D22AQGCCLJ-Cqt4lQ,PUBLIC
+2026-10-29 21:26:28,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7521683901799460864,"I learned one thing in particular from the conversations I was a part of in the open space at work today: the tool-and-token-based sandbox between knowledge workers and builders is just as essential as I thought to change majority experiences with AI. Knowledge workers hit the sandbox on almost all of their aspirations of improvement. 
+
+This leaves organizations with a choice: going the route leaving people in that sandbox, or going the route of breaking out of that sandbox. On the first, we should build new processes and tools, where AI enhances work by predesigned integrations. On the latter, we enable people to build those new processes and tools. 
+
+The conversations in the builder box are on a whole different level. The gap between those who build and those who use is is wider.",,,PUBLIC
+2026-10-28 16:40:41,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7521249592395530240,"We (my business unit at work) have an open space event tomorrow on AI experience cross-pollination!  I am excited, for many things. The idea of a participant-build agenda mixed with fear of too many people hoping for someone else told hold the space. But also the three topics I have decided to hold space for: 
+
+I will share about using LLM wikis and harness-based interviewing for a learning structure, with three cases: our steering group meeting practice AI-fication; what finally worked for AI-assisted specification to acceptance (""Living common ground""); and how to turn a conversation to client offer slides (""Pursuit factory""). 
+
+I will share about AI-experience diversifying with 30 categories of experiences as coverage metric, and how our I have now sampled 40 people out of our business unit's crowd and know where we're at and how we should grow next. And I know this for a few clients too, similar sampling projects done, and can cross-pollinate the best of what we have learned to do. 
+
+I will share about Software Intelligence Mesh Property-based Testing Slice, and how we repeatedly are finding problems in proofs of concept that projects missed, without burning tokens for AI testing continuously, turning this to repeatable deterministic tests with more power. 
+
+Since we have only three time slots to schedule into, by tomorrow I will decide if I do all three or choose to join someone else's session(s). And I love the fact that I can overproduce and prioritize on how I feel *tomorrow*, without sticking to the plan of what I must prep for. 
+
+Open spaces are awesome. And organizations making space for open spaces are my kind of organizations.",,,PUBLIC
+2026-10-27 06:12:18,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7520729067093118978,Join us on November 11th?,,,PUBLIC
+2026-10-27 06:09:06,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7520728261275062272,"Remember Lean and types of Waste in Software Development. I got back to staring at the image being reminded on what they were, as I was thinking about the challenge of costs staying on same / similar levels even with AI in SDLC. 
+
+Not sure how lean we want to trim teams into, because requirements emerge from inherently human connections rather than land ready and defined. There is a reason we see fastest movement now with people who aren't solving problems for others, but who are experts of their own problems.",,urn:li:digitalmediaAsset:D4D22AQG4GUgmkrjjug,PUBLIC
+2026-10-26 17:39:44,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7520539677506818048,"My 1st AI First project hit production today, and I am deep in reflection mode. There are aspects to it that I consider absolutely successes:
+
+- the use of AI for quality purposes raised the quality and ease of achieving quality. Traditional approaches to risks to quality would have taken a lot more effort, and the risk-driven application of AI on answering quality concerns worked really well, raising the bar. 
+
+- the split of one big delivery to two incremental deliveries. Again, managing of risks was deemed more important than betting on absolute efficiency in delivery. 
+
+- the 3-5x effort without as estimated by developers. 
+
+- learned about the phenomena of time being saved only if there is other work to do while time is being saved
+
+However, being the empiricist that I am, I go for opposing evidence: 
+
+- reporting 3-5x effort savings in hindsight, while reporting 0.8x effort in estimation means I would not trust either
+
+- realistically I (and the boardrooms) was hoping for a clearer indicator of bottom line savings than I was able to deliver. 
+
+- people change their ideas slowly, and having people in delivery who are changing their ideas as we are delivering may be a significant factor. 
+
+Then again, I hear this in the experiences all around: we don't see impact of AI at large in the bottom lines. So while some work becomes easier, other work emerges that fills same amount of time, for now. 
+
+I take this as a challenge to figure out what would need to be different to see truly different results - while retaining quality.",,urn:li:digitalmediaAsset:D4D22AQESW0NfYsk5wQ,PUBLIC
+2026-10-26 05:47:53,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7520360535989764096,"I'm intimidated by the fixed price projects. I feel like this is a confession, but it comes from an experience of being on the suffering side of promising something is smaller than it should have been. So I played with AI-sketching, to think through the problem. 
+
+If at the start of the project it feels like the size of it was a third of what it should have been, what do you do as a developer/tester in the team? Assume it's someone else's problem? 
+
+If then we carefully specify, using a reasonable amount of time on specifying thinking in terms of the size of the real project, but a significant portion of the size of the project now, and only find a little that is outside scope - and also size those optimistically, we delay the conversation. 
+
+When we then hit the mark where we're operating at a loss, a conversation is necessary. 
+
+These kinds of situations are lose-lose. I feel like I have seen this pattern a little too much in my life to feel comfortable with fixed prices where there isn't a significant buffer. And now that the fixed price conversations start with the ""AI makes this smaller"", I wonder if I will see this even more than before.",,urn:li:digitalmediaAsset:D4D22AQHYCvsHZSBTug,PUBLIC
+2026-10-24 09:34:27,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7519692777480204288,"“Women are judged on their performance, and men are judged on their potential.”
+
+I saw this run by my wall, just as I'm appreciating on being judged to exceed expectations second consecutive year in a row, and I'm nowhere near the potential. I feel lucky to reside in a bubble where I can mostly exist as I am, performance and potential and all, and no longer stick out like a sore thumb on every occasion for just having to be woman. 
+
+What I still worry about though, is neither performance nor potential, but the effort for same performance. There still would seem to be a tax of expectations, including the punishment for bragging on our achievements.",,,PUBLIC
+2026-10-23 13:58:00,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7519396710226477056,"Testing insights for the agentic era, session 3 was today. This is fascinating to me as while the pairs of people I am teaching are working on their breakouts, I am doing the same solo in the main room, and me on same problems many times still manages to teach me where my options expire. 
+
+This session was about experiencing what change in applications while testing does to our abilities to test, and particularly how changing quality impacts our testing. 
+
+In my 40 minutes solo, I:
+- tested two versions of the same application
+- found more than 40 problems AND fixed them
+- researched how (c) notation works and if/when it matters
+- corrected two fixes that I did incorrectly
+- wrote 115 playwright tests, completing them by asking for things I had seen that should be areas with a spec from the fixes I had already worked on (locking tests)
+- explored three browsers with the playwright tests to find cross-browser problem (1)
+
+Learned one really cool thing from the people at my course: the domain of magic is really hard to research, while the domain of pricing can clearly be oversimplified to real-world requirements. What a cool crowd, and I keep summing up after every session: they know how to test, the question always comes down to *why aren't we taking the time* when AI makes us feel like we need to be fast to be able to say that ""development is so fast that testing is now the bottleneck"". Remember, there's a typo in that sentence and almost every time you feel like saying ""testing"", you should fix it to ""fixing"". Creating bad quality makes fixing quality a bottleneck and saying it like it is helps address the actions we agree on.",,urn:li:digitalmediaAsset:D4D22AQE9HfT_UUjFRg,PUBLIC
+2026-10-23 03:28:18,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7519238243499012096,"Last week at PNSQC in social software testing class, we explored Christine Pinto's Enchanted Brew Shop in an ensemble. The session had a few outcomes surprising to me: 
+
+1. With permission to ""fix bugs through reporting them with AI"", we ended up adding two features that weren't there: the light/dark UI mode (because the projector contrast made work impossible otherwise) and limit + multiple potions of the week. 
+
+2. Feature around limit + number of potions took significant time to discover, as we did not stop to create the spec, but we discovered limitations of what we asked for with each separate ask at a time. 
+
+3. Executable specification we generated around potion of the week left rest of the application without tests. The choice felt intentional, and controlled. The group took single test / single aspect to whole feature in building up the spec modeling the application really well. 
+
+Every time I work with this exercise, something new unfolds.",,urn:li:digitalmediaAsset:D4D22AQF5nePYEvwM3A,PUBLIC
+2026-10-22 21:01:26,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7519140885847040001,"Quality Beacon -conference experience was exceptional in a few ways. That is, all conferences tend to have good talks that drive both thinking and change - features and futures, as I happened to learn to frame things in days while there.
+
+1) they compensated the travel as soon as it incurred - months out of pocket to speak at conferences is a financial burden speakers carry, and the burden is a lot for us regular employed single-income heads of households. I appreciate the world of them for understanding and action. Needing that carries shame and shame impacts the voices we learn from. 
+
+2) Gifting me new random people of the internet as friends. That is, speaker gift was chocolate that I’m allergic to, but that made me dare to go talk to two brilliant people from Aarhus university to gift them further, and learn about how great they are - now also connected here with a mutual story. That chocolate was fancy, and over the years I’ve acquired significant benefits through regifting chocolate (and alcohol) strategically. 
+
+3) The conversation cards at the sofas. Even if I made an impression on arguing on architecture-aware testing when discussing a storyline of ‘AI gives you 7 as random number as not all AI, holding my ground on perspective on harness engineering to a degree that made bystanders take note, the hallway track facilitation through this cards approach was just brilliant.
+
+The socials throughout the day were brilliant. Denmark can be proud of how their community of testing feels so inclusive even when half the talks are ciphered into Danish. People. 💜",,,PUBLIC
+2026-10-22 04:07:43,https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A7518885772511301632,"I am #8 on category Global on luvo100 list. This is a new list (to me) and the description they had gathered up was thoughtful. https://lnkd.in/dXcAxWhV
+Cem Kaner on this list, post-retirements as #2 delighted me in particular. In last two weeks I’ve re-read his work, delighted in how AI makes some of his research directions from 13 years ago practical today, and marveled at the amount of people at conferences who attribute his work as the platform we’ve built our testing on.",https://luvo100.com/people/maaret-pyhajarvi,urn:li:article:8378291018047732906,PUBLIC

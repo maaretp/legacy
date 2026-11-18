@@ -128,7 +128,7 @@ archive current.
 
 `fetch_changelog.py` (in this folder) uses the same token as the snapshot script.
 By default it continues from the newest event already saved in a
-`Shares_changelog_*.json` / `Changelog_*.json` here. Run it at least every four
+`Shares_changelog_*.json` here. Run it at least every four
 weeks, or the oldest events fall out of the 28-day window.
 
 ```sh
@@ -144,8 +144,9 @@ python3 fetch_changelog.py --since 2026-10-20
 python3 fetch_changelog.py --check-authorization
 ```
 
-Writes `Changelog_<from>-<to>.json` (every event: posts, comments, reactions…)
-plus `Shares_changelog_<from>-<to>.json` and `.csv` for your posts. The CSV has
+The API returns all activity (messages, invitations, likes, comments…) and
+cannot filter, so the script keeps only your public posts and writes nothing
+else: `Shares_changelog_<from>-<to>.json` and `.csv`. The CSV has
 the same columns as `Shares.csv` in the "Download your data" export, with one row
 per post (edits replace the earlier version). `--rebuild <json>` rewrites a CSV
 from a saved JSON without calling the API.
